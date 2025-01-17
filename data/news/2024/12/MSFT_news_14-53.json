@@ -1,0 +1,101 @@
+{
+    "title": "7 Dow Jones Dividend Stocks that Underperformed the S&P 500 This Year but Are Buys for 2025",
+    "url": "https://www.fool.com/investing/2024/12/24/7-dow-jones-dividend-stocks-buy-2025/",
+    "time_published": "20241224T145300",
+    "authors": [
+        "Daniel Foelber"
+    ],
+    "summary": "The Dow Jones Industrial Average is chock-full of industry-leading blue chip stocks -- many of which pay dividends. But the Dow tends to underperform the S&P 500 during growth-driven rallies when investors pile into companies based on their potential.Investors looking for established companies ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801884%2Fgettyimages-1349931690-1200x800-5b2df79.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999996"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.890401"
+        }
+    ],
+    "overall_sentiment_score": 0.280465,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.3007",
+            "ticker_sentiment_score": "0.336562",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.034233",
+            "ticker_sentiment_score": "0.109503",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CVX",
+            "relevance_score": "0.23615",
+            "ticker_sentiment_score": "0.282138",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "KO",
+            "relevance_score": "0.203215",
+            "ticker_sentiment_score": "0.146884",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MDNDF",
+            "relevance_score": "0.3007",
+            "ticker_sentiment_score": "0.256652",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "V",
+            "relevance_score": "0.363147",
+            "ticker_sentiment_score": "0.35815",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "PG",
+            "relevance_score": "0.169915",
+            "ticker_sentiment_score": "0.161666",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "BBY",
+            "relevance_score": "0.034233",
+            "ticker_sentiment_score": "0.213637",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NKE",
+            "relevance_score": "0.3007",
+            "ticker_sentiment_score": "0.151685",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

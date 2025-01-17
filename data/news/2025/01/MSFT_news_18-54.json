@@ -1,0 +1,97 @@
+{
+    "title": "AMD and Nvidia Overtake Intel in Key Markets, Challenging Its Leadership - Intel  ( NASDAQ:INTC ) ",
+    "url": "https://www.benzinga.com/25/01/42826372/intel-struggles-to-compete-with-amd-and-nvidia-in-data-centers-and-ai-chips",
+    "time_published": "20250106T185420",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "U.S. Chips Act beneficiary Intel Corp's INTC crisis appears to be worse than expected, as companies ranging from Nvidia Corp NVDA and smaller rivals, erstwhile partners like Microsoft Corp MSFT rush to nab Intel's market share that is critical for its profitability.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/06045820/newplot-1-1.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.684621"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.04854,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.188683",
+            "ticker_sentiment_score": "-0.102923",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.188683",
+            "ticker_sentiment_score": "-0.134659",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.188683",
+            "ticker_sentiment_score": "-0.107632",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.797056",
+            "ticker_sentiment_score": "-0.032712",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.366961",
+            "ticker_sentiment_score": "-0.015347",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.30928",
+            "ticker_sentiment_score": "0.095558",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.063425",
+            "ticker_sentiment_score": "0.056722",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.12645",
+            "ticker_sentiment_score": "-0.060068",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.12645",
+            "ticker_sentiment_score": "-0.128568",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

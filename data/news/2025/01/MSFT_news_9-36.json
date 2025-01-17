@@ -1,0 +1,30 @@
+{
+    "title": "Should You Buy Microsoft Stock Right Now in 2025?",
+    "url": "https://www.fool.com/investing/2025/01/05/should-you-buy-microsoft-stock-right-now-in-2025/",
+    "time_published": "20250105T093600",
+    "authors": [
+        "CFA",
+        "Parkev Tatevosian"
+    ],
+    "summary": "Microsoft ( NASDAQ: MSFT ) stock has benefited from the rising effectiveness of artificial intelligence.*Stock prices used were the afternoon prices of Jan. 1, 2025. The video was published on Jan. 3, 2025.Continue reading ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802875/msft.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": -0.396334,
+    "overall_sentiment_label": "Bearish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.904419",
+            "ticker_sentiment_score": "-0.62334",
+            "ticker_sentiment_label": "Bearish"
+        }
+    ]
+}

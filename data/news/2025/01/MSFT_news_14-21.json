@@ -1,0 +1,65 @@
+{
+    "title": "Want $1 Million in Retirement? Look at 3 Simple Index Funds to Buy and Hold for Decades.",
+    "url": "https://www.fool.com/investing/2025/01/14/want-1-million-in-retirement-3-simple-index-funds/",
+    "time_published": "20250114T142100",
+    "authors": [
+        "James Brumley"
+    ],
+    "summary": "Sometimes, doing less is more, and simpler is also better. That's particularly true when it comes to investing.",
+    "banner_image": "https://media.ycharts.com/charts/79855219542c17c6a480675fc3affc5a.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998333"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.258732,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.040011",
+            "ticker_sentiment_score": "0.137742",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.040011",
+            "ticker_sentiment_score": "0.137742",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GDDY",
+            "relevance_score": "0.040011",
+            "ticker_sentiment_score": "0.075461",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.159043",
+            "ticker_sentiment_score": "0.129978",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LII",
+            "relevance_score": "0.040011",
+            "ticker_sentiment_score": "0.075461",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

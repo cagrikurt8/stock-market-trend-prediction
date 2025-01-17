@@ -1,0 +1,77 @@
+{
+    "title": "Should You Buy the Dip in Nasdaq ETFs?",
+    "url": "https://www.zacks.com/stock/news/2397733/should-you-buy-the-dip-in-nasdaq-etfs",
+    "time_published": "20250115T190000",
+    "authors": [
+        "Sanghamitra Saha"
+    ],
+    "summary": "Wall Street wavers due to speculation that the Fed may pause rate cuts amid a strong economy and higher inflation.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default74.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.682689"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Economy - Macro",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.145117,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.391352",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.084423",
+            "ticker_sentiment_score": "0.244308",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.391352",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.084423",
+            "ticker_sentiment_score": "0.244308",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.249531",
+            "ticker_sentiment_score": "0.067369",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

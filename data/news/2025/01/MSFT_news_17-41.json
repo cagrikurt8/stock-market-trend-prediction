@@ -1,0 +1,55 @@
+{
+    "title": "3 Software Stocks to Keep an Eye on Amid Industry Headwinds",
+    "url": "https://www.zacks.com/commentary/2392737/3-software-stocks-to-keep-an-eye-on-amid-industry-headwinds",
+    "time_published": "20250107T174100",
+    "authors": [
+        "Vaishali Doshi"
+    ],
+    "summary": "Amid volatile macroeconomic conditions, Computer Software industry participants like ADSK, BB and SLP are well-poised to capitalize on digital transformation and strong adoption of cloud computing solutions.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/43/1261.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972476"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.684621"
+        }
+    ],
+    "overall_sentiment_score": 0.267274,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "BB",
+            "relevance_score": "0.183546",
+            "ticker_sentiment_score": "0.138937",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.023146",
+            "ticker_sentiment_score": "0.047819",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ADSK",
+            "relevance_score": "0.115343",
+            "ticker_sentiment_score": "0.063664",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SLP",
+            "relevance_score": "0.206001",
+            "ticker_sentiment_score": "0.160698",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

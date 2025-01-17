@@ -1,0 +1,71 @@
+{
+    "title": "Google Entered 'Code Red' After ChatGPT Release, But Gemini 2.0 And Quantum Chip Give Investors 'Renewed Confidence,' Says This Portfolio Manager - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
+    "url": "https://www.benzinga.com/24/12/42641018/google-faced-intense-scrutiny-post-chatgpt-leading-up-to-declaring-code-red-but-gemini-20-and-quantum-chip-gives-",
+    "time_published": "20241223T071649",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "Alphabet Inc.'s GOOG GOOGL latest advancements in artificial intelligence and quantum computing are helping the tech giant rebuild its reputation and investor confidence. What Happened: After the release of OpenAI's ChatGPT in late 2022, Google had reportedly declared a \"Code Red,\"",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/23014217/Screenshot-2024-12-23-at-12.12.07%E2%80%AFPM-1024x378.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.321956,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.250386",
+            "ticker_sentiment_score": "0.003921",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AB",
+            "relevance_score": "0.084722",
+            "ticker_sentiment_score": "0.158217",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.47672",
+            "ticker_sentiment_score": "0.481237",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.250386",
+            "ticker_sentiment_score": "0.309656",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.084722",
+            "ticker_sentiment_score": "0.25249",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PTAIF",
+            "relevance_score": "0.084722",
+            "ticker_sentiment_score": "0.087097",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

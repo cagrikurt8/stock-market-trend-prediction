@@ -1,0 +1,61 @@
+{
+    "title": "Elon Musk Emerges As Potential TikTok US Buyer As Ban Deadline Looms, Company Terms It 'Pure Fiction' - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
+    "url": "https://www.benzinga.com/general/social-media/25/01/42965533/elon-musk-emerges-as-potential-tiktok-us-buyer-as-ban-deadline-looms-company-terms-it-pure-f",
+    "time_published": "20250114T024611",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "Chinese officials are considering Tesla Inc. TSLA CEO Elon Musk as a potential buyer for TikTok's U.S. operations, as the social media platform faces a Jan. 19 deadline to divest or shut down.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/13/TikTok.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.159803,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.025753",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.295867",
+            "ticker_sentiment_score": "0.083068",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.061047",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.025753",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

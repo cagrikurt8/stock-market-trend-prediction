@@ -1,0 +1,33 @@
+{
+    "title": "Microsoft Plans To Slash Jobs Again: 'When People Are Not Performing, We Take The Appropriate Action' - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/25/01/42890164/microsoft-to-slash-jobs-as-it-prioritizes-high-performance-talent-when-people-are-not-performing-we-take-the-appr",
+    "time_published": "20250109T020338",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "Microsoft Corporation MSFT plans to reduce its workforce, targeting employees not meeting performance expectations. What Happened: A spokesperson for Microsoft confirmed the upcoming job cuts to Business Insider but did not specify the number of employees affected.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/08/microsoft-shutter.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.113947,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.900307",
+            "ticker_sentiment_score": "0.08395",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

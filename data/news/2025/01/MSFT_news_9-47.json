@@ -1,0 +1,101 @@
+{
+    "title": "The Stock Market Just Did Something It Hasn't Done Since the Dot-Com Bubble in 1998. Here's What Could Happen in 2025.",
+    "url": "https://www.fool.com/investing/2025/01/04/the-stock-market-did-the-dot-com-1998-happen-2025/",
+    "time_published": "20250104T094700",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) delivered a total return ( including dividends ) of 25% in 2024, which followed a gain of 26% in 2023. The index only delivered back-to-back annual returns of at least 25% on one other occasion since it was established in 1957.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802599%2Fgold-bull-and-bear-figurines-placed-on-top-of-a-smartphone-with-a-stock-trading-app-on-the-screen.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999896"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.938793"
+        }
+    ],
+    "overall_sentiment_score": 0.143429,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.042876",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SERV",
+            "relevance_score": "0.085629",
+            "ticker_sentiment_score": "0.176111",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.042876",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.128135",
+            "ticker_sentiment_score": "0.086457",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.042876",
+            "ticker_sentiment_score": "0.211161",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.042876",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.042876",
+            "ticker_sentiment_score": "0.211161",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.042876",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.042876",
+            "ticker_sentiment_score": "-0.117578",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "GROUPIRA Launches Cutting-Edge Platform to Transform IRA Rollovers with Microsoft Azure",
+    "url": "https://www.benzinga.com/pressreleases/24/12/g42694064/groupira-launches-cutting-edge-platform-to-transform-ira-rollovers-with-microsoft-azure",
+    "time_published": "20241226T204000",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "TACOMA, Wash., Dec. 26, 2024 ( GLOBE NEWSWIRE ) -- GROUPIRA®, INC. ( GROUPIRA® ) , a leader in financial technology innovation, proudly announces the launch of GROUPIRA® 5.0, a groundbreaking platform designed to revolutionize individual retirement account ( IRA ) rollovers for its channel ...",
+    "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.434078,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.219809",
+            "ticker_sentiment_score": "0.390556",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "DOCU",
+            "relevance_score": "0.110973",
+            "ticker_sentiment_score": "0.264098",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

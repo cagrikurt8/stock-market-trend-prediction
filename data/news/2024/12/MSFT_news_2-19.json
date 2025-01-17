@@ -1,0 +1,63 @@
+{
+    "title": "Apple's Near Term Success Will Be Driven By Strong Holiday Season, iPhone 16, Says Dan Ives - Analyst Sees Stock Hitting $300, Cupertino Hitting $4 Trillion Marketcap - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",
+    "url": "https://www.benzinga.com/markets/equities/24/12/42664887/apples-near-term-success-will-be-driven-by-strong-holiday-season-iphone-16-says-dan-ives-analyst",
+    "time_published": "20241224T021954",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "Apple Inc. AAPL is on track to become the first company to reach a $4 trillion market capitalization by \"early 2025,\" driven by strong iPhone sales and artificial intelligence innovations, according to Wedbush Securities analyst Dan Ives.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/23202742/Screenshot-2024-12-24-at-6.57.03%E2%80%AFAM-1024x376.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.929393"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.295276,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.164468",
+            "ticker_sentiment_score": "0.127722",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.244518",
+            "ticker_sentiment_score": "0.216539",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.649828",
+            "ticker_sentiment_score": "0.335771",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.082677",
+            "ticker_sentiment_score": "-0.043829",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Brokers Suggest Investing in Microsoft  ( MSFT ) : Read This Before Placing a Bet",
+    "url": "https://www.zacks.com/stock/news/2386856/brokers-suggest-investing-in-microsoft-msft-read-this-before-placing-a-bet",
+    "time_published": "20241223T143011",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "The average brokerage recommendation (ABR) for Microsoft (MSFT) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+    "banner_image": "https://staticx-tuner.zacks.com/images/yesopchart/brokerage_bar/MSFT_12232024.png",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.890401"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.459462"
+        }
+    ],
+    "overall_sentiment_score": 0.284334,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.363768",
+            "ticker_sentiment_score": "0.172996",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

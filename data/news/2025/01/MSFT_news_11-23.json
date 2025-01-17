@@ -1,0 +1,53 @@
+{
+    "title": "2025 Is Here. 4 Things Every Investor Should Do to Be Ready for Whatever Happens in the Stock Market This Year.",
+    "url": "https://www.fool.com/investing/2025/01/08/2025-is-here-4-things-every-investor-should-do-to/",
+    "time_published": "20250108T112300",
+    "authors": [
+        "Jennifer Saibil"
+    ],
+    "summary": "We just finished another blowout year for the market, with the S&P 500 ( SNPINDEX: ^GSPC ) up more than 20% for the second year in a row. Market momentum is high as inflation and interest rates are both changing direction, and consumer spending remains strong.Can the market keep it up in 2025?",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802743%2Fa-person-getting-ready.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.744043"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.346745,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.054857",
+            "ticker_sentiment_score": "0.316999",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.054857",
+            "ticker_sentiment_score": "0.185887",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.054857",
+            "ticker_sentiment_score": "0.185887",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

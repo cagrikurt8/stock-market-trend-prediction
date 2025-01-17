@@ -1,0 +1,59 @@
+{
+    "title": "Nvidia's Investments In Elon Musk's xAI, Perplexity, OpenAI, And Other Startups Crossed $1 Billion Mark In 2024 - Advanced Micro Devices  ( NASDAQ:AMD ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/markets/equities/25/01/42758502/nvidias-investments-in-elon-musks-xai-perplexity-openai-and-other-startups-crossed-1-billion-mar",
+    "time_published": "20250102T053814",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "NVIDIA Corp. NVDA invested $1 billion across 50 startup funding rounds. The Jensen Huang-led company also acquired a number of AI players, consolidating its position in the segment.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/02/NVIDIA-Corporation.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.459462"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.223541,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.21686",
+            "ticker_sentiment_score": "0.089998",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.21686",
+            "ticker_sentiment_score": "0.11022",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.21686",
+            "ticker_sentiment_score": "0.11022",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.320279",
+            "ticker_sentiment_score": "0.260397",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

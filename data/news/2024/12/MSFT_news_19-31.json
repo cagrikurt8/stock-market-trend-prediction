@@ -1,0 +1,55 @@
+{
+    "title": "Emerge's 2024 Project of the Year: Open-Source AI Platform Hugging Face",
+    "url": "https://decrypt.co/295625/emerge-2024-project-year-hugging-face",
+    "time_published": "20241227T193102",
+    "authors": [
+        "Jason Nelson"
+    ],
+    "summary": "In 2024, Hugging Face set new standards for AI development with over a million open-source models and an inclusive global community.",
+    "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/12/emerge-project-year-huggingface-gID_7.jpg",
+    "source": "Decrypt.co",
+    "category_within_source": "n/a",
+    "source_domain": "decrypt.co",
+    "topics": [
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.337839,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "APG",
+            "relevance_score": "0.030216",
+            "ticker_sentiment_score": "0.105712",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.060388",
+            "ticker_sentiment_score": "0.240133",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.060388",
+            "ticker_sentiment_score": "0.137472",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "0.218692",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

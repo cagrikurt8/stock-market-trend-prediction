@@ -1,0 +1,39 @@
+{
+    "title": "TikTok On Trial: Supreme Court Prepares To Weigh National Security Risks",
+    "url": "https://www.benzinga.com/general/social-media/24/12/42680367/tiktok-on-trial-supreme-court-prepares-to-weigh-national-security-risks",
+    "time_published": "20241226T075118",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "The clock is ticking for TikTok as the Supreme Court of the United States or SCOTUS prepares to hear arguments that could determine the future of the app in America. With the Jan. 19 deadline fast approaching, a potential nationwide could impact the app used by over 170 million users.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/26/TikTok.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.119652,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.093653",
+            "ticker_sentiment_score": "0.046914",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.093653",
+            "ticker_sentiment_score": "0.046914",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

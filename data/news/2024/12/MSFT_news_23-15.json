@@ -1,0 +1,83 @@
+{
+    "title": "Better Artificial Intelligence  ( AI )  Stock: Broadcom vs. Marvell Technology",
+    "url": "https://www.fool.com/investing/2024/12/21/better-artificial-intelligence-ai-stock-broadcom-v/",
+    "time_published": "20241221T231500",
+    "authors": [
+        "Harsh Chauhan"
+    ],
+    "summary": "Semiconductor stocks Broadcom ( NASDAQ: AVGO ) and Marvell Technology ( NASDAQ: MRVL ) have delivered outstanding gains in 2024, with shares of both companies more than doubling as of this writing thanks to the rapidly growing demand for their application-specific integrated circuits ( ASICs ) ...",
+    "banner_image": "https://media.ycharts.com/charts/0f32aaf525ea862b0d9fcd1fe4ce0869.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999956"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.384322,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.039811",
+            "ticker_sentiment_score": "0.191867",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.039811",
+            "ticker_sentiment_score": "-0.033602",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.039811",
+            "ticker_sentiment_score": "-0.033602",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.039811",
+            "ticker_sentiment_score": "-0.033602",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VMW",
+            "relevance_score": "0.039811",
+            "ticker_sentiment_score": "0.179925",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.382339",
+            "ticker_sentiment_score": "0.398378",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "ASCCF",
+            "relevance_score": "0.119038",
+            "ticker_sentiment_score": "0.163571",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MRVL",
+            "relevance_score": "0.079524",
+            "ticker_sentiment_score": "0.265985",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

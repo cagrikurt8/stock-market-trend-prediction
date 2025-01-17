@@ -1,0 +1,75 @@
+{
+    "title": "Why TSMC, KLA, and Lam Research Stocks All Popped on Monday",
+    "url": "https://www.fool.com/investing/2025/01/06/tsmc-kla-corporation-lam-research-stocks-popped/",
+    "time_published": "20250106T162132",
+    "authors": [
+        "Rich Smith"
+    ],
+    "summary": "Good news from Taiwan's Hon Hai Precision Industry company ( better known as Foxconn ) spread to the benefit of semiconductor stocks in general today. Foxconn reported 15% sales growth in Q4 2024, to $63.9 billion, a number that CNBC characterized as \"bumper sales performance.\" The implied strong ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802995/letters-ai-on-a-3d-tower-rising-from-the-middle-of-a-semiconductor-chip.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998356"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.682689"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.402109,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "KLAC",
+            "relevance_score": "0.455525",
+            "ticker_sentiment_score": "0.533263",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "LRCX",
+            "relevance_score": "0.313817",
+            "ticker_sentiment_score": "0.414219",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.080458",
+            "ticker_sentiment_score": "0.097674",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.080458",
+            "ticker_sentiment_score": "0.233778",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "HNHPF",
+            "relevance_score": "0.080458",
+            "ticker_sentiment_score": "0.263844",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.160099",
+            "ticker_sentiment_score": "0.280022",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Tesla Analysts Fear 'Stormy Weather' In Short Term - Tesla  ( NASDAQ:TSLA ) ",
+    "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/42792642/tesla-analysts-on-deliveries-ev-stock-could-have-stormy-weather-in-short-term-gener",
+    "time_published": "20250103T175411",
+    "authors": [
+        "Chris Katje"
+    ],
+    "summary": "Tesla Inc TSLA analysts are cautious after fourth-quarter deliveries came in below consensus estimates and production fell below delivery figures. The Tesla Analysts: Canaccord Genuity analyst George Gianarikas maintained a Buy rating on Tesla. He also raised the price target from $298 to $404.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/03/Why-It-Matters_0.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.967321"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.01198,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.053992",
+            "ticker_sentiment_score": "0.170793",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.053992",
+            "ticker_sentiment_score": "0.170793",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.824392",
+            "ticker_sentiment_score": "0.016372",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CCORF",
+            "relevance_score": "0.053992",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "OPTGF",
+            "relevance_score": "0.053992",
+            "ticker_sentiment_score": "0.161782",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

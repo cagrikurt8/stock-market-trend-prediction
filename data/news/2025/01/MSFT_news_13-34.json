@@ -1,0 +1,51 @@
+{
+    "title": "BlackBerry Jumps 69% in 3 Months: Time to Buy the Stock?",
+    "url": "https://www.zacks.com/stock/news/2393524/blackberry-jumps-69-in-3-months-time-to-buy-the-stock",
+    "time_published": "20250108T133400",
+    "authors": [
+        "Vaishali Doshi"
+    ],
+    "summary": "BB's improving financial performance, strategic initiatives/collaborations and focus on IoT and cybersecurity verticals position it for long-term growth.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/75/2558.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.503496"
+        }
+    ],
+    "overall_sentiment_score": 0.344915,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "BB",
+            "relevance_score": "0.617765",
+            "ticker_sentiment_score": "0.447858",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.229149",
+            "ticker_sentiment_score": "0.164684",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRWD",
+            "relevance_score": "0.092748",
+            "ticker_sentiment_score": "0.157882",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FTNT",
+            "relevance_score": "0.092748",
+            "ticker_sentiment_score": "0.157882",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

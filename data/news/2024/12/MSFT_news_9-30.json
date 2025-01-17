@@ -1,0 +1,45 @@
+{
+    "title": "Could SoundHound AI Be Your Ticket to Becoming a Millionaire by 2035?",
+    "url": "https://www.fool.com/investing/2024/12/28/soundhound-ai-be-ticket-become-millionaire/",
+    "time_published": "20241228T093000",
+    "authors": [
+        "James Brumley"
+    ],
+    "summary": "More than a few people are taking on this risky stock bet of late, but there's much more to consider than just the premise of its business.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802170%2F122624-soundhound.png&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        }
+    ],
+    "overall_sentiment_score": 0.161758,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.037155",
+            "ticker_sentiment_score": "0.051781",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.07423",
+            "ticker_sentiment_score": "0.053963",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SOUN",
+            "relevance_score": "0.220141",
+            "ticker_sentiment_score": "0.158141",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

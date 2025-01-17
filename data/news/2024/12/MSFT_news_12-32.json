@@ -1,0 +1,67 @@
+{
+    "title": "Zacks Investment Ideas feature highlights: Exxon Mobil, Philip Morris International and AT&T",
+    "url": "https://www.zacks.com/stock/news/2387298/zacks-investment-ideas-feature-highlights-exxon-mobil-philip-morris-international-and-att",
+    "time_published": "20241224T123200",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Exxon Mobil, Philip Morris International and AT&T are part of the Zacks Investment Ideas article.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/35/1193.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.99977"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.875462"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.269965,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.064449",
+            "ticker_sentiment_score": "0.063179",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "T",
+            "relevance_score": "0.314017",
+            "ticker_sentiment_score": "0.2503",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PM",
+            "relevance_score": "0.372448",
+            "ticker_sentiment_score": "0.209983",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "XOM",
+            "relevance_score": "0.372448",
+            "ticker_sentiment_score": "0.179142",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

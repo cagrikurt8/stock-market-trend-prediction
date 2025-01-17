@@ -1,0 +1,91 @@
+{
+    "title": "Consumer Tech News  ( Dec 30-Jan 3 ) : Apple Stops Selling iPhone 14, iPhone 14 Plus, iPhone SE, Trump Seeks A 'Political Resolution' Of TikTok Ban & More - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",
+    "url": "https://www.benzinga.com/tech/25/01/42803280/consumer-tech-news-dec-30-jan-3-apple-stops-selling-iphone-14-iphone-14-plus-iphone-se-trump-seeks-a-politic",
+    "time_published": "20250104T163519",
+    "authors": [
+        "Lekha Gupta"
+    ],
+    "summary": "The European Union's ( EU ) USB-C directive has officially come into force, mandating a universal charging port for electronic devices. The directive, effective from 2025, requires mobile phones to feature a USB-C port.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/04/Penang--Malaysia---Oct-10--2022-Apple-Ip.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.096592,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.263291",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SSNLF",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.072876",
+            "ticker_sentiment_score": "-0.185143",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "IBIDF",
+            "relevance_score": "0.072876",
+            "ticker_sentiment_score": "0.042458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.053159",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.352557",
+            "ticker_sentiment_score": "0.015137",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RDDT",
+            "relevance_score": "0.072876",
+            "ticker_sentiment_score": "-0.023367",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SPOT",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "-0.02961",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WB",
+            "relevance_score": "0.072876",
+            "ticker_sentiment_score": "0.061339",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

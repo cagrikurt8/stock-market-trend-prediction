@@ -1,0 +1,55 @@
+{
+    "title": "Logitech Stock Plunges 13% YTD: What Should Investors Do?",
+    "url": "https://www.zacks.com/stock/news/2389913/logitech-stock-plunges-13-ytd-what-should-investors-do",
+    "time_published": "20241231T134600",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "LOGI faces stiff competition and macroeconomic challenges. However, its recovery on the back of its innovative products makes the stock worth retaining.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/1d/1065.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.148827,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.057907",
+            "ticker_sentiment_score": "0.025999",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNEJF",
+            "relevance_score": "0.172507",
+            "ticker_sentiment_score": "0.041583",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.115509",
+            "ticker_sentiment_score": "0.029163",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LOGI",
+            "relevance_score": "0.889971",
+            "ticker_sentiment_score": "0.246105",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

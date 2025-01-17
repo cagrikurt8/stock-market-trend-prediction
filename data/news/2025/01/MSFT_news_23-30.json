@@ -1,0 +1,69 @@
+{
+    "title": "2 No-Brainer Artificial Intelligence  ( AI )  Stocks to Buy in 2025",
+    "url": "https://www.fool.com/investing/2025/01/04/2-no-brainer-artificial-intelligence-ai-stocks-to/",
+    "time_published": "20250104T233000",
+    "authors": [
+        "Harsh Chauhan"
+    ],
+    "summary": "Spending on artificial intelligence ( AI ) infrastructure has been solid over the past couple of years, and that trend is expected to continue in 2025 as well, with market research firm IDC forecasting that the total outlay on AI could hit an impressive $227 billion in the new year.The good part ...",
+    "banner_image": "https://media.ycharts.com/charts/d52a453f6e5dce36015c97bc67584f3d.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.413559"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999986"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.307946,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "LRCX",
+            "relevance_score": "0.163078",
+            "ticker_sentiment_score": "0.157408",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.319414",
+            "ticker_sentiment_score": "0.313772",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MU",
+            "relevance_score": "0.041039",
+            "ticker_sentiment_score": "0.082572",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.041039",
+            "ticker_sentiment_score": "0.09467",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FOREX:AMD",
+            "relevance_score": "0.08197",
+            "ticker_sentiment_score": "0.095231",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

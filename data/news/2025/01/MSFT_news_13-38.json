@@ -1,0 +1,65 @@
+{
+    "title": "Lumen Slips 14% in a Month: How Should You Play the Stock?",
+    "url": "https://www.zacks.com/stock/news/2396421/lumen-slips-14-in-a-month-how-should-you-play-the-stock",
+    "time_published": "20250114T133800",
+    "authors": [
+        "Vaishali Doshi"
+    ],
+    "summary": "Increasing opportunities, driven by AI proliferation, are emerging as a tailwind for LUMN. A debt-laden balance sheet and competition in the AI space are overhangs.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/75/2558.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.692272"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.086049,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.083833",
+            "ticker_sentiment_score": "0.014461",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.041975",
+            "ticker_sentiment_score": "0.013766",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LUMN",
+            "relevance_score": "0.247838",
+            "ticker_sentiment_score": "0.02246",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.083833",
+            "ticker_sentiment_score": "0.014461",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.083833",
+            "ticker_sentiment_score": "0.014461",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

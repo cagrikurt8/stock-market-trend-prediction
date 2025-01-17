@@ -1,0 +1,89 @@
+{
+    "title": "3 Top Vanguard Mutual Funds to Accumulate for Gains in 2025",
+    "url": "https://www.zacks.com/stock/news/2394893/3-top-vanguard-mutual-funds-to-accumulate-for-gains-in-2025",
+    "time_published": "20250110T131900",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Invest in Vanguard mutual funds like VGENX, VASVX and VQNPX, which are expected to perform well in the future.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b9/69037.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.955357"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.230621,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.042723",
+            "ticker_sentiment_score": "0.049617",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.042723",
+            "ticker_sentiment_score": "0.049617",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PSX",
+            "relevance_score": "0.042723",
+            "ticker_sentiment_score": "0.048639",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "XOM",
+            "relevance_score": "0.042723",
+            "ticker_sentiment_score": "0.048639",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GIL",
+            "relevance_score": "0.042723",
+            "ticker_sentiment_score": "0.047661",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FNF",
+            "relevance_score": "0.042723",
+            "ticker_sentiment_score": "0.047661",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RYDAF",
+            "relevance_score": "0.042723",
+            "ticker_sentiment_score": "0.048639",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

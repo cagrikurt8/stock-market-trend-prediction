@@ -1,0 +1,81 @@
+{
+    "title": "Nuclear Energy is Preferred to Power AI: 4 Tech Giants to Gain in 2025",
+    "url": "https://www.zacks.com/stock/news/2386452/nuclear-energy-is-preferred-to-power-ai-4-tech-giants-to-gain-in-2025",
+    "time_published": "20241220T163200",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "As AI energy demands soar, AMZN, GOOGL, MSFT and META are turning to nuclear energy to fuel innovation and sustainability in 2025.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0c/68023.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.87644"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.37331,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.31482",
+            "ticker_sentiment_score": "0.280451",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.120834",
+            "ticker_sentiment_score": "0.156633",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.387674",
+            "ticker_sentiment_score": "0.384064",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.040416",
+            "ticker_sentiment_score": "0.20411",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "D",
+            "relevance_score": "0.040416",
+            "ticker_sentiment_score": "0.364776",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "PSIX",
+            "relevance_score": "0.040416",
+            "ticker_sentiment_score": "-0.073598",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.387674",
+            "ticker_sentiment_score": "0.481973",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin See 'Another Monday Open Pump,' Trader Predicts Next Move After 'Unemployment Data On Friday'",
+    "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42828625/bitcoin-ethereum-xrp-dogecoin-see-another-monday-open-pump-trader-predicts-next-move-after",
+    "time_published": "20250106T201344",
+    "authors": [
+        "Khyathi Dalal"
+    ],
+    "summary": "Global cryptocurrency market capitalization is trading 3% higher at $3.6 trillion despite key metrics remaining lower. One trader predicts Bitcoin's next move after unemployment data, another marks micro support at $100,450.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/06/Dogecoin-Doge--Ethereum-Eth--Bitcoin-Btc.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.01954,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.084127",
+            "ticker_sentiment_score": "0.024965",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.167322",
+            "ticker_sentiment_score": "-0.017486",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.709186",
+            "ticker_sentiment_score": "-0.231868",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "CRYPTO:ETH",
+            "relevance_score": "0.084127",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

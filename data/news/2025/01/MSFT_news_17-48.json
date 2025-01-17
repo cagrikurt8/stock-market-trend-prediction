@@ -1,0 +1,55 @@
+{
+    "title": "Why Is D-Wave Quantum Stock Surging On Wednesday? - D-Wave Quantum  ( NYSE:QBTS ) ",
+    "url": "https://www.benzinga.com/25/01/43011328/why-d-wave-quantum-stock-is-surging-on-wednesday",
+    "time_published": "20250115T174829",
+    "authors": [
+        "Lekha Gupta"
+    ],
+    "summary": "D-Wave partners with Carahsoft to expand quantum solutions in Public Sector via reseller network and procurement contracts. Quantum tech to address national defense, intelligence, energy resilience, and emergency management priorities. Get Real-Time News and Alerts for Your Portfolio",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/Quantum-Computing-Concept-Businessman-Po.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.387758,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.09989",
+            "ticker_sentiment_score": "0.163",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QUBT",
+            "relevance_score": "0.09989",
+            "ticker_sentiment_score": "0.328714",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.09989",
+            "ticker_sentiment_score": "0.163",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.548633",
+            "ticker_sentiment_score": "0.646235",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

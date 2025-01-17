@@ -1,0 +1,85 @@
+{
+    "title": "4 Tech Titans Will Spend a Combined $300 Billion on Artificial Intelligence  ( AI )  in 2025, According to 1 Wall Street Firm. This Stock Could Be the Biggest Winner.",
+    "url": "https://www.fool.com/investing/2024/12/21/4-tech-spend-300-billion-ai-2025-wall-street-stock/",
+    "time_published": "20241221T160900",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "Artificial intelligence ( AI ) is the most revolutionary technology in a generation. Its ability to instantly generate text, images, videos, and even computer code could drive a productivity boom for businesses all over the world.The industry is still in its infancy, but Wall Street's forecasts ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801423%2Fa-digital-rendering-of-computer-chips-with-one-labelled-ai.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.98396"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.117222,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.095707",
+            "ticker_sentiment_score": "-0.005265",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.04794",
+            "ticker_sentiment_score": "0.018697",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.491595",
+            "ticker_sentiment_score": "0.152979",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.04794",
+            "ticker_sentiment_score": "0.018697",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.143131",
+            "ticker_sentiment_score": "0.031662",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.095707",
+            "ticker_sentiment_score": "-0.005265",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.04794",
+            "ticker_sentiment_score": "0.018697",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Can C3.ai Become the Next Palantir Technologies?",
+    "url": "https://www.fool.com/investing/2024/12/25/can-c3ai-become-the-next-palantir-technologies/",
+    "time_published": "20241225T125000",
+    "authors": [
+        "Harsh Chauhan"
+    ],
+    "summary": "Palantir Technologies ( NASDAQ: PLTR ) stock was in red-hot form in 2024 as investors showed increasing interest in this software platforms specialist thanks to strong demand for the company's artificial intelligence ( AI ) -focused offerings, which led to nice accelerations in its top- and ...",
+    "banner_image": "https://media.ycharts.com/charts/816f559c6cfa0d608344e8980bca9cbd.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.98396"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        }
+    ],
+    "overall_sentiment_score": 0.42203,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.045743",
+            "ticker_sentiment_score": "0.137228",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.045743",
+            "ticker_sentiment_score": "0.137228",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.091335",
+            "ticker_sentiment_score": "0.385272",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "ASUS ROG Unveils Latest Innovations Forged to Unlock Limitless Gaming Potential at CES 2025 - Asustek Computer  ( OTC:ASUUY ) ",
+    "url": "https://www.benzinga.com/pressreleases/25/01/n42836064/asus-rog-unveils-latest-innovations-forged-to-unlock-limitless-gaming-potential-at-ces-2025",
+    "time_published": "20250107T043000",
+    "authors": [
+        "PRNewswire"
+    ],
+    "summary": "ROG redefines the future of gaming with its powerful lineup of gaming laptops, desktops, and external graphics. LAS VEGAS, Jan. 6, 2025 /PRNewswire/ -- ASUS Republic of Gamers ( ROG ) unveiled its groundbreaking 2025 gaming technology lineup today at the Unlock the ROG Lab: For Those Who Dare ...",
+    "banner_image": "https://mma.prnewswire.com/media/2591053/ROG_CES_Family_of_Devices___ROG_PR___Downsample_1_1.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.31665,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.014462",
+            "ticker_sentiment_score": "0.178667",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.014462",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.200332",
+            "ticker_sentiment_score": "0.136822",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AWON",
+            "relevance_score": "0.057802",
+            "ticker_sentiment_score": "0.102972",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "OPTGF",
+            "relevance_score": "0.014462",
+            "ticker_sentiment_score": "0.011421",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QCOM",
+            "relevance_score": "0.014462",
+            "ticker_sentiment_score": "0.153808",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

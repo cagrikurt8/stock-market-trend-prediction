@@ -1,0 +1,39 @@
+{
+    "title": "Bumble Shares Are On The Rise Today: What You Need To Know - Bumble  ( NASDAQ:BMBL ) ",
+    "url": "https://www.benzinga.com/trading-ideas/movers/25/01/42829149/bumble-shares-are-on-the-rise-today-what-you-need-to-know",
+    "time_published": "20250106T203056",
+    "authors": [
+        "Vaishali Prayag"
+    ],
+    "summary": "Bumble Inc. BMBL shares are trading higher Monday after the company announced Michael Affronti as its new Chief Product Officer ( CPO ) . What To Know: Affronti has held leadership roles at Salesforce, Dataminr and Microsoft.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/06145847/Screenshot-2025-01-06-at-14.58.20-1024x536.png",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.327343,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "-0.155031",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "BMBL",
+            "relevance_score": "0.462395",
+            "ticker_sentiment_score": "0.40541",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

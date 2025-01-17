@@ -1,0 +1,87 @@
+{
+    "title": "Dow Jones 2024 Scoreboard: Top 5 Winners, Losers - And How Amazon, Nvidia Could Reshape 2025 - SPDR Dow Jones Industrial Average ETF  ( ARCA:DIA ) ",
+    "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/24/12/42726598/dow-jones-2024-scoreboard-top-5-winners-losers-and-how-amazon-nvidia-could-reshape-202",
+    "time_published": "20241230T164846",
+    "authors": [
+        "Chris Katje"
+    ],
+    "summary": "The Dow Jones Industrial Average hit an all-time high of over 45,000 points in December, one of several stock market indexes to hit records after Donald Trump won the 2024 presidential election.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/30/trader-ai7.png?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.967645"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.076114,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.13347",
+            "ticker_sentiment_score": "0.129756",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.263231",
+            "ticker_sentiment_score": "0.111535",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.13347",
+            "ticker_sentiment_score": "0.109409",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SHW",
+            "relevance_score": "0.199037",
+            "ticker_sentiment_score": "0.050694",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.199037",
+            "ticker_sentiment_score": "-0.211106",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "DOW",
+            "relevance_score": "0.13347",
+            "ticker_sentiment_score": "0.104625",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.199037",
+            "ticker_sentiment_score": "0.089238",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BA",
+            "relevance_score": "0.06697",
+            "ticker_sentiment_score": "-0.066391",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

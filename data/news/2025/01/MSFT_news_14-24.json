@@ -1,0 +1,83 @@
+{
+    "title": "Jim Cramer's top 10 things to watch Wednesday - the special market froth edition",
+    "url": "https://www.cnbc.com/2025/01/08/jim-cramers-top-10-things-to-watch-wednesday-market-froth-edition.html",
+    "time_published": "20250108T142402",
+    "authors": [],
+    "summary": "We're also watching jobs. Friday's employment report could determine whether Wall Street sees Fed rate cuts as appropriate or heavy-handed.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Top News",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.997405"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.03848,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.054983",
+            "ticker_sentiment_score": "0.084979",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.054983",
+            "ticker_sentiment_score": "-0.043869",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.109705",
+            "ticker_sentiment_score": "0.090999",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.109705",
+            "ticker_sentiment_score": "0.094052",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.054983",
+            "ticker_sentiment_score": "0.084979",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "STZ",
+            "relevance_score": "0.054983",
+            "ticker_sentiment_score": "-0.12901",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.054983",
+            "ticker_sentiment_score": "-0.155157",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

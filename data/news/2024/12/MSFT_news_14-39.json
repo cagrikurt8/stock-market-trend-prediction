@@ -1,0 +1,103 @@
+{
+    "title": "Vistra and Vera Bradley have been highlighted as Zacks Bull and Bear of the Day",
+    "url": "https://www.zacks.com/stock/news/2387465/vistra-and-vera-bradley-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+    "time_published": "20241224T143900",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Vistra and Vera Bradley are part of the Zacks Bull and Bear of the Day article.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c9/37456.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "IPO",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.752319"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.995921"
+        }
+    ],
+    "overall_sentiment_score": 0.237736,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.039811",
+            "ticker_sentiment_score": "0.265857",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.059686",
+            "ticker_sentiment_score": "0.08811",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MCK",
+            "relevance_score": "0.059686",
+            "ticker_sentiment_score": "0.078019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VRA",
+            "relevance_score": "0.273224",
+            "ticker_sentiment_score": "0.053775",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.49961",
+            "ticker_sentiment_score": "0.435005",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "CETY",
+            "relevance_score": "0.019912",
+            "ticker_sentiment_score": "0.128504",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.019912",
+            "ticker_sentiment_score": "0.20646",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FOREX:EUR",
+            "relevance_score": "0.019912",
+            "ticker_sentiment_score": "-0.085264",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

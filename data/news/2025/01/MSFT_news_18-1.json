@@ -1,0 +1,49 @@
+{
+    "title": "Nvidia Stock Is Surging Today -- Is the AI Leader's Stock a Smart Buy for 2025?",
+    "url": "https://www.fool.com/investing/2025/01/06/nvidia-stock-is-surging-today-is-the-ai-leaders-st/",
+    "time_published": "20250106T180108",
+    "authors": [
+        "Keith Noonan"
+    ],
+    "summary": "Up more than 200% over the last year, can Nvidia stock keep delivering wins?",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803012/gettyimages-1352607170.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.459462"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.321589,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.158",
+            "ticker_sentiment_score": "0.041737",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.630286",
+            "ticker_sentiment_score": "0.511044",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "HNHPF",
+            "relevance_score": "0.079392",
+            "ticker_sentiment_score": "0.245156",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

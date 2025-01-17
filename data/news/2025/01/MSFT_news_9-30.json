@@ -1,0 +1,79 @@
+{
+    "title": "A Once-in-a-Decade Investment Opportunity: My Pick for the Best AI Stock to Buy in 2025",
+    "url": "https://www.fool.com/investing/2025/01/07/once-in-decade-investment-best-ai-stock-buy-2025/",
+    "time_published": "20250107T093000",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "The artificial intelligence ( AI ) boom has taken the stock market by storm. The S&P 500 ( SNPINDEX: ^GSPC ) has advanced 55% in the last two years, and AI promises to drive more upside in the coming years as it boosts productivity and efficiency across industries.Experts have compared AI to ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802912%2Fartificial-intelligence-12.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.796627"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.614606"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.273782,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "FORR",
+            "relevance_score": "0.049629",
+            "ticker_sentiment_score": "0.099966",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.049629",
+            "ticker_sentiment_score": "0.015997",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.506433",
+            "ticker_sentiment_score": "0.290456",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IHG",
+            "relevance_score": "0.049629",
+            "ticker_sentiment_score": "0.109809",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.049629",
+            "ticker_sentiment_score": "0.04452",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.049629",
+            "ticker_sentiment_score": "0.015997",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

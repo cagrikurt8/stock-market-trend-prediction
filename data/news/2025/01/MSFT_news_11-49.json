@@ -1,0 +1,35 @@
+{
+    "title": "TikTok Is Set To Be Banned In The US This Sunday Unless The Supreme Court Steps In: Here's What Happens To Its Nearly 17,000 American Workforce",
+    "url": "https://www.benzinga.com/general/social-media/25/01/42997566/tiktok-is-set-to-be-banned-in-the-us-this-sunday-unless-the-supreme-court-steps-in-heres-wha",
+    "time_published": "20250115T114921",
+    "authors": [
+        "Pooja Rajkumari"
+    ],
+    "summary": "As the weekend approaches, TikTok is on the verge of being banned in the United States unless the Supreme Court steps in to halt the process. What Happened: The potential ban of TikTok on Sunday could impact the app's nearly 17,000 employees in the U.S., sparking a wave of uncertainty.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/untitled.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.141935,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.097854",
+            "ticker_sentiment_score": "0.043184",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.097854",
+            "ticker_sentiment_score": "0.043184",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

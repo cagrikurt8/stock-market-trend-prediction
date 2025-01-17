@@ -1,0 +1,61 @@
+{
+    "title": "NVIDIA Expands Omniverse With Generative Physical AI - NVIDIA  ( NASDAQ:NVDA ) ",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42835911/nvidia-expands-omniverse-with-generative-physical-ai",
+    "time_published": "20250107T035102",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "• New Models, Including Cosmos World Foundation Models, and Omniverse Mega Factory and Robotic Digital Twin Blueprint Lay the Foundation for Industrial AI • Leading Developers Accenture, Altair, Ansys, Cadence, Microsoft and Siemens Among First to Adopt Platform Libraries",
+    "banner_image": "https://ml.globenewswire.com/media/ad3b9553-6933-40b1-adfd-2ed199cd141c/small/nvidia-logo-jpg.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.22332,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.048376",
+            "ticker_sentiment_score": "0.050348",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.711618",
+            "ticker_sentiment_score": "0.238329",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ANSS",
+            "relevance_score": "0.096574",
+            "ticker_sentiment_score": "0.146668",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ACN",
+            "relevance_score": "0.072508",
+            "ticker_sentiment_score": "0.108754",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CAE",
+            "relevance_score": "0.096574",
+            "ticker_sentiment_score": "0.104208",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Should Vanguard S&P 500 Growth ETF  ( VOOG )  Be on Your Investing Radar?",
+    "url": "https://www.zacks.com/stock/news/2390296/should-vanguard-sp-500-growth-etf-voog-be-on-your-investing-radar",
+    "time_published": "20250101T112008",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Style Box ETF report for ...",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default338.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.262962,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.125134",
+            "ticker_sentiment_score": "0.069019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.125134",
+            "ticker_sentiment_score": "0.069019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.125134",
+            "ticker_sentiment_score": "0.069019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.125134",
+            "ticker_sentiment_score": "0.104891",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Constellation Energy Lands Over $1 Billion In GSA Contracts To Power Federal Agencies; Stock Gains - Constellation Energy  ( NASDAQ:CEG ) ",
+    "url": "https://www.benzinga.com/news/large-cap/25/01/42770600/constellation-energy-lands-over-1-billion-in-gsa-contracts-to-power-federal-agencies-stock-gains",
+    "time_published": "20250102T172717",
+    "authors": [
+        "Lekha Gupta"
+    ],
+    "summary": "Constellation Energy secures $1B+ in GSA contracts, including a $840M 10-year federal energy supply deal. Constellation Energy to enhance efficiency at GSA facilities with LED, HVAC upgrades, and electric heating transitions. Get New Picks of the Market's Top Stocks",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/02/What-Consultants-Do_0.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.858979"
+        }
+    ],
+    "overall_sentiment_score": 0.492463,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.436009",
+            "ticker_sentiment_score": "0.594075",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.09186",
+            "ticker_sentiment_score": "0.298206",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

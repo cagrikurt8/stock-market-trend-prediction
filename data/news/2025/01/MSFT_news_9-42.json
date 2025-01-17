@@ -1,0 +1,103 @@
+{
+    "title": "Meta Investors Push Mark Zuckerberg To Replace $72B Cash With Bitcoin To Combat Inflation: Here's What It Means For Investors - Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/general/market-summary/25/01/42967576/meta-investors-push-mark-zuckerberg-to-replace-72b-cash-with-bitcoin-to-combat-inflation-h",
+    "time_published": "20250114T094238",
+    "authors": [
+        "Rishabh Mishra"
+    ],
+    "summary": "Shareholder propose considering adding Bitcoin to Meta's treasury. Meta's past attempts to build a crypto business have failed. The shareholders of Mark Zuckerberg's Meta Platforms Inc.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/14/Metas-Community-Notes-Like-Feature.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Economy - Fiscal",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.251044,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MARA",
+            "relevance_score": "0.143415",
+            "ticker_sentiment_score": "0.086392",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.213674",
+            "ticker_sentiment_score": "0.066048",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.213674",
+            "ticker_sentiment_score": "0.310907",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.213674",
+            "ticker_sentiment_score": "0.276397",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.143415",
+            "ticker_sentiment_score": "0.086392",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BRPHF",
+            "relevance_score": "0.072",
+            "ticker_sentiment_score": "0.070395",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "COIN",
+            "relevance_score": "0.143415",
+            "ticker_sentiment_score": "0.086392",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.79415",
+            "ticker_sentiment_score": "0.542558",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

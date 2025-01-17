@@ -1,0 +1,81 @@
+{
+    "title": "Broadcom Hits $1 Trillion. Can It Continue Its Rally in 2025?",
+    "url": "https://www.fool.com/investing/2025/01/01/broadcom-stock-hits-1-trillion/",
+    "time_published": "20250101T141700",
+    "authors": [
+        "David Jagielski"
+    ],
+    "summary": "The stock market has seen multiple companies hit the $1 trillion mark in valuation in the past few years, the latest one being semiconductor company Broadcom ( NASDAQ: AVGO ) . The stock's valuation more than doubled in 2024 as sales and profits have been soaring in recent quarters.But has it ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/801762/an-excited-investor-looking-at-a-chart.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.929393"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.226782,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.110288",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.110288",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VMW",
+            "relevance_score": "0.142989",
+            "ticker_sentiment_score": "0.159458",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.528919",
+            "ticker_sentiment_score": "0.3055",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.110288",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IT",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "-0.071136",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.110288",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

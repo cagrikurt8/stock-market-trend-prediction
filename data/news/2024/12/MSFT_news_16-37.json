@@ -1,0 +1,69 @@
+{
+    "title": "4 Technology Companies That More Than Doubled Share Prices in 2024",
+    "url": "https://www.zacks.com/stock/news/2389600/4-technology-companies-that-more-than-doubled-share-prices-in-2024",
+    "time_published": "20241230T163700",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Tech stocks like UI, NVDA, AVGO and CLS benefit from AI advancements, cloud adoption, growing IT spending, ease of inflationary pressure and a robust business model.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3f/61677.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998356"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.995869"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.324992,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.030641",
+            "ticker_sentiment_score": "0.123187",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.152306",
+            "ticker_sentiment_score": "0.179313",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.152306",
+            "ticker_sentiment_score": "0.23525",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CLS",
+            "relevance_score": "0.182276",
+            "ticker_sentiment_score": "0.265126",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "UI",
+            "relevance_score": "0.182276",
+            "ticker_sentiment_score": "0.264937",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

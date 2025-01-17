@@ -1,0 +1,67 @@
+{
+    "title": "Prediction: 2 Stocks That'll Be Worth More Than Nvidia 10 Years From Now",
+    "url": "https://www.fool.com/investing/2025/01/09/prediction-2-stocks-thatll-be-worth-more-than-nvid/",
+    "time_published": "20250109T110800",
+    "authors": [
+        "Matt Frankel"
+    ],
+    "summary": "AI chip leader Nvidia ( NASDAQ: NVDA ) has delivered remarkable performance for investors, with a split-adjusted gain of about 2,470% over the past five years as the AI revolution has kicked into high gear. As of this writing, Nvidia is the most valuable publicly traded company in the U.S. stock ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803163/using-laptop-in-data-center-2024.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.989041"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.744043"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Economy - Macro",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.301094,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.106541",
+            "ticker_sentiment_score": "0.129329",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.26224",
+            "ticker_sentiment_score": "0.340581",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.360752",
+            "ticker_sentiment_score": "0.253223",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.407844",
+            "ticker_sentiment_score": "0.211887",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

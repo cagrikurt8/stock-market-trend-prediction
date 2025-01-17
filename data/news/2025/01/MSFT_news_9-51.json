@@ -1,0 +1,87 @@
+{
+    "title": "1 \"Magnificent Seven\" Stock to Buy Hand Over Fist in 2025 and 1 to Avoid",
+    "url": "https://www.fool.com/investing/2025/01/08/1-magnificent-seven-stock-to-buy-2025-1-to-avoid/",
+    "time_published": "20250108T095100",
+    "authors": [
+        "Sean Williams"
+    ],
+    "summary": "Among Nvidia, Apple, Microsoft, Amazon, Alphabet, Meta Platforms, and Tesla, there's a phenomenal bargain hiding in plain sight, as well as a highflier that may be more than fully valued.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802943%2Fred-dice-buy-sell-stock-chart-financial-data-invest-billionaire-getty.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.279463,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.060236",
+            "ticker_sentiment_score": "0.155279",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.208593",
+            "ticker_sentiment_score": "0.238573",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.12013",
+            "ticker_sentiment_score": "0.176973",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.294446",
+            "ticker_sentiment_score": "0.231968",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.090247",
+            "ticker_sentiment_score": "0.157939",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.090247",
+            "ticker_sentiment_score": "0.153373",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.03014",
+            "ticker_sentiment_score": "0.088489",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.149842",
+            "ticker_sentiment_score": "0.180061",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

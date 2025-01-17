@@ -1,0 +1,79 @@
+{
+    "title": "Ansys & Cognata Partner for ADAS/AV Sensor Testing on Microsoft Azure",
+    "url": "https://www.zacks.com/stock/news/2391677/ansys-cognata-partner-for-adasav-sensor-testing-on-microsoft-azure",
+    "time_published": "20250103T144100",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "ANSS joins Cognata and Microsoft to enable web-based testing and validation of ADAS/AV sensors in a virtual environment.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bc/51150.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972476"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.298533,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "BB",
+            "relevance_score": "0.230454",
+            "ticker_sentiment_score": "0.081149",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.046724",
+            "ticker_sentiment_score": "0.13452",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNEJF",
+            "relevance_score": "0.046724",
+            "ticker_sentiment_score": "0.165457",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.046724",
+            "ticker_sentiment_score": "0.244561",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ANSS",
+            "relevance_score": "0.518022",
+            "ticker_sentiment_score": "0.482942",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "ADSK",
+            "relevance_score": "0.046724",
+            "ticker_sentiment_score": "0.244561",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RDCM",
+            "relevance_score": "0.185306",
+            "ticker_sentiment_score": "0.06481",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GILT",
+            "relevance_score": "0.139534",
+            "ticker_sentiment_score": "0.018446",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

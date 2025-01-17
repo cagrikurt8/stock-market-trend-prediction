@@ -1,0 +1,37 @@
+{
+    "title": "Microsoft  ( MSFT )  Stock Declines While Market Improves: Some Information for Investors",
+    "url": "https://www.zacks.com/stock/news/2387143/microsoft-msft-stock-declines-while-market-improves-some-information-for-investors",
+    "time_published": "20241223T224519",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "The latest trading day saw Microsoft (MSFT) settling at $435.25, representing a -0.31% change from its previous close.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default18.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.95493"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        }
+    ],
+    "overall_sentiment_score": 0.257531,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.5341",
+            "ticker_sentiment_score": "0.428576",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

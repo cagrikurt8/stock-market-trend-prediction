@@ -1,0 +1,97 @@
+{
+    "title": "Amazon and Ero Copper have been highlighted as Zacks Bull and Bear of the Day",
+    "url": "https://www.zacks.com/stock/news/2394837/amazon-and-ero-copper-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+    "time_published": "20250110T122700",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Amazon and Ero Copper are part of the Zacks Bull and Bear of the Day article.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/92/486.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.257914,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.058711",
+            "ticker_sentiment_score": "0.00301",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.019586",
+            "ticker_sentiment_score": "0.273734",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.058711",
+            "ticker_sentiment_score": "0.199067",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.058711",
+            "ticker_sentiment_score": "-0.030004",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ERO",
+            "relevance_score": "0.268927",
+            "ticker_sentiment_score": "0.232589",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FTI",
+            "relevance_score": "0.155702",
+            "ticker_sentiment_score": "0.25058",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SUN",
+            "relevance_score": "0.155702",
+            "ticker_sentiment_score": "0.102868",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.596112",
+            "ticker_sentiment_score": "0.267704",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CTRA",
+            "relevance_score": "0.19393",
+            "ticker_sentiment_score": "0.265131",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

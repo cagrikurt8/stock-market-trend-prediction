@@ -1,0 +1,35 @@
+{
+    "title": "Tevogen Bio to Host Panel \"AI In Biopharma: Next Frontier of Medical Innovation\" During the 43rd Annual J.P. Morgan Healthcare Conference",
+    "url": "https://www.globenewswire.com/news-release/2024/12/23/3001305/0/en/Tevogen-Bio-to-Host-Panel-AI-In-Biopharma-Next-Frontier-of-Medical-Innovation-During-the-43rd-Annual-J-P-Morgan-Healthcare-Conference.html",
+    "time_published": "20241223T143800",
+    "authors": [
+        "Tevogen Bio Inc"
+    ],
+    "summary": "WARREN, N.J., Dec. 23, 2024 ( GLOBE NEWSWIRE ) -- Tevogen Bio ( \"Tevogen\" or \"Tevogen Bio Holdings Inc.\" ) ( Nasdaq: TVGN ) , a clinical-stage specialty immunotherapy biotech developing off-the-shelf, genetically unmodified T cell therapeutics to treat infectious disease and cancers, announced ...",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/9b0bf9b2-9619-4962-ab6d-3b2f13eaf0c8",
+    "source": "GlobeNewswire",
+    "category_within_source": "n/a",
+    "source_domain": "www.globenewswire.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.402645,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.169081",
+            "ticker_sentiment_score": "0.101246",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TVGN",
+            "relevance_score": "0.251247",
+            "ticker_sentiment_score": "0.136966",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

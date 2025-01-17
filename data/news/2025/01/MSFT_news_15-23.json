@@ -1,0 +1,43 @@
+{
+    "title": "2 Agentic Artificial Intelligence  ( AI )  Stocks to Consider Buying",
+    "url": "https://www.fool.com/investing/2025/01/08/2-agentic-artificial-intelligence-ai-stocks-to-buy/",
+    "time_published": "20250108T152300",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "Generative artificial intelligence ( AI ) has been the first big usage of AI. However, the next major wave may be agentic AI. Generative AI uses generative software models to create text, image, video, or audio content in response to a user prompt.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803157%2Fai-robot-using-an-advanced-computer-1287582736.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.650727"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.237545,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.046452",
+            "ticker_sentiment_score": "0.073534",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PATH",
+            "relevance_score": "0.273297",
+            "ticker_sentiment_score": "0.207407",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

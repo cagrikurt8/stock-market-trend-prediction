@@ -1,0 +1,53 @@
+{
+    "title": "NVIDIA Stock Appears Undervalued: Is it the Right Time to Invest?",
+    "url": "https://www.zacks.com/stock/news/2386983/nvidia-stock-appears-undervalued-is-it-the-right-time-to-invest",
+    "time_published": "20241223T154800",
+    "authors": [
+        "Nilanjan Banerjee"
+    ],
+    "summary": "NVIDIA isn't just a leader in one country or one region-it's making its mark all over the world.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.386278,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.099683",
+            "ticker_sentiment_score": "0.016048",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "0.014923",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.584467",
+            "ticker_sentiment_score": "0.609362",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

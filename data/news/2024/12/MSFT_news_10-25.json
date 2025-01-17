@@ -1,0 +1,55 @@
+{
+    "title": "CrowdStrike's Outage Put It to the Test, but Now the Company Faces an Even Bigger Challenge",
+    "url": "https://www.fool.com/investing/2024/12/31/crowdstrikes-outage-put-it-to-the-test-now-the-com/",
+    "time_published": "20241231T102500",
+    "authors": [
+        "Adam Spatacco"
+    ],
+    "summary": "CrowdStrike's software blunder is in the rearview mirror, but the competitive landscape is really starting to heat up.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802276%2Fcybersecurity-protection-lock-key-1.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.99393"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.796627"
+        }
+    ],
+    "overall_sentiment_score": 0.141952,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "-0.067625",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "-0.067625",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRWD",
+            "relevance_score": "0.664996",
+            "ticker_sentiment_score": "0.029924",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NET",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.048006",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

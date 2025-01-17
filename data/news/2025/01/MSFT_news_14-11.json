@@ -1,0 +1,63 @@
+{
+    "title": "A Better Way To Play Bitcoin? - MicroStrategy  ( NASDAQ:MSTR ) ",
+    "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42974303/a-better-way-to-play-bitcoin",
+    "time_published": "20250114T141149",
+    "authors": [
+        "David Pinsen"
+    ],
+    "summary": "In recent years, MicroStrategy, Inc. MSTR has emerged as a essentially a levered play on Bitcoin. Over the last year, for example, MicroStrategy was up 468%, while Bitcoin was up 105%. What drove MicroStrategy's outperformance is its Bitcoin Balance Sheet Strategy.",
+    "banner_image": "https://contributor-assets.benzinga.com/wp-content/uploads/2025/01/13201135/Top-Image-1024x586.jpg",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.221145,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.060694",
+            "ticker_sentiment_score": "0.042055",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.553595",
+            "ticker_sentiment_score": "0.23839",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SMLR",
+            "relevance_score": "0.457566",
+            "ticker_sentiment_score": "0.186291",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.952262",
+            "ticker_sentiment_score": "0.354148",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

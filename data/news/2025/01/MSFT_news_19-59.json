@@ -1,0 +1,87 @@
+{
+    "title": "Semiconductor ETF Faces Key Resistance In AI-Driven Surge: Analyst - Advanced Micro Devices  ( NASDAQ:AMD ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/42925809/semiconductor-etf-faces-key-resistance-in-ai-driven-surge-analyst",
+    "time_published": "20250110T195921",
+    "authors": [
+        "Chandrima Sanyal"
+    ],
+    "summary": "JPMorgan warns that the heavy reliance on AI names could be risky. The SOXX ETF, which focuses solely on chip companies, is expected to capitalize on the AI spending boom. Get 5 New Stock Recommendations Every Week The iShares Semiconductor ETF SOXX finds itself at a crossroads.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Semiconductor-Or-Microchip-Concepts-tech.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999346"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.175188,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.133841",
+            "ticker_sentiment_score": "0.006054",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.133841",
+            "ticker_sentiment_score": "0.006054",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.263942",
+            "ticker_sentiment_score": "0.254515",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.263942",
+            "ticker_sentiment_score": "0.254515",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.067158",
+            "ticker_sentiment_score": "0.005023",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.199584",
+            "ticker_sentiment_score": "0.144253",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.133841",
+            "ticker_sentiment_score": "0.006054",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BNXYF",
+            "relevance_score": "0.067158",
+            "ticker_sentiment_score": "0.12441",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

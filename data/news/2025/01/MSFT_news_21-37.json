@@ -1,0 +1,65 @@
+{
+    "title": "Why AI Chip Stocks Nvidia, Taiwan Semiconductor Manufacturing, and Arm Holdings Rallied Today",
+    "url": "https://www.fool.com/investing/2025/01/03/why-ai-chip-stocks-nvidia-taiwan-semiconductor-man/",
+    "time_published": "20250103T213730",
+    "authors": [
+        "Billy Duberstein"
+    ],
+    "summary": "Shares of artificial intelligence ( AI ) semiconductor stocks Nvidia ( NASDAQ: NVDA ) , Taiwan Semiconductor Manufacturing ( NYSE: TSM ) , and Arm Holdings ( NASDAQ: ARM ) rallied on Friday, up 4.5%, 3.5%, and 10.1%, respectively, in Friday trading.These three companies are each big ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802825/gettyimages-1419726675.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.152585,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.498587",
+            "ticker_sentiment_score": "0.06121",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.59928",
+            "ticker_sentiment_score": "0.186432",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.13347",
+            "ticker_sentiment_score": "0.299724",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "DSSMY",
+            "relevance_score": "0.199037",
+            "ticker_sentiment_score": "0.179744",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.13347",
+            "ticker_sentiment_score": "0.299724",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

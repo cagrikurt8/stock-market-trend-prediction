@@ -1,0 +1,57 @@
+{
+    "title": "Why Nvidia Stock Skyrocketed 171.2% in 2024 but Is Losing Ground in 2025",
+    "url": "https://www.fool.com/investing/2025/01/13/why-nvidia-stock-skyrocketed-1712-in-2024-but-is-s/",
+    "time_published": "20250113T201248",
+    "authors": [
+        "Keith Noonan"
+    ],
+    "summary": "Nvidia ( NASDAQ: NVDA ) stock posted another year of explosive gains in 2024. The company's share price closed out the year's trading up 171.2%, according to data from S&P Global Market Intelligence.NVDA data by YChartsContinue reading ...",
+    "banner_image": "https://media.ycharts.com/charts/486c5b977969c769de84279cc7972324.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.5855"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.122752,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.139265",
+            "ticker_sentiment_score": "0.149819",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.619618",
+            "ticker_sentiment_score": "0.169893",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SPGI",
+            "relevance_score": "0.0699",
+            "ticker_sentiment_score": "0.138837",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

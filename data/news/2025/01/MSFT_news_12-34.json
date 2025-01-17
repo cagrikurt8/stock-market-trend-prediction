@@ -1,0 +1,57 @@
+{
+    "title": "Here's Why Vistra Was a Top Performer in the S&P 500 in 2024",
+    "url": "https://www.fool.com/investing/2025/01/10/heres-why-vistra-was-a-top-performer-in-the-sp-500/",
+    "time_published": "20250110T123449",
+    "authors": [
+        "Lee Samaha"
+    ],
+    "summary": "Shares in Vistra ( NYSE: VST ) rose by an incredible 257.9% in 2024, according to data provided by S&P Global Market Intelligence. The company started the year as an integrated retail electricity and power generation company, and it ended the year by becoming one of the year's hottest artificial ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803554%2Fgettyimages-613330688-1200x675-128554e-1.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.316787,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.095138",
+            "ticker_sentiment_score": "0.049471",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.095138",
+            "ticker_sentiment_score": "0.049471",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SPGI",
+            "relevance_score": "0.095138",
+            "ticker_sentiment_score": "0.282039",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.095138",
+            "ticker_sentiment_score": "0.049471",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.4499",
+            "ticker_sentiment_score": "0.483561",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

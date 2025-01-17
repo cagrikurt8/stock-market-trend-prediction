@@ -1,0 +1,45 @@
+{
+    "title": "Is WisdomTree U.S. Total Dividend ETF  ( DTD )  a Strong ETF Right Now?",
+    "url": "https://www.zacks.com/stock/news/2386650/is-wisdomtree-us-total-dividend-etf-dtd-a-strong-etf-right-now",
+    "time_published": "20241223T112006",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Smart Beta ETF report for DTD ...",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default315.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.229327,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.118064",
+            "ticker_sentiment_score": "0.054927",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WT",
+            "relevance_score": "0.344074",
+            "ticker_sentiment_score": "0.242895",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.118064",
+            "ticker_sentiment_score": "0.054927",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

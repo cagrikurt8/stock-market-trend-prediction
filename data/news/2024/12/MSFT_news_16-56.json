@@ -1,0 +1,61 @@
+{
+    "title": "DOCN Rises 11% in 6 Months: How Should Investors Play the Stock?",
+    "url": "https://www.zacks.com/stock/news/2387648/docn-rises-11-in-6-months-how-should-investors-play-the-stock",
+    "time_published": "20241224T165600",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "DigitalOcean shares are benefiting from a strong portfolio and expanding partnerships amid macroeconomic challenges and fierce market competition.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.875462"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.339573,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.254973",
+            "ticker_sentiment_score": "0.345748",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.129168",
+            "ticker_sentiment_score": "0.220244",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.315628",
+            "ticker_sentiment_score": "0.264039",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MDB",
+            "relevance_score": "0.129168",
+            "ticker_sentiment_score": "0.161881",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "DOCN",
+            "relevance_score": "0.77735",
+            "ticker_sentiment_score": "0.585705",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

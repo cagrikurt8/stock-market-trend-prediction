@@ -1,0 +1,55 @@
+{
+    "title": "\"Motley Fool Money\" Looks Back on 2 Great AI Episodes",
+    "url": "https://www.fool.com/investing/2024/12/28/motley-fool-money-looks-back-on-2-great-ai-episode/",
+    "time_published": "20241228T070800",
+    "authors": [
+        "Motley Fool Staff"
+    ],
+    "summary": "Wharton Professor Ethan Mollick and Reddit CEO Steve Huffman help us see a bigger picture.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802051/mfm-20.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.650727"
+        }
+    ],
+    "overall_sentiment_score": 0.213586,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.005546",
+            "ticker_sentiment_score": "0.050198",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DBX",
+            "relevance_score": "0.005546",
+            "ticker_sentiment_score": "-0.070171",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RDDT",
+            "relevance_score": "0.302908",
+            "ticker_sentiment_score": "0.226313",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "BNXYF",
+            "relevance_score": "0.005546",
+            "ticker_sentiment_score": "0.056553",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "US Stocks Likely Headed For 10% Correction, Says Top Strategist, Points Out 'Horrible Market Breadth:' Trump's Tariff Plans, Musk Co-Led DOGE Could Be Partially To Blame For Decline - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/24/12/42700098/us-markets-likely-headed-for-10-correction-says-jay-woods-trumps-tariff-plans-musk-co-led-doge-could-be-partially",
+    "time_published": "20241227T124804",
+    "authors": [
+        "Rounak Jain"
+    ],
+    "summary": "U.S. equity markets could be headed for a correction due to a confluence of factors like the growing divergence from \"Magnificent 7\" stocks and President-elect Donald Trump's tariff plans, according to market expert Jay Woods.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/27/nyse-shutter.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.938793"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.105147,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.145583",
+            "ticker_sentiment_score": "0.207484",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.145583",
+            "ticker_sentiment_score": "0.207484",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.145583",
+            "ticker_sentiment_score": "0.207484",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.145583",
+            "ticker_sentiment_score": "0.207484",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.145583",
+            "ticker_sentiment_score": "0.207484",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.145583",
+            "ticker_sentiment_score": "0.207484",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.197903",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

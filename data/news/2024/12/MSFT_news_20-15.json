@@ -1,0 +1,33 @@
+{
+    "title": "Here's How Much $1000 Invested In Microsoft 20 Years Ago Would Be Worth Today - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/insights/news/24/12/42675608/heres-how-much-1000-invested-in-microsoft-20-years-ago-would-be-worth-today",
+    "time_published": "20241224T201513",
+    "authors": [
+        "Benzinga Insights"
+    ],
+    "summary": "Microsoft MSFT has outperformed the market over the past 20 years by 6.67% on an annualized basis producing an average annual return of 15.03%. Currently, Microsoft has a market capitalization of $3.26 trillion.",
+    "banner_image": "https://www.benzinga.com/files/images/story/2024/1735071310_0.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.238974,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.95919",
+            "ticker_sentiment_score": "0.384695",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

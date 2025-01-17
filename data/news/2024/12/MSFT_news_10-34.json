@@ -1,0 +1,109 @@
+{
+    "title": "3 Stocks That Could Join the Trillion-Dollar Market Cap Club Next Year",
+    "url": "https://www.fool.com/investing/2024/12/22/3-stocks-that-could-join-the-trillion-dollar-marke/",
+    "time_published": "20241222T103400",
+    "authors": [
+        "Jeremy Bowman"
+    ],
+    "summary": "Believe it or not, there are now nine publicly traded U.S. companies worth $1 trillion or more.They are Apple, Microsoft, Nvidia, Amazon, Alphabet, Meta Platforms, Tesla, Broadcom, and Taiwan Semiconductor. Berkshire Hathaway was briefly a member of the group, but its market cap has dipped ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801486%2Fbull-market-rising-stock-charts-financial-newspaper-quotes-invest-getty.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "IPO",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998356"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.818451"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.292996,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.079569",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.079569",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.079569",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.079569",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.079569",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BRK-A",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.079569",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LLY",
+            "relevance_score": "0.135094",
+            "ticker_sentiment_score": "0.044635",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FRBA",
+            "relevance_score": "0.045224",
+            "ticker_sentiment_score": "0.148591",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.179454",
+            "ticker_sentiment_score": "0.223947",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

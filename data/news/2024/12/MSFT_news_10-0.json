@@ -1,0 +1,49 @@
+{
+    "title": "3 Reasons Bitcoin Could Go Parabolic in 2025",
+    "url": "https://www.fool.com/investing/2024/12/27/3-reasons-bitcoin-could-go-parabolic-in-2025/",
+    "time_published": "20241227T100000",
+    "authors": [
+        "Dominic Basulto"
+    ],
+    "summary": "Now that Bitcoin ( CRYPTO: BTC ) has broken through the $100,000 price level, it's understandable why many investors are wondering just how much higher the world's most popular cryptocurrency can go. Bitcoin is now up about 115% for the year and about 500% during the past two years.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801969%2Fgettyimages-1069336404.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.839681"
+        }
+    ],
+    "overall_sentiment_score": 0.216334,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.092036",
+            "ticker_sentiment_score": "0.105186",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.092036",
+            "ticker_sentiment_score": "0.129276",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.97923",
+            "ticker_sentiment_score": "0.379289",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

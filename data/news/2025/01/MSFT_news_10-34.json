@@ -1,0 +1,71 @@
+{
+    "title": "The Zacks Analyst Blog Highlights Apple, Alphabet, Cisco, Hovnanian and Perma-Pipe",
+    "url": "https://www.zacks.com/stock/news/2395478/the-zacks-analyst-blog-highlights-apple-alphabet-cisco-hovnanian-and-perma-pipe",
+    "time_published": "20250113T103400",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "Apple, Alphabet, Cisco, Hovnanian and Perma-Pipe are included in this Analyst Blog.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ad/429.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.271625,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.041323",
+            "ticker_sentiment_score": "0.019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.164188",
+            "ticker_sentiment_score": "0.102571",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.359014",
+            "ticker_sentiment_score": "0.189744",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "HOVNP",
+            "relevance_score": "0.082535",
+            "ticker_sentiment_score": "0.043818",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PPIH",
+            "relevance_score": "0.164188",
+            "ticker_sentiment_score": "0.101652",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CSCO",
+            "relevance_score": "0.164188",
+            "ticker_sentiment_score": "0.097925",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

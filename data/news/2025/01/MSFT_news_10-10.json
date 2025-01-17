@@ -1,0 +1,85 @@
+{
+    "title": "Zacks Investment Ideas feature highlights: Vertiv, IBIT, Rigetti Computing and QTUM",
+    "url": "https://www.zacks.com/stock/news/2392603/zacks-investment-ideas-feature-highlights-vertiv-ibit-rigetti-computing-and-qtum",
+    "time_published": "20250107T101000",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Vertiv, IBIT, Rigetti Computing and QTUM are part of the Zacks Investment Ideas article.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d4/708.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998663"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.614606"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.269554,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.031992",
+            "ticker_sentiment_score": "0.04388",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VRT",
+            "relevance_score": "0.190167",
+            "ticker_sentiment_score": "0.163209",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.190167",
+            "ticker_sentiment_score": "0.104908",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NNOX",
+            "relevance_score": "0.031992",
+            "ticker_sentiment_score": "0.083318",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.340915",
+            "ticker_sentiment_score": "0.303257",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:NANO",
+            "relevance_score": "0.031992",
+            "ticker_sentiment_score": "0.083318",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:QTUM",
+            "relevance_score": "0.095771",
+            "ticker_sentiment_score": "0.070605",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

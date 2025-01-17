@@ -1,0 +1,43 @@
+{
+    "title": "Apple vs. Microsoft: Which Is the Better Artificial Intelligence Stock to Buy in 2025?",
+    "url": "https://www.fool.com/investing/2025/01/09/apple-vs-microsoft-which-is-the-better-artificial/",
+    "time_published": "20250109T090200",
+    "authors": [
+        "David Jagielski"
+    ],
+    "summary": "Apple ( NASDAQ: AAPL ) and Microsoft ( NASDAQ: MSFT ) are two of the biggest rivals in tech. And today, they're both spending heavily on artificial intelligence ( AI ) as their rivalry evolves into yet another chapter.They are among the most highly valued stocks in the world with market caps in ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802839/person-using-a-computer-which-utilizes-artificial-intelligence.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        }
+    ],
+    "overall_sentiment_score": 0.360328,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.603745",
+            "ticker_sentiment_score": "0.514559",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.71972",
+            "ticker_sentiment_score": "0.516811",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

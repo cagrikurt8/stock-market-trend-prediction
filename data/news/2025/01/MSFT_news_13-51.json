@@ -1,0 +1,45 @@
+{
+    "title": "Nvidia and AMD Stock Investors Got Fantastic News From Microsoft",
+    "url": "https://www.fool.com/investing/2025/01/06/nvidia-and-amd-stock-investors-got-fantastic-news/",
+    "time_published": "20250106T135124",
+    "authors": [
+        "Jose Najarro"
+    ],
+    "summary": "Microsoft announced it will spend $80 billion in capital expenditure for FY2025.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802966/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.101336,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.876064",
+            "ticker_sentiment_score": "0.346015",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.978984",
+            "ticker_sentiment_score": "0.261045",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.876064",
+            "ticker_sentiment_score": "0.346015",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

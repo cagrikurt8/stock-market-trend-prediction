@@ -1,0 +1,47 @@
+{
+    "title": "Company News for Jan 3, 2025",
+    "url": "https://www.zacks.com/stock/news/2391611/company-news-for-jan-3-2025",
+    "time_published": "20250103T143800",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Companies in The News Are: ...",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e9/88506.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": -0.189971,
+    "overall_sentiment_label": "Somewhat-Bearish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.760593",
+            "ticker_sentiment_score": "-0.580952",
+            "ticker_sentiment_label": "Bearish"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.760593",
+            "ticker_sentiment_score": "-0.621692",
+            "ticker_sentiment_label": "Bearish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.443626",
+            "ticker_sentiment_score": "0.176941",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SYNA",
+            "relevance_score": "0.760593",
+            "ticker_sentiment_score": "0.236084",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

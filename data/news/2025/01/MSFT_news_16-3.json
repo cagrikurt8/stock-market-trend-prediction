@@ -1,0 +1,59 @@
+{
+    "title": "2 Cheap Tech Stocks to Buy Right Now",
+    "url": "https://www.fool.com/investing/2025/01/11/2-cheap-tech-stocks-to-buy-right-now/",
+    "time_published": "20250111T160300",
+    "authors": [
+        "Anders Bylund"
+    ],
+    "summary": "Looking for undervalued tech stocks with high growth potential? These forgotten stars might be the bargains you've been looking for.",
+    "banner_image": "https://media.ycharts.com/charts/edb90c6589f48f9dd516d07f6ef7f097.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.044172,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "-0.020149",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FVRR",
+            "relevance_score": "0.455525",
+            "ticker_sentiment_score": "0.114445",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ROKU",
+            "relevance_score": "0.455525",
+            "ticker_sentiment_score": "0.046775",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "-0.020149",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

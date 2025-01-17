@@ -1,0 +1,41 @@
+{
+    "title": "Ambiq and ThinkAR Disrupt the AR Glasses Industry with the AiLens",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42845060/ambiq-and-thinkar-disrupt-the-ar-glasses-industry-with-the-ailens",
+    "time_published": "20250107T141500",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "AUSTIN, Texas, Jan. 07, 2025 ( GLOBE NEWSWIRE ) -- Ambiq®, a leading developer of ultra-low-power semiconductors and solutions enabling Edge AI, has partnered with ThinkAR, a pioneer in augmented reality ( AR ) and AI technology, to unveil AiLens, the most lightweight smart glasses designed for ...",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/ac1f0d55-39d3-4233-a349-96cdda8ef154/ambiq-and-thinkar1200x800-pr.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.437078,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.051551",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.051551",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SFTBF",
+            "relevance_score": "0.102888",
+            "ticker_sentiment_score": "0.112411",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

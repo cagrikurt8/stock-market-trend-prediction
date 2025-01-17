@@ -1,0 +1,53 @@
+{
+    "title": "Rezolve Ai Closes 2024 with Transformational Milestones, Bolstered by Strategic Partnerships, Financial Strength and Strong Customer Pipeline",
+    "url": "https://www.globenewswire.com/news-release/2024/12/20/3000597/0/en/Rezolve-Ai-Closes-2024-with-Transformational-Milestones-Bolstered-by-Strategic-Partnerships-Financial-Strength-and-Strong-Customer-Pipeline.html",
+    "time_published": "20241220T133000",
+    "authors": [
+        "Rezolve AI Ltd"
+    ],
+    "summary": "NEW YORK, Dec. 20, 2024 ( GLOBE NEWSWIRE ) -- Rezolve Ai ( NASDAQ: RZLV ) reflects on a landmark year of growth and innovation, punctuated by transformative partnerships, enhanced financial health, and widespread market recognition.",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/d48c65ef-dfff-4285-958b-06dcf212c171",
+    "source": "GlobeNewswire",
+    "category_within_source": "n/a",
+    "source_domain": "www.globenewswire.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999767"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.4188,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.208464",
+            "ticker_sentiment_score": "0.329805",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RZLV",
+            "relevance_score": "0.447965",
+            "ticker_sentiment_score": "0.548245",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.208464",
+            "ticker_sentiment_score": "0.329805",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

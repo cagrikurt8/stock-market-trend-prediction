@@ -1,0 +1,59 @@
+{
+    "title": "S&P 500 Dipped in December: 1 Growth Stock to Buy, and 1 Artificial Intelligence  ( AI )  Stock to Sell",
+    "url": "https://www.fool.com/investing/2025/01/04/sp-500-dipped-in-december-1-growth-stock-to-buy-an/",
+    "time_published": "20250104T092300",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) performed very well in 2024, with a 25% gain, but it ended the year on a sour note, with a 3.3% drop in December. The index is relatively expensive right now. It trades at a price-to-earnings ( P/E ) ratio of 25.1, which is a 38% premium to its long-term average of ...",
+    "banner_image": "https://media.ycharts.com/charts/2b82a88727891f3c72a99074e4567afb.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "IPO",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.54554"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999767"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.127238,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.037563",
+            "ticker_sentiment_score": "0.033546",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.037563",
+            "ticker_sentiment_score": "0.118693",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SE",
+            "relevance_score": "0.258351",
+            "ticker_sentiment_score": "0.125725",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNOW",
+            "relevance_score": "0.362329",
+            "ticker_sentiment_score": "0.070551",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Amazon licenses Melania Trump documentary, as Jeff Bezos cozies up to president-elect",
+    "url": "https://www.cnbc.com/2025/01/05/melania-trump-movie-amazon-prime-jeff-bezos.html",
+    "time_published": "20250105T182012",
+    "authors": [],
+    "summary": "Amazon founder Jeff Bezos has had a contentious relationship with Donald Trump in the Washington Post. But things appear to have changed in recent months.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Top News",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": -0.012272,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.055109",
+            "ticker_sentiment_score": "-0.327534",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.055109",
+            "ticker_sentiment_score": "0.034993",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NISTF",
+            "relevance_score": "0.055109",
+            "ticker_sentiment_score": "-0.159876",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

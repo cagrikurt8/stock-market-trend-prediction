@@ -1,0 +1,69 @@
+{
+    "title": "Will Big Tech Remain Committed to Their Climate Goals in 2025?",
+    "url": "https://www.zacks.com/stock/news/2387058/will-big-tech-remain-committed-to-their-climate-goals-in-2025",
+    "time_published": "20241223T165900",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "Big Tech races to meet AI-driven energy demands, with Amazon, Alphabet, Microsoft, and Meta pushing to hit ambitious climate goals by 2025.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.386591,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.31583",
+            "ticker_sentiment_score": "0.178393",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.239698",
+            "ticker_sentiment_score": "0.144554",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.31583",
+            "ticker_sentiment_score": "0.346446",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "BEP",
+            "relevance_score": "0.040553",
+            "ticker_sentiment_score": "0.177268",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.278109",
+            "ticker_sentiment_score": "0.341708",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

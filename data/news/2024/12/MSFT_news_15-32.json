@@ -1,0 +1,75 @@
+{
+    "title": "Yelp Gains 13% in Three Months: How Should Investors Play the Stock?",
+    "url": "https://www.zacks.com/stock/news/2388883/yelp-gains-13-in-three-months-how-should-investors-play-the-stock",
+    "time_published": "20241227T153200",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "YELP is rapidly expanding its product features and partner base, thereby strengthening revenues from its advertising services.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d7/3014.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.338754,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "APG",
+            "relevance_score": "0.112269",
+            "ticker_sentiment_score": "0.082605",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.167709",
+            "ticker_sentiment_score": "0.243848",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.167709",
+            "ticker_sentiment_score": "0.243848",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "YELP",
+            "relevance_score": "0.71032",
+            "ticker_sentiment_score": "0.475369",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "TOST",
+            "relevance_score": "0.222327",
+            "ticker_sentiment_score": "0.297635",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.222327",
+            "ticker_sentiment_score": "0.297635",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

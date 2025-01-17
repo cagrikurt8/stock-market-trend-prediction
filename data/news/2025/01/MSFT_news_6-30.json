@@ -1,0 +1,35 @@
+{
+    "title": "TomTom and Esri partner to deliver advanced location analytics",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42807272/tomtom-and-esri-partner-to-deliver-advanced-location-analytics",
+    "time_published": "20250106T063000",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "Esri adds TomTom's maps and traffic data into its display, geocoding, routing, and spatial analysis products globally. Through the partnership, Esri's customers will benefit from TomTom's capabilities natively within their ArcGIS applications.",
+    "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.325966,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.087824",
+            "ticker_sentiment_score": "0.197766",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TMOAF",
+            "relevance_score": "0.418689",
+            "ticker_sentiment_score": "0.485522",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

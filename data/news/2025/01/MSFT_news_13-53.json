@@ -1,0 +1,117 @@
+{
+    "title": "AI Chip Stocks Nvidia, Broadcom, AMD, Taiwan Semi, Micron, Super Micro Surge Premarket: Whats Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+    "url": "https://www.benzinga.com/25/01/42813592/ai-chip-stocks-nvidia-broadcom-amd-taiwan-semi-micron-super-micro-surge-on-monday-whats-going-on",
+    "time_published": "20250106T135322",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "Semiconductor chips stocks, including Nvidia Corp NVDA, Advanced Micro Devices, Inc AMD, Broadcom Inc AVGO, Taiwan Semiconductor Manufacturing Co TSM, STMicroelectronics STM, Marvell Technology, Inc MRVL, Micron Technology, Inc MU, Arm Holdings plc ARM, Qualcomm Inc QCOM, Super Micro Computer, ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/06/10-Stocks-In-Tech--Media--and-Healthcare.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.650727"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.246056,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.495015",
+            "ticker_sentiment_score": "0.2315",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.261117",
+            "ticker_sentiment_score": "0.148898",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.261117",
+            "ticker_sentiment_score": "0.017678",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SMCI",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MU",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.088472",
+            "ticker_sentiment_score": "0.173004",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "STM",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.264145",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QCOM",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.261117",
+            "ticker_sentiment_score": "0.070678",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MRVL",
+            "relevance_score": "0.175859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

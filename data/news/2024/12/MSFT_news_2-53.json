@@ -1,0 +1,35 @@
+{
+    "title": "OpenAI Lays Out Its For-Profit Transition Plans, Says It Must Evolve To Advance Its AGI Mission - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) ",
+    "url": "https://www.benzinga.com/24/12/42712683/openai-lays-out-its-for-profit-transition-plans-says-it-must-evolve-to-advance-its-agi-mission",
+    "time_published": "20241228T025359",
+    "authors": [
+        "Rounak Jain"
+    ],
+    "summary": "Microsoft Corp.-backed MSFT OpenAI has outlined its plans to transition its for-profit entity into a Delaware Public Benefit Corporation ( PBC ) . What Happened: Making the announcement, OpenAI said that it needs to evolve to align with its mission of ensuring artificial general intelligence ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/27/Sam-Altman-OpenAI-ChatGPT.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.150461,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.244518",
+            "ticker_sentiment_score": "0.190245",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.164468",
+            "ticker_sentiment_score": "-0.207707",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "A Closer Look at Microsoft's Options Market Dynamics - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/insights/options/24/12/42653024/a-closer-look-at-microsofts-options-market-dynamics",
+    "time_published": "20241223T163051",
+    "authors": [
+        "Benzinga Insights"
+    ],
+    "summary": "Whales with a lot of money to spend have taken a noticeably bullish stance on Microsoft. Looking at options history for Microsoft MSFT we detected 47 trades. If we consider the specifics of each trade, it is accurate to state that 42% of the investors opened trades with bullish expectations and ...",
+    "banner_image": "https://www.benzinga.com/files/images/story/2024/1734971448_0.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        }
+    ],
+    "overall_sentiment_score": 0.234217,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.774174",
+            "ticker_sentiment_score": "0.301514",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

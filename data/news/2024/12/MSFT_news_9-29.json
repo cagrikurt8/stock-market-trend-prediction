@@ -1,0 +1,115 @@
+{
+    "title": "Meet the Magnificent Vanguard ETF With 37.6% of Its Portfolio Invested in Nvidia, Apple, and Microsoft",
+    "url": "https://www.fool.com/investing/2024/12/25/meet-vanguard-etf-376-portfolio-invested-nvidia/",
+    "time_published": "20241225T092900",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "This chart features all eight American technology stocks with valuations of $1 trillion or more, and their respective returns in 2024 so far. Their average return for the year works out to around 67%. By comparison, the S&P 500 is up by just 26%. Here's why that's important.NVDA data by ...",
+    "banner_image": "https://media.ycharts.com/charts/b5003834e13c1bd71751f494938a8b69.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.990678"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.241338,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.13409",
+            "ticker_sentiment_score": "0.076689",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.184894",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.089629",
+            "ticker_sentiment_score": "0.111895",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.13409",
+            "ticker_sentiment_score": "0.076689",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.13409",
+            "ticker_sentiment_score": "0.085599",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.042066",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.089629",
+            "ticker_sentiment_score": "0.057206",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.184894",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MDNDF",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.042066",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.048358",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.068643",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PANW",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.068643",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Top Analyst Reports for Microsoft, Exxon Mobil & Amgen",
+    "url": "https://www.zacks.com/research-daily/2392243/top-analyst-reports-for-microsoft-exxon-mobil-amgen",
+    "time_published": "20250106T211200",
+    "authors": [
+        "Mark Vickery"
+    ],
+    "summary": "Today's Research Daily features new research reports on 16 major stocks, including Microsoft Corporation (MSFT), Exxon Mobil Corporation (XOM) and Amgen Inc. (AMGN), as well as two micro-cap stocks PrimeEnergy Resources Corporation (PNRG) and FONAR Corporation (FONR).",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.839681"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.245697,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.04823",
+            "ticker_sentiment_score": "0.230929",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FONR",
+            "relevance_score": "0.04823",
+            "ticker_sentiment_score": "0.031995",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMGN",
+            "relevance_score": "0.096283",
+            "ticker_sentiment_score": "0.07621",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PNRG",
+            "relevance_score": "0.04823",
+            "ticker_sentiment_score": "0.172835",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

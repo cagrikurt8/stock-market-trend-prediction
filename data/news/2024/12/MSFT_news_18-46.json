@@ -1,0 +1,109 @@
+{
+    "title": "Marjorie Taylor Greene Went Christmas Shopping For Stocks, Here's What She Bought Before Holiday - Applied Mat  ( NASDAQ:AMAT ) , Adobe  ( NASDAQ:ADBE ) ",
+    "url": "https://www.benzinga.com/24/12/42747345/marjorie-taylor-green-went-christmas-shopping-for-stocks-heres-what-she-bought-before-holiday",
+    "time_published": "20241231T184627",
+    "authors": [
+        "Chris Katje"
+    ],
+    "summary": "Rep. Marjorie Taylor Greene ( R-Ga. ) disclosed recent purchases of several stocks on Christmas Eve, according to Benzinga Government Trades. Here's a look at what the far-right politician bought. What Happened: Greene has been an active trader of stocks while in Congress, based on her ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/31/Congresswoman-Marjorie-Taylor-Greene-Spe.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998356"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        }
+    ],
+    "overall_sentiment_score": 0.188505,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.169279",
+            "ticker_sentiment_score": "0.061679",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMAT",
+            "relevance_score": "0.113329",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MDLZ",
+            "relevance_score": "0.113329",
+            "ticker_sentiment_score": "0.306371",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.113329",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.098933",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BRK-A",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.098933",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "JNJ",
+            "relevance_score": "0.169279",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LLY",
+            "relevance_score": "0.224383",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GILD",
+            "relevance_score": "0.113329",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "HSY",
+            "relevance_score": "0.224383",
+            "ticker_sentiment_score": "0.133528",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NSC",
+            "relevance_score": "0.169279",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

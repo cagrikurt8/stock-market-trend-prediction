@@ -1,0 +1,49 @@
+{
+    "title": "Where Will Palantir Stock Be in 2 Years?",
+    "url": "https://www.fool.com/investing/2025/01/01/where-will-palantir-stock-be-in-2-years/",
+    "time_published": "20250101T120000",
+    "authors": [
+        "Harsh Chauhan"
+    ],
+    "summary": "Palantir Technologies ( NASDAQ: PLTR ) stock simply took off in 2024, registering eye-popping gains of 340% as of this writing and handsomely crushing the 23% gains registered by the Nasdaq Composite index during the year.The company, known for supplying software platforms and analytics to both ...",
+    "banner_image": "https://media.ycharts.com/charts/2fe96e853628015a4361c359fb6d22dd.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999491"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.355179,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.044304",
+            "ticker_sentiment_score": "0.03376",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.044304",
+            "ticker_sentiment_score": "0.03376",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.088472",
+            "ticker_sentiment_score": "0.148288",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

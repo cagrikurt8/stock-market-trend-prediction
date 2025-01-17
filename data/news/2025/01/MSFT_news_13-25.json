@@ -1,0 +1,55 @@
+{
+    "title": "CrowdStrike Trades at Premium Valuation: Buy, Sell or Hold the Stock?",
+    "url": "https://www.zacks.com/stock/news/2395596/crowdstrike-trades-at-premium-valuation-buy-sell-or-hold-the-stock",
+    "time_published": "20250113T132500",
+    "authors": [
+        "Anirudha Bhagat"
+    ],
+    "summary": "While CRWD's focus on innovation and a diversified product portfolio provides a strong foundation for future growth, premium valuation warrants caution.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f1/2480.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.918141"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.383227,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.155451",
+            "ticker_sentiment_score": "0.108169",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CYBR",
+            "relevance_score": "0.155451",
+            "ticker_sentiment_score": "0.201333",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRWD",
+            "relevance_score": "0.50746",
+            "ticker_sentiment_score": "0.531304",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "FTNT",
+            "relevance_score": "0.155451",
+            "ticker_sentiment_score": "0.201333",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

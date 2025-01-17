@@ -1,0 +1,63 @@
+{
+    "title": "Will 2025 Be the Year of Artificial Intelligence  ( AI )  Agents? Nvidia's CEO Jensen Huang Thinks So.",
+    "url": "https://www.fool.com/investing/2025/01/11/will-2025-be-the-year-of-ai-agents/",
+    "time_published": "20250111T110900",
+    "authors": [
+        "Keithen Drury"
+    ],
+    "summary": "Listening to what industry leaders say about the future of artificial intelligence ( AI ) is key to being a successful investor. One of the AI leaders is Nvidia's ( NASDAQ: NVDA ) CEO and founder, Jensen Huang. Because Nvidia makes the hardware that powers these AI models, Huang has a great feel ...",
+    "banner_image": "https://media.ycharts.com/charts/ea68425aa884d85df41ce895e0852a20.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.989041"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.650727"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.254821,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.066784",
+            "ticker_sentiment_score": "0.035222",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.759278",
+            "ticker_sentiment_score": "0.479941",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.066784",
+            "ticker_sentiment_score": "0.035222",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.066784",
+            "ticker_sentiment_score": "0.035222",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "The Zacks Analyst Blog Highlights AMD, Dell Technology, NVIDIA and Hewlett Packard",
+    "url": "https://www.zacks.com/stock/news/2393507/the-zacks-analyst-blog-highlights-amd-dell-technology-nvidia-and-hewlett-packard",
+    "time_published": "20250108T131700",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "AMD, Dell Technology, NVIDIA and Hewlett Packard are part of the Zacks top Analyst Blog.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/15/1040.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.413559"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.218724,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.695182",
+            "ticker_sentiment_score": "0.391537",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "HPQ",
+            "relevance_score": "0.096091",
+            "ticker_sentiment_score": "0.062978",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LNVGF",
+            "relevance_score": "0.048133",
+            "ticker_sentiment_score": "0.226894",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.048133",
+            "ticker_sentiment_score": "0.226894",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.237204",
+            "ticker_sentiment_score": "0.003735",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "title": "Stock Market Roundup 2024: Here's What Worked, What Didn't, and What Stocks Investors Can Buy Now and Hold Forever",
+    "url": "https://www.fool.com/investing/2025/01/11/stock-market-roundup-2024-heres-what-worked-what-d/",
+    "time_published": "20250111T100100",
+    "authors": [
+        "Jake Lerch"
+    ],
+    "summary": "The start of a new year is a great time to review what happened over the last 12 months and take some lessons from it. So, as 2025 gets underway, let's take a quick look back to see the highlights and lowlights from 2024 -- and what could be in store for the year ahead.Image source: Getty ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802162%2Ftsla-tesla-nvda-nvida-stock-market-investment.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.684621"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.266143"
+        }
+    ],
+    "overall_sentiment_score": 0.160734,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CVS",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "-0.086049",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "0.038097",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.270973",
+            "ticker_sentiment_score": "0.138425",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DG",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "-0.086049",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DLTR",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "-0.086049",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "OPTGF",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "0.204934",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "0.038097",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.164656",
+            "ticker_sentiment_score": "0.275695",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "WBA",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "-0.086049",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MRNA",
+            "relevance_score": "0.110209",
+            "ticker_sentiment_score": "-0.178375",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.372315",
+            "ticker_sentiment_score": "0.382405",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "BIIB",
+            "relevance_score": "0.110209",
+            "ticker_sentiment_score": "-0.178375",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.055236",
+            "ticker_sentiment_score": "0.21094",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

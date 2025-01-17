@@ -1,0 +1,57 @@
+{
+    "title": "Prediction: Nvidia Will Become the First $4 Trillion Stock in 2025",
+    "url": "https://www.fool.com/investing/2024/12/23/prediction-nvidia-will-become-the-first-4-trillion/",
+    "time_published": "20241223T094800",
+    "authors": [
+        "Keith Speights"
+    ],
+    "summary": "It's the time of year for making predictions about the coming new year. I agree with the Danish proverb, \"Prediction is difficult, especially when dealing with the future.\"However, I'll go out on a limb and make a prediction about the new year.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/801559/data-center-woman-holding-laptop.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.104786,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.388879",
+            "ticker_sentiment_score": "0.035144",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.616612",
+            "ticker_sentiment_score": "0.208887",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.388879",
+            "ticker_sentiment_score": "0.126241",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "If I Could Buy and Hold Only a Single Stock, This Would Be It",
+    "url": "https://www.fool.com/investing/2025/01/08/if-i-could-only-buy-and-hold-a-single-stock-this/",
+    "time_published": "20250108T145300",
+    "authors": [
+        "Stefon Walters"
+    ],
+    "summary": "There are a few fundamentals of investing that virtually everyone should follow, including diversification. It's one of the safest ways to ensure your portfolio is balanced and you reduce risk where possible.Despite how important diversification is, it's OK to admit that not all stocks are ...",
+    "banner_image": "https://media.ycharts.com/charts/31d16488729ae6146ac04680941252c8.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.918141"
+        }
+    ],
+    "overall_sentiment_score": 0.282759,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.540534",
+            "ticker_sentiment_score": "0.410335",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

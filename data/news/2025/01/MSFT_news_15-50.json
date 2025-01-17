@@ -1,0 +1,61 @@
+{
+    "title": "SNCR Stock Rises 59% in a Year: Here's Why the Stock is a Strong Buy",
+    "url": "https://www.zacks.com/stock/news/2397581/sncr-stock-rises-59-in-a-year-heres-why-the-stock-is-a-strong-buy",
+    "time_published": "20250115T155000",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "Synchronoss Technologies benefits from strong demand for its personal cloud solutions and rich partner base.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8b/706.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.650727"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.360215"
+        }
+    ],
+    "overall_sentiment_score": 0.387373,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.197951",
+            "ticker_sentiment_score": "0.096829",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DBX",
+            "relevance_score": "0.197951",
+            "ticker_sentiment_score": "0.096829",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNCR",
+            "relevance_score": "0.64202",
+            "ticker_sentiment_score": "0.478066",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "VZ",
+            "relevance_score": "0.197951",
+            "ticker_sentiment_score": "0.409622",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "SFTBF",
+            "relevance_score": "0.066598",
+            "ticker_sentiment_score": "0.255066",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

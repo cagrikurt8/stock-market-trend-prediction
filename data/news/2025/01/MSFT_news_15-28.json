@@ -1,0 +1,49 @@
+{
+    "title": "Rezolve Ai CEO Daniel Wagner Applauds National Data Library Announcement but Urges Government to Prioritize UK AI Companies",
+    "url": "https://www.globenewswire.com/news-release/2025/01/13/3008677/0/en/Rezolve-Ai-CEO-Daniel-Wagner-Applauds-National-Data-Library-Announcement-but-Urges-Government-to-Prioritize-UK-AI-Companies.html",
+    "time_published": "20250113T152800",
+    "authors": [
+        "Rezolve AI Ltd"
+    ],
+    "summary": "LONDON, Jan. 13, 2025 ( GLOBE NEWSWIRE ) -- Rezolve Ai ( NASDAQ: RZLV ) founder and CEO Daniel Wagner today commended the UK government's recent decision to create a National Data Library to help give developers access to high quality data as part of a plan to fuel AI progress and high-quality ...",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/d48c65ef-dfff-4285-958b-06dcf212c171",
+    "source": "GlobeNewswire",
+    "category_within_source": "n/a",
+    "source_domain": "www.globenewswire.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.576289"
+        }
+    ],
+    "overall_sentiment_score": 0.371003,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.050572",
+            "ticker_sentiment_score": "0.190346",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RZLV",
+            "relevance_score": "0.296463",
+            "ticker_sentiment_score": "0.323719",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.050572",
+            "ticker_sentiment_score": "0.190346",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

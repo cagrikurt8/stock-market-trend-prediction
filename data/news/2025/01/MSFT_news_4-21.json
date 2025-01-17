@@ -1,0 +1,33 @@
+{
+    "title": "Microsoft Pauses Construction On $3.3 Billion Data Center Expected To Be Used By ChatGPT-Parent OpenAI For Massive Super Computer - Microsoft  ( NASDAQ:MSFT ) , Foxconn Tech Co  ( OTC:FXCOF ) ",
+    "url": "https://www.benzinga.com/25/01/42806852/microsoft-pauses-construction-on-33-billion-mount-pleasant-data-center-project-cites-technology-changes-and-desig",
+    "time_published": "20250106T042100",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "Microsoft Corporation MSFT has decided to temporarily pause construction on parts of its ambitious data center project in Mount Pleasant.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/05/microsoft-shutter.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.87644"
+        }
+    ],
+    "overall_sentiment_score": 0.229997,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.612521",
+            "ticker_sentiment_score": "0.487459",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

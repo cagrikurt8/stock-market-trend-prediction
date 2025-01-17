@@ -1,0 +1,51 @@
+{
+    "title": "ASUS Significantly Expands its Lineup of Copilot+ PCs at CES 2025",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42856464/asus-significantly-expands-its-lineup-of-copilot-pcs-at-ces-2025",
+    "time_published": "20250107T173500",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "AI power, unleashed: All-new Copilot+ PCs include Zenbook A14, Vivobook S14/S16 and Vivobook 14/16 powered by Snapdragon X-series processors AI for everyone: Multiple ASUS series join Copilot+ PC lineup, including everyday Vivobook series, making AI affordable for more users than ever before",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/3e56769d-5357-4f25-bfad-60563d98dfee/asus-significantly-expands-its-lineup-of-copilot-pcs-at-ces-2025.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.448145,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "LNVGF",
+            "relevance_score": "0.017969",
+            "ticker_sentiment_score": "0.072525",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.259921",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SSNLF",
+            "relevance_score": "0.017969",
+            "ticker_sentiment_score": "0.072525",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QCOM",
+            "relevance_score": "0.035929",
+            "ticker_sentiment_score": "0.186495",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

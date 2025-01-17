@@ -1,0 +1,33 @@
+{
+    "title": "Patent and Trademark Office Issues Ensemble's Latest Patent - Using AI to Improve Clinician and Patient Experience",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42941024/patent-and-trademark-office-issues-ensembles-latest-patent-using-ai-to-improve-clinician-and-patie",
+    "time_published": "20250113T120655",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "Cincinnati, OH, Jan. 13, 2025 ( GLOBE NEWSWIRE ) -- Ensemble, ranked consistently as the number one revenue cycle managed services company for healthcare organizations, announced today the United States Patent and Trademark Office has granted Ensemble its 11th patent for its latest innovative ...",
+    "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.996023"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.460019,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.063594",
+            "ticker_sentiment_score": "0.212522",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

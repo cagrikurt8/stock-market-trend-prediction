@@ -1,0 +1,89 @@
+{
+    "title": "Dana White, John Elkann and Charlie Songhurst to Join Meta Board of Directors - Meta Platforms  ( NASDAQ:META ) ",
+    "url": "https://www.benzinga.com/pressreleases/25/01/n42830962/dana-white-john-elkann-and-charlie-songhurst-to-join-meta-board-of-directors",
+    "time_published": "20250106T211500",
+    "authors": [
+        "PRNewswire"
+    ],
+    "summary": "MENLO PARK, Calif., Jan. 6, 2025 /PRNewswire/ -- Meta today announced that Dana White, John Elkann and Charlie Songhurst have been elected to the company's board of directors.",
+    "banner_image": "https://mma.prnewswire.com/media/2591745/Meta_Logo_Logo.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.219268,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "JVTSF",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "0.064553",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "0.100671",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PYPL",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "-0.036228",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "0.100671",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "0.062609",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "-0.036228",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DBX",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "-0.036228",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DASH",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "-0.036228",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GE",
+            "relevance_score": "0.039224",
+            "ticker_sentiment_score": "0.064553",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

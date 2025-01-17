@@ -1,0 +1,53 @@
+{
+    "title": "2 Glorious Growth Stocks Down 28% and 73% You'll Wish You'd Bought on the Dip, According to Wall Street",
+    "url": "https://www.fool.com/investing/2024/12/24/2-growth-stocks-28-73-wish-youd-bought-wall-street/",
+    "time_published": "20241224T095700",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "The S&P 500 is in a raging bull market. It's up 26% in 2024, which followed a 26% gain in 2023. It hasn't delivered back-to-back annual gains that strong since 1997 and 1998 during the dot-com internet bubble. Large technology stocks like Nvidia and Apple are driving those gains.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801860%2Fa-person-holding-a-clipboard-while-looking-at-stock-charts-on-a-laptop.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.980922"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.87644"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.21073,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.046907",
+            "ticker_sentiment_score": "0.247624",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "WK",
+            "relevance_score": "0.443626",
+            "ticker_sentiment_score": "0.321054",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.046907",
+            "ticker_sentiment_score": "0.098733",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Buy These 3 Baron Mutual Funds for Solid Returns",
+    "url": "https://www.zacks.com/stock/news/2390512/buy-these-3-baron-mutual-funds-for-solid-returns",
+    "time_published": "20250102T101500",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Consider investing in Baron mutual funds like BDAFX, BRIFX and BFGFX for impressive returns.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/09/344.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.929393"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.358942,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.050315",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.050315",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.051323",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SPOT",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.051323",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VNO",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.0483",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WELL",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.0483",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ACGL",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.051323",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "EQIX",
+            "relevance_score": "0.073098",
+            "ticker_sentiment_score": "0.0483",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

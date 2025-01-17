@@ -1,0 +1,105 @@
+{
+    "title": "6 Tech ETFs That Are Up At Least 40% in 2024",
+    "url": "https://www.zacks.com/stock/news/2387095/6-tech-etfs-that-are-up-at-least-40-in-2024",
+    "time_published": "20241223T180000",
+    "authors": [
+        "Sanghamitra Saha"
+    ],
+    "summary": "Artificial Intelligence, Cryptocurrency and Fintech have pulled the strings of the tech boom this year.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b3/81698.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999981"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.293538,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.053509",
+            "ticker_sentiment_score": "0.241854",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SHOP",
+            "relevance_score": "0.053509",
+            "ticker_sentiment_score": "0.276909",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.053509",
+            "ticker_sentiment_score": "0.241854",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.106778",
+            "ticker_sentiment_score": "0.134606",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.053509",
+            "ticker_sentiment_score": "0.241854",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.106778",
+            "ticker_sentiment_score": "0.231026",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "COIN",
+            "relevance_score": "0.053509",
+            "ticker_sentiment_score": "0.276909",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.106778",
+            "ticker_sentiment_score": "0.134606",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.211652",
+            "ticker_sentiment_score": "0.146894",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:ETH",
+            "relevance_score": "0.053509",
+            "ticker_sentiment_score": "0.077721",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:QTUM",
+            "relevance_score": "0.053509",
+            "ticker_sentiment_score": "-0.213808",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Trump and Interest Rates: The 2 Key Reasons This Vanguard ETF Could Thrive in 2025",
+    "url": "https://www.fool.com/investing/2025/01/01/trump-interest-rates-2-reasons-vanguard-etf-2025/",
+    "time_published": "20250101T092700",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "When it comes to the major U.S. stock market indexes, the benchmark S&P 500 ( SNPINDEX: ^GSPC ) tends to get most of the attention. It's highly diversified, but its top eight holdings are the trillion-dollar giants that operate at the forefront of technological innovations such as artificial ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802300%2Fa-wall-street-street-sign-with-american-flags-in-the-backdrop.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.890401"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999759"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.614606"
+        }
+    ],
+    "overall_sentiment_score": 0.224537,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.044718",
+            "ticker_sentiment_score": "0.146942",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PCVX",
+            "relevance_score": "0.044718",
+            "ticker_sentiment_score": "0.105197",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.044718",
+            "ticker_sentiment_score": "0.146942",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SFM",
+            "relevance_score": "0.044718",
+            "ticker_sentiment_score": "0.105197",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AIT",
+            "relevance_score": "0.044718",
+            "ticker_sentiment_score": "0.105197",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

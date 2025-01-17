@@ -1,0 +1,75 @@
+{
+    "title": "Stanley Druckenmiller Dumps Street's Hottest AI Stocks - Here's What The Billionaire Investor Is Betting On Next - Broadcom  ( NASDAQ:AVGO ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/markets/equities/24/12/42668157/stanley-druckenmiller-dumps-streets-hottest-ai-stocks-heres-what-the-billionaire-investor-is-bet",
+    "time_published": "20241224T124114",
+    "authors": [
+        "Rounak Jain"
+    ],
+    "summary": "Billionaire investor Stanley Druckenmiller's family office Duquesne has offloaded two of Wall Street's hottest AI stocks - Nvidia Corp. NVDA and Palantir Technologies Inc. PLTR, according to a recent 13F filing.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/24/Career-Spanning-Three-Decades.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.278403,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NTRA",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.05111",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.624423",
+            "ticker_sentiment_score": "0.331283",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.20065",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.199859",
+            "ticker_sentiment_score": "0.199116",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

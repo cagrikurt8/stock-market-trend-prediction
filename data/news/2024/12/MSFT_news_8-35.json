@@ -1,0 +1,53 @@
+{
+    "title": "Meet the Top-Performing Stock in the Dow Jones in 2024. It's Soared 163% So Far This Year, and It's My Highest-Conviction Stock to Buy for 2025.",
+    "url": "https://www.fool.com/investing/2024/12/21/meet-the-top-performing-stock-in-the-dow-jones-in/",
+    "time_published": "20241221T083500",
+    "authors": [
+        "Danny Vena"
+    ],
+    "summary": "A wave of AI uncertainty and valuation concerns have stopped this highflier in its tracks, but blistering gains could be on the horizon.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801529%2Fwall-street-traders-looking-at-graphs-and-charts-cheering-because-the-stock-market-went-up.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.977154"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.95493"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.198658,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.042571",
+            "ticker_sentiment_score": "0.141275",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.042571",
+            "ticker_sentiment_score": "0.141275",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.635843",
+            "ticker_sentiment_score": "0.282589",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

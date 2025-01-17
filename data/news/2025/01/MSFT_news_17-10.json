@@ -1,0 +1,33 @@
+{
+    "title": "Security Risk Advisors joins the Microsoft Intelligent Security Association",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42855484/security-risk-advisors-joins-the-microsoft-intelligent-security-association",
+    "time_published": "20250107T171031",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "PHILADELPHIA, Jan. 07, 2025 ( GLOBE NEWSWIRE ) --",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/24b5d12b-8b68-4c96-9cc3-68f3b32af63a/misa-featured-1736257874swmuw03bnv-915x549.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.330941,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.696068",
+            "ticker_sentiment_score": "0.571755",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

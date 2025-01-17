@@ -1,0 +1,51 @@
+{
+    "title": "Could Microsoft CEO Satya Nadella's Recent Comments About AI Agents Mean Huge Trouble for These 2 Stocks?",
+    "url": "https://www.fool.com/investing/2025/01/14/could-microsoft-ceo-satya-nadellas-recent-comments/",
+    "time_published": "20250114T104800",
+    "authors": [
+        "Keith Speights"
+    ],
+    "summary": "What's the next big thing? Probably artificial intelligence ( AI ) agents. At least, that's the best answer based on what many technology sector executives and industry analysts are talking about the most these days.Microsoft ( NASDAQ: MSFT ) CEO Satya Nadella is one executive who is publicly ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803784/man-pointing-to-ai-on-display.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.237146,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.189298",
+            "ticker_sentiment_score": "0.106967",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UPWK",
+            "relevance_score": "0.324902",
+            "ticker_sentiment_score": "0.137395",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FVRR",
+            "relevance_score": "0.324902",
+            "ticker_sentiment_score": "0.211285",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "INFY",
+            "relevance_score": "0.047749",
+            "ticker_sentiment_score": "0.074058",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

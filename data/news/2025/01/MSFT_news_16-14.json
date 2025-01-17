@@ -1,0 +1,65 @@
+{
+    "title": "Market Clubhouse Morning Memo - January 14th, 2025  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META and TSLA ) ",
+    "url": "https://www.benzinga.com/trading-ideas/25/01/42980192/market-clubhouse-morning-memo-january-14th-2025-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-met",
+    "time_published": "20250114T161443",
+    "authors": [
+        "RIPS"
+    ],
+    "summary": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.",
+    "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.614606"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.658903"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.123676,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.092095",
+            "ticker_sentiment_score": "0.20077",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.030759",
+            "ticker_sentiment_score": "0.074596",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.122581",
+            "ticker_sentiment_score": "0.046976",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.092095",
+            "ticker_sentiment_score": "0.017269",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.092095",
+            "ticker_sentiment_score": "0.124538",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

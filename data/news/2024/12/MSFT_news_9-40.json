@@ -1,0 +1,47 @@
+{
+    "title": "Here's the Average Net Worth by Age and 5 Ways to Make Money in 2025 and Beyond",
+    "url": "https://www.fool.com/investing/2024/12/22/average-net-worth-by-age-5-ways-make-money-2025/",
+    "time_published": "20241222T094000",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "The Federal Reserve conducts its Survey of Consumer Finances ( SCF ) every three years. The report provides a snapshot of the financial conditions of U.S. households, measuring income, assets, and debt across various demographic categories.The latest SCF was conducted in 2022 and published in ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801863%2Fsavings-4.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.99793"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.338953,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.042421",
+            "ticker_sentiment_score": "0.106569",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.042421",
+            "ticker_sentiment_score": "0.106569",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

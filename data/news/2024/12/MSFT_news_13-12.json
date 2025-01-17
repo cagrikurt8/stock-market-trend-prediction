@@ -1,0 +1,63 @@
+{
+    "title": "Twilio Up 99% in Six Months: Will the Stock Carry Momentum in 2025?",
+    "url": "https://www.zacks.com/stock/news/2388126/twilio-up-99-in-six-months-will-the-stock-carry-momentum-in-2025",
+    "time_published": "20241226T131200",
+    "authors": [
+        "Anirudha Bhagat"
+    ],
+    "summary": "With an attractive valuation, a strong financial foundation and innovative AI-driven products, TWLO is well-positioned to continue its upward trajectory.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3b/3776.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.459462"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972756"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.453862,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "APG",
+            "relevance_score": "0.09402",
+            "ticker_sentiment_score": "0.165618",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.09402",
+            "ticker_sentiment_score": "0.052707",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CSCO",
+            "relevance_score": "0.09402",
+            "ticker_sentiment_score": "0.052707",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.09402",
+            "ticker_sentiment_score": "0.052707",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

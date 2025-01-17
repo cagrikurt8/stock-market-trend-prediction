@@ -1,0 +1,53 @@
+{
+    "title": "The Best S&P 500 ETF to Invest $500 In Right Now",
+    "url": "https://www.fool.com/investing/2025/01/13/the-best-sp-500-etf-to-invest-500-in-right-now/",
+    "time_published": "20250113T095500",
+    "authors": [
+        "Adria Cimino"
+    ],
+    "summary": "The S&P 500 had a fantastic 2024, roaring into a bull market and going on to deliver a 23% gain. And that's after already climbing in the double digits the previous year. Of course, even though the bull market is going strong, it's impossible for anyone to predict with 100% accuracy whether the ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803560%2Fgettyimages-508137942.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999966"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.303926,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.065685",
+            "ticker_sentiment_score": "0.099147",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.065685",
+            "ticker_sentiment_score": "0.099147",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.065685",
+            "ticker_sentiment_score": "0.099147",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

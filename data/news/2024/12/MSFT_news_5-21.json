@@ -1,0 +1,35 @@
+{
+    "title": "OpenAI CEO Sam Altman Crowdsources 2025 Goals - Sora Upgrades Top User Wishlist - Alphabet  ( NASDAQ:GOOG ) ",
+    "url": "https://www.benzinga.com/tech/24/12/42676715/openai-ceo-sam-altman-crowdsources-2025-goals-sora-upgrades-top-user-wishlist",
+    "time_published": "20241225T052120",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "On Tuesday, OpenAI CEO Sam Altman turned to the users to gather their suggestions on the company's future projects and improvements for 2025. What Happened: Altman's query on X, formerly Twitter elicited a variety of responses.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/25/Sam-Altman-OpenAI-ChatGPT.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.342431,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.115787",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.337811",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

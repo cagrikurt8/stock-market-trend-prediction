@@ -1,0 +1,55 @@
+{
+    "title": "Microsoft To Cut Costs, Pause Hiring In US Consulting - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/media/25/01/43003727/microsoft-to-cut-costs-pause-hiring-in-us-consulting-tighten-spending",
+    "time_published": "20250115T143910",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "Microsoft plans to pause hiring in part of its US consulting business, impacting less than 1% of its workforce. The company targets 35% cuts in marketing and nonbillable spending while urging remote sessions over internal travel. Get 5 New Stock Recommendations Every Week",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/California--United-States---May-31-2024-.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.929393"
+        }
+    ],
+    "overall_sentiment_score": 0.0,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.530253",
+            "ticker_sentiment_score": "0.238014",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.370143",
+            "ticker_sentiment_score": "-0.209312",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.190417",
+            "ticker_sentiment_score": "-0.021402",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.190417",
+            "ticker_sentiment_score": "-0.023867",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

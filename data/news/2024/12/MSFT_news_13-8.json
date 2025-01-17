@@ -1,0 +1,107 @@
+{
+    "title": "Starboard sees an opportunity to create value at Riot Platforms amid growth in hyperscalers",
+    "url": "https://www.cnbc.com/2024/12/21/starboard-sees-a-chance-to-create-value-at-riot-platforms.html",
+    "time_published": "20241221T130831",
+    "authors": [],
+    "summary": "Riot Platforms is in a solid position to capitalize on an opportunity to lease capacity to hyperscalers.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Investing",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.990999"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.839681"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.2"
+        }
+    ],
+    "overall_sentiment_score": 0.105516,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.022494",
+            "ticker_sentiment_score": "0.090581",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.022494",
+            "ticker_sentiment_score": "0.090581",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.022494",
+            "ticker_sentiment_score": "0.040988",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "HUT",
+            "relevance_score": "0.022494",
+            "ticker_sentiment_score": "0.040988",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CORZQ",
+            "relevance_score": "0.089797",
+            "ticker_sentiment_score": "0.016894",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RIOT",
+            "relevance_score": "0.089797",
+            "ticker_sentiment_score": "0.007343",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BTBT",
+            "relevance_score": "0.022494",
+            "ticker_sentiment_score": "0.040988",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CLSK",
+            "relevance_score": "0.022494",
+            "ticker_sentiment_score": "0.040988",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.46494",
+            "ticker_sentiment_score": "0.024619",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

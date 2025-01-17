@@ -1,0 +1,57 @@
+{
+    "title": "1 Tech ETF Set to Outperform as Agentic and Physical AI Transform 2025",
+    "url": "https://www.fool.com/investing/2025/01/06/1-tech-etf-set-to-outperform-as-agentic-and-physic/",
+    "time_published": "20250106T111500",
+    "authors": [
+        "George Budwell"
+    ],
+    "summary": "Wall Street analysts expect solid market gains in 2025. The S&P 500 consensus outlook projects a 9% rise in the benchmark index, offering investors a potential total return of 10.2% including dividends.However, artificial intelligence ( AI ) investments could drive even stronger returns this year.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802927%2Fgettyimages-2078917109.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.839681"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.231814,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.360752",
+            "ticker_sentiment_score": "0.330033",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.124164",
+            "ticker_sentiment_score": "-0.011769",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.245339",
+            "ticker_sentiment_score": "0.063889",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

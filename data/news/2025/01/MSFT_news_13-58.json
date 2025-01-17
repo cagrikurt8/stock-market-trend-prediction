@@ -1,0 +1,83 @@
+{
+    "title": "BLKB Unveils Donation Forms for New Zealand & Australia Customers",
+    "url": "https://www.zacks.com/stock/news/2395637/blkb-unveils-donation-forms-for-new-zealand-australia-customers",
+    "time_published": "20250113T135800",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Blackbaud launches Optimized Donation Forms in Australia and New Zealand, boosting gift sizes, eliminating fees and growing donor bases for Raiser's Edge NXT users.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/65/84542.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.986564"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.373841,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "EDMCQ",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.277321",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.090989",
+            "ticker_sentiment_score": "-0.047666",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FLYW",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.196113",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "UI",
+            "relevance_score": "0.180798",
+            "ticker_sentiment_score": "0.121926",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IDCC",
+            "relevance_score": "0.180798",
+            "ticker_sentiment_score": "0.110417",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RDCM",
+            "relevance_score": "0.180798",
+            "ticker_sentiment_score": "0.087403",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BLKB",
+            "relevance_score": "0.746902",
+            "ticker_sentiment_score": "0.62485",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "CRYPTO:NXT",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.190111",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

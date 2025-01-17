@@ -1,0 +1,87 @@
+{
+    "title": "Quantum Computing: Hype or Investment Opportunity?",
+    "url": "https://www.zacks.com/stock/news/2387113/quantum-computing-hype-or-investment-opportunity",
+    "time_published": "20241223T193300",
+    "authors": [
+        "Neena Mishra"
+    ],
+    "summary": "Could quantum computing be the next transformative breakthrough after AI?",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/18/20877.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.614606"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.118069,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.252114",
+            "ticker_sentiment_score": "0.077971",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.252114",
+            "ticker_sentiment_score": "0.071879",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.331765",
+            "ticker_sentiment_score": "0.119064",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.252114",
+            "ticker_sentiment_score": "0.089121",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.252114",
+            "ticker_sentiment_score": "0.089121",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.252114",
+            "ticker_sentiment_score": "0.089121",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.169676",
+            "ticker_sentiment_score": "0.080843",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:QTUM",
+            "relevance_score": "0.085324",
+            "ticker_sentiment_score": "0.105776",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

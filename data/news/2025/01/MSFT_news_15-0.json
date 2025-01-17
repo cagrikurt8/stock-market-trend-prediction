@@ -1,0 +1,37 @@
+{
+    "title": "Industry Comparison: Evaluating Microsoft Against Competitors In Software Industry - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/insights/news/25/01/42755469/industry-comparison-evaluating-microsoft-against-competitors-in-software-industry",
+    "time_published": "20250101T150019",
+    "authors": [
+        "Benzinga Insights"
+    ],
+    "summary": "In the dynamic and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating Microsoft MSFT and its primary competitors in the Software industry.",
+    "banner_image": "https://www.benzinga.com/files/images/story/2025/1735743616_0.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.928769"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.5855"
+        }
+    ],
+    "overall_sentiment_score": 0.258092,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.483434",
+            "ticker_sentiment_score": "0.309621",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

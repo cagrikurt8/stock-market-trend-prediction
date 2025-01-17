@@ -1,0 +1,71 @@
+{
+    "title": "Prediction: 3 Highly Anticipated IPO Stocks Will Hit the Market in 2025",
+    "url": "https://www.fool.com/investing/2025/01/03/3-ipo-stocks-will-hit-stock-market-in-2025/",
+    "time_published": "20250103T083000",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "The stock market just had a banner year. The S&P 500 ( SNPINDEX: ^GSPC ) advanced 23% in 2024, marking the second consecutive year its annual return exceeded 20%. The last time the benchmark index accomplished the same feat was 1998.Not surprisingly, initial public offerings ( IPOs ) showed signs ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802594%2Fipo-1.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "IPO",
+            "relevance_score": "0.928139"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.87644"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.180979,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.060009",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PYPL",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.116",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SHOP",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.116",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.060009",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FRGE",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.106031",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ADYYF",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.116",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Zacks Investment Ideas feature highlights: Cadence Design Systems, Nvidia, Arista Networks Microsoft and Meta",
+    "url": "https://www.zacks.com/stock/news/2389754/zacks-investment-ideas-feature-highlights-cadence-design-systems-nvidia-arista-networks-microsoft-and-meta",
+    "time_published": "20241231T071500",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "Cadence Design Systems, Nvidia, Arista Networks Microsoft and Meta have been highlighted in this Investment Ideas article.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d9/12227.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999612"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999491"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.214976,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.200355",
+            "ticker_sentiment_score": "0.16875",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CDNS",
+            "relevance_score": "0.315325",
+            "ticker_sentiment_score": "-0.004513",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.121037",
+            "ticker_sentiment_score": "0.03733",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ANET",
+            "relevance_score": "0.522705",
+            "ticker_sentiment_score": "0.231271",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

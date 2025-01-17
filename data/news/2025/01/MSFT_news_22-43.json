@@ -1,0 +1,55 @@
+{
+    "title": "Obtain Nuclear Exposure with This Strategy",
+    "url": "https://www.zacks.com/commentary/2394673/obtain-nuclear-exposure-with-this-strategy",
+    "time_published": "20250109T224300",
+    "authors": [
+        "Derek Lewis"
+    ],
+    "summary": "Nuclear energy stands at the cusp of the global push for a low-carbon, greener, and more resilient energy future. And investors can find exposure easily through Zacks Thematic Screens.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/1b/90238.jpg?v=858692226",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        }
+    ],
+    "overall_sentiment_score": 0.445075,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.064449",
+            "ticker_sentiment_score": "0.212445",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RENI",
+            "relevance_score": "0.064449",
+            "ticker_sentiment_score": "0.094083",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CCJ",
+            "relevance_score": "0.191675",
+            "ticker_sentiment_score": "0.356974",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.191675",
+            "ticker_sentiment_score": "0.267092",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

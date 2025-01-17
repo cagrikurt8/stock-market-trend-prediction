@@ -1,0 +1,87 @@
+{
+    "title": "Prediction: This Unstoppable Vanguard ETF Will Crush the S&P 500 Again in 2025",
+    "url": "https://www.fool.com/investing/2025/01/02/prediction-vanguard-etf-crush-sp-500-again-2025/",
+    "time_published": "20250102T092600",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "The S&P 500 delivered a return of some 23% in 2024, which is more than double its average annual gain of 10.6% since it was established in 1957. However, had you invested in the Vanguard S&P 500 Growth ETF ( NYSEMKT: VOOG ) , you would have earned a whopping 38% return instead.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802376%2Fgolden-bull-and-bear-figurines-standing-on-top-of-a-newspaper.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.99989"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.219534,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.06623",
+            "ticker_sentiment_score": "-0.006019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.196877",
+            "ticker_sentiment_score": "0.184502",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.06623",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.06623",
+            "ticker_sentiment_score": "0.079122",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MDNDF",
+            "relevance_score": "0.06623",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.06623",
+            "ticker_sentiment_score": "-0.006019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.06623",
+            "ticker_sentiment_score": "0.079122",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TXN",
+            "relevance_score": "0.06623",
+            "ticker_sentiment_score": "0.079122",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

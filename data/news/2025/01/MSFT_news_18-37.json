@@ -1,0 +1,51 @@
+{
+    "title": "Does Dynatrace's 16% Rise in 6 Months Justify Holding on to the Stock?",
+    "url": "https://www.zacks.com/stock/news/2397727/does-dynatraces-16-rise-in-6-months-justify-holding-on-to-the-stock",
+    "time_published": "20250115T183700",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "The DT stock gains from AI-driven growth and strong partnerships. Yet, challenges in customer acquisition and sales productivity are concerning.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bf/827.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.818451"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.358568,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CLVT",
+            "relevance_score": "0.107736",
+            "ticker_sentiment_score": "0.030501",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DT",
+            "relevance_score": "0.656912",
+            "ticker_sentiment_score": "0.522442",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.16099",
+            "ticker_sentiment_score": "0.079944",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.107736",
+            "ticker_sentiment_score": "-0.04775",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

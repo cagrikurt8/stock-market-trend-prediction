@@ -1,0 +1,49 @@
+{
+    "title": "Nvidia Stock Jumped Today -- Is the Artificial Intelligence  ( AI )  Leader a Buy for 2025?",
+    "url": "https://www.fool.com/investing/2025/01/03/nvidia-stock-jumped-today-ai-leader-a-buy-2025/",
+    "time_published": "20250103T214725",
+    "authors": [
+        "Keith Noonan"
+    ],
+    "summary": "Nvidia stock has skyrocketed 200% over the last year. Can the AI frontrunner serve up more wins in 2025 and beyond?",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802823/gettyimages-1473086836.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.5855"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.403234,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.367412",
+            "ticker_sentiment_score": "0.325872",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "DSSMY",
+            "relevance_score": "0.095138",
+            "ticker_sentiment_score": "0.113337",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.767999",
+            "ticker_sentiment_score": "0.612844",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

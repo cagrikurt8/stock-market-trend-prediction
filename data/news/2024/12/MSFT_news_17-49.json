@@ -1,0 +1,153 @@
+{
+    "title": "It's a Sporting Time of Year. Time to Take a Look at Academy Sports and Outdoors.",
+    "url": "https://www.fool.com/investing/2024/12/23/its-a-sporting-time-of-year-time-to-take-a-look-at/",
+    "time_published": "20241223T174900",
+    "authors": [
+        "Motley Fool Staff"
+    ],
+    "summary": "We also answer listener questions about diversification in the S&P 500.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/800926/dec10.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.928139"
+        }
+    ],
+    "overall_sentiment_score": 0.116964,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.015197",
+            "ticker_sentiment_score": "0.064501",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UAL",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.046969",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.015197",
+            "ticker_sentiment_score": "0.064501",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.072789",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MDNDF",
+            "relevance_score": "0.015197",
+            "ticker_sentiment_score": "0.06707",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BRK-A",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.072789",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.015197",
+            "ticker_sentiment_score": "0.064501",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.046969",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DKS",
+            "relevance_score": "0.015197",
+            "ticker_sentiment_score": "-0.008534",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNBR",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.101369",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.015197",
+            "ticker_sentiment_score": "0.064501",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.072789",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SBUX",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.101369",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ATZAF",
+            "relevance_score": "0.090989",
+            "ticker_sentiment_score": "0.068996",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ASO",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.009008",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.072789",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.007599",
+            "ticker_sentiment_score": "0.026934",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

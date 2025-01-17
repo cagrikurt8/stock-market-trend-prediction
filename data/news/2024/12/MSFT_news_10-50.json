@@ -1,0 +1,43 @@
+{
+    "title": "Larry Ellison's Wealth Soars By $75B, Trailing Only Elon Musk And Jeff Bezos, As Oracle Posts Its Biggest Stock Rally Since The Dot-Com Era - Oracle  ( NYSE:ORCL ) ",
+    "url": "https://www.benzinga.com/markets/24/12/42698903/larry-ellisons-wealth-soars-by-75b-trailing-only-elon-musk-and-jeff-bezos-as-oracle-posts-its-biggest-sto",
+    "time_published": "20241227T105035",
+    "authors": [
+        "Pooja Rajkumari"
+    ],
+    "summary": "Larry Ellison closes out a remarkable year as Oracle Corp. ORCL sees its strongest stock rally since the dot-com era, adding nearly $75 billion to Ellison's net worth. What Happened: Oracle's shares have climbed 63% in 2024, significantly outpacing the S&P 500's 27% gain.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/27/Larry-Ellisons-Youthful-Looks-Earn-Appla.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.818451"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.278423,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.111488",
+            "ticker_sentiment_score": "0.117782",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.42503",
+            "ticker_sentiment_score": "0.309364",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

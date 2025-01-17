@@ -1,0 +1,67 @@
+{
+    "title": "Now That It's 2025, It's Finally Time to Buy These 3 AI Stocks",
+    "url": "https://www.fool.com/investing/2025/01/12/now-2025-finally-time-buy-these-3-stocks/",
+    "time_published": "20250112T082000",
+    "authors": [
+        "Will Healy",
+        "Justin Pope",
+        "and Jake Lerch"
+    ],
+    "summary": "Artificial intelligence ( AI ) has sparked a rally in numerous tech stocks. Thanks to this cutting-edge technology, stocks such as Nvidia and Palantir have experienced exponential increases in their stock prices.Still, not all AI stocks have responded in equal measure or simultaneously.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803335/ai-robot-tells-person-secret.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.623304"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972756"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.174025,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.193001",
+            "ticker_sentiment_score": "-0.069317",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.077845",
+            "ticker_sentiment_score": "0.039792",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.116536",
+            "ticker_sentiment_score": "-0.052606",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VRT",
+            "relevance_score": "0.339874",
+            "ticker_sentiment_score": "0.334269",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ASML",
+            "relevance_score": "0.374875",
+            "ticker_sentiment_score": "0.034986",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

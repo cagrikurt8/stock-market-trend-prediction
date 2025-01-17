@@ -1,0 +1,105 @@
+{
+    "title": "1 Nvidia-Backed Artificial Intelligence  ( AI )  Stock to Buy Hand Over Fist in 2025  ( Hint: It's Not SoundHound AI ) ",
+    "url": "https://www.fool.com/investing/2025/01/06/1-nvidia-backed-ai-stock-to-buy-hand-over-fist/",
+    "time_published": "20250106T131500",
+    "authors": [
+        "Adam Spatacco"
+    ],
+    "summary": "Nvidia just invested in an Amsterdam-based AI infrastructure company.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802769%2Fgettyimages-1480633240-1.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.261006,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.177767",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SERV",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.039658",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.412298",
+            "ticker_sentiment_score": "0.338469",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SOUN",
+            "relevance_score": "0.095899",
+            "ticker_sentiment_score": "0.148123",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.177767",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "APLD",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RXRX",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NNOX",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:NANO",
+            "relevance_score": "0.048036",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

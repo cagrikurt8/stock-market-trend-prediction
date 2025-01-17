@@ -1,0 +1,61 @@
+{
+    "title": "QUBT, QBTS Up 12%, RGTI Gains 3% In Wednesday Premarket: Quantum Computing Stocks Gain Momentum After Microsoft Says 'We Are Right On The Cusp Of Seeing Quantum Computers Solve Meaningful Problems' - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",
+    "url": "https://www.benzinga.com/markets/equities/25/01/42998134/qubt-qbts-up-12-rgti-gains-3-in-wednesday-premarket-quantum-computing-stocks-gain-momentum-after",
+    "time_published": "20250115T120556",
+    "authors": [
+        "Pooja Rajkumari"
+    ],
+    "summary": "Quantum computing stocks saw a significant uptick during pre-market trading on Wednesday, driven by Microsoft Corp. MSFT entering the quantum computing conversation with plans to make its business clients \"quantum-ready\" by 2025. What Happened: According to Benzinga Pro, Quantum Computing Inc.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/Quantum-Computing-Stock-QUBT-Has-More-Th.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.684621"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.220831,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.330286",
+            "ticker_sentiment_score": "0.250914",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QUBT",
+            "relevance_score": "0.223866",
+            "ticker_sentiment_score": "0.284562",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.330286",
+            "ticker_sentiment_score": "0.310654",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.330286",
+            "ticker_sentiment_score": "-0.026657",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.223866",
+            "ticker_sentiment_score": "0.284562",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

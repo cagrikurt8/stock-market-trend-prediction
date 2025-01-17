@@ -1,0 +1,39 @@
+{
+    "title": "5 Weirdest Tech Trends of 2024: From AI Lovers to Brain Hacking",
+    "url": "https://decrypt.co/296896/5-weirdest-tech-trends-2024",
+    "time_published": "20241225T200102",
+    "authors": [
+        "Jose Antonio Lanz"
+    ],
+    "summary": "Remember when the weirdest thing about 2023 was the beer made of Amouranth's vaginal yeast? Well, 2024 said \"hold my mug.\" ...",
+    "banner_image": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/Is-having-an-AI-boyfriend-or-girlfriend-cheating.jpg@webp",
+    "source": "Decrypt.co",
+    "category_within_source": "n/a",
+    "source_domain": "decrypt.co",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.081019,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.020866",
+            "ticker_sentiment_score": "0.060751",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TRMNF",
+            "relevance_score": "0.020866",
+            "ticker_sentiment_score": "0.266776",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

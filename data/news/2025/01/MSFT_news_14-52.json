@@ -1,0 +1,65 @@
+{
+    "title": "Dell Technologies Stock Rises 50% in 2024: To Buy or Not to Buy?",
+    "url": "https://www.zacks.com/stock/news/2390723/dell-technologies-stock-rises-50-in-2024-to-buy-or-not-to-buy",
+    "time_published": "20250102T145200",
+    "authors": [
+        "Aniruddha Ganguly"
+    ],
+    "summary": "Although DELL's accelerating AI push and cheap valuation are noteworthy, the sluggish PC market and cautious IT spending are headwinds.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3e/1190.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.795202"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.275557,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.136113",
+            "ticker_sentiment_score": "0.246028",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.136113",
+            "ticker_sentiment_score": "0.246028",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.180798",
+            "ticker_sentiment_score": "0.24791",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "VMW",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DELL",
+            "relevance_score": "0.639433",
+            "ticker_sentiment_score": "0.452675",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

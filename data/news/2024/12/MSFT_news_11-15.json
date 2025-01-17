@@ -1,0 +1,55 @@
+{
+    "title": "1 Unstoppable Vanguard ETF to Buy Hand Over Fist Right Now",
+    "url": "https://www.fool.com/investing/2024/12/24/1-unstoppable-vanguard-etf-to-buy-hand-over-fist-r/",
+    "time_published": "20241224T111500",
+    "authors": [
+        "George Budwell"
+    ],
+    "summary": "Artificial intelligence ( AI ) will transform the global economy. Market forecasts for its economic impact by 2030 range from optimistic projections of tens of trillions in gross domestic product ( GDP ) growth to conservative estimates of just half a percent.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801973%2Fgetty-etf-invest.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.839681"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.360853,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.101582",
+            "ticker_sentiment_score": "0.105419",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.101582",
+            "ticker_sentiment_score": "0.105419",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.101582",
+            "ticker_sentiment_score": "0.105419",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.050894",
+            "ticker_sentiment_score": "0.117371",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

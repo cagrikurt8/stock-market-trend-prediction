@@ -1,0 +1,61 @@
+{
+    "title": "3 Stock Trends to Ride in 2025 and Beyond",
+    "url": "https://www.zacks.com/stock/news/2386544/3-stock-trends-to-ride-in-2025-and-beyond",
+    "time_published": "20241220T183400",
+    "authors": [
+        "Andrew Rocco"
+    ],
+    "summary": "If you can identify the market's secular trends, then your portfolio will be in the money regardless of annoying short-term volatility. Andrew Rocco highlights three such trends that are making waves (and profits) right now, which will continue for the foreseeable future.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ff/88458.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.838487"
+        },
+        {
+            "topic": "Economy - Fiscal",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.576289"
+        }
+    ],
+    "overall_sentiment_score": 0.232998,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.070173",
+            "ticker_sentiment_score": "0.094665",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.046816",
+            "ticker_sentiment_score": "0.033947",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.208365",
+            "ticker_sentiment_score": "0.003503",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

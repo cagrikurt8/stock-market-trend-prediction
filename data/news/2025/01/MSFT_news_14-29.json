@@ -1,0 +1,50 @@
+{
+    "title": "AvePoint Expands AI-Driven Cybersecurity and IT Management Capabilities with Ydentic Acquisition",
+    "url": "https://www.globenewswire.com/news-release/2025/01/15/3010136/0/en/AvePoint-Expands-AI-Driven-Cybersecurity-and-IT-Management-Capabilities-with-Ydentic-Acquisition.html",
+    "time_published": "20250115T142900",
+    "authors": [
+        "Inc.",
+        "AvePoint"
+    ],
+    "summary": "Acquisition underscores AvePoint's continued commitment to provide Managed Services Providers with an AI-driven platform to manage, optimize, and secure clients' IT environments with greater operational efficiency, scalability, and new security-centric recurring revenue streams Acquisition ...",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/eac3b932-e8a0-46f0-b5b5-747a258b0661",
+    "source": "GlobeNewswire",
+    "category_within_source": "n/a",
+    "source_domain": "www.globenewswire.com",
+    "topics": [
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.360215"
+        }
+    ],
+    "overall_sentiment_score": 0.271062,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.096671",
+            "ticker_sentiment_score": "0.143283",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.106578",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVPT",
+            "relevance_score": "0.66878",
+            "ticker_sentiment_score": "0.346508",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "ASUS ROG Unveils Latest Innovations Forged to Unlock Limitless Gaming Potential at CES 2025",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42836080/asus-rog-unveils-latest-innovations-forged-to-unlock-limitless-gaming-potential-at-ces-2025",
+    "time_published": "20250107T043500",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "Performance Meets Versatility: Zephyrus series, Flow Z13, XG Mobile feature latest Intel or AMD processors, with NVIDIA GeForce RTX 50 Series Laptop GPUs",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/374cdc11-f136-4aab-b2b8-706720afd94c/asus-rog-unveils-latest-innovations-forged-to-unlock-limitless-gaming-potential-at-ces-2025.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.35133,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.015809",
+            "ticker_sentiment_score": "0.316828",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "OPTGF",
+            "relevance_score": "0.015809",
+            "ticker_sentiment_score": "0.110494",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.278662",
+            "ticker_sentiment_score": "0.284931",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

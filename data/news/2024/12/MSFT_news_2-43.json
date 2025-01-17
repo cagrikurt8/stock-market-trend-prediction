@@ -1,0 +1,101 @@
+{
+    "title": "Palantir, Salesforce, And Snowflake Made The Cut, But 2 'Magnificent 7' Giants Left Out From Dan Ives' Top 10 Tech Winners For The AI Revolution In 2025 List - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/24/12/42735573/two-magnificent-7-giants-snubbed-in-dan-ives-top-10-tech-winners-for-the-ai-revolution-into-2025-but-palantir-sal",
+    "time_published": "20241231T024345",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "On Monday, Wedbush analyst Dan Ives unveiled his top 10 tech winners for the AI revolution into 2025, leaving two major Magnificent 7 players notably absent from the list. What Happened: In his post, Ives said that the companies are poised to ride the wave of a $2 trillion AI capital expenditure ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/30/Magnificent-Seven.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.329768,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.265859",
+            "ticker_sentiment_score": "0.223704",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.265859",
+            "ticker_sentiment_score": "0.223704",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.179121",
+            "ticker_sentiment_score": "0.153386",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.349329",
+            "ticker_sentiment_score": "0.311672",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.349329",
+            "ticker_sentiment_score": "0.481748",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.349329",
+            "ticker_sentiment_score": "0.22705",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SNOW",
+            "relevance_score": "0.179121",
+            "ticker_sentiment_score": "0.183929",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MDB",
+            "relevance_score": "0.179121",
+            "ticker_sentiment_score": "0.183929",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PEGA",
+            "relevance_score": "0.179121",
+            "ticker_sentiment_score": "0.183929",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.179121",
+            "ticker_sentiment_score": "0.198815",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.179121",
+            "ticker_sentiment_score": "0.183929",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Should You Buy Palantir Stock After Its 370% Gain in 2024? Wall Street Has a Clear Answer for Investors",
+    "url": "https://www.fool.com/investing/2024/12/23/buy-palantir-stock-370-gain-wall-street-has-answer/",
+    "time_published": "20241223T091200",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "Shares of Palantir Technologies ( NASDAQ: PLTR ) have advanced 370% this year. Factors contributing to that upside include strong financial results driven by demand for its artificial intelligence platform, as well as the company's inclusion in the S&P 500 and Nasdaq-100.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801913%2Finvestor-33.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.875462"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.180624,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "0.142037",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "-0.049001",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "-0.049001",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FORR",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "0.142037",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "-0.077632",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "-0.049001",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.098054",
+            "ticker_sentiment_score": "0.234747",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

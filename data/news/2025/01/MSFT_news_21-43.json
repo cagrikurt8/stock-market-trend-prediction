@@ -1,0 +1,157 @@
+{
+    "title": "Heavy Money Flows In Quantum Computing Stocks, Blind Money Saves The Market, Bitcoin Outflows - Arqit Quantum  ( NASDAQ:ARQQ ) ",
+    "url": "https://www.benzinga.com/trading-ideas/25/01/42798659/heavy-money-flows-in-quantum-computing-stocks-blind-money-saves-the-market-bitcoin-outflows",
+    "time_published": "20250103T214349",
+    "authors": [
+        "The Arora Report"
+    ],
+    "summary": "To gain an edge, this is what you need to know today. An enlarged chart of SPDR S&P 500 ETF Trust which represents the benchmark stock market index S&P 500 ( SPX ) . We shared with readers in yesterday's Morning Capsule, Apple Inc iPhones are on the decline in China.",
+    "banner_image": "https://thearorareport.com/wp-content/uploads/2025/01/2025-01-03_09h03_04.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.14967,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "LAES",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "-0.077214",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WSKEF",
+            "relevance_score": "0.039483",
+            "ticker_sentiment_score": "-0.07397",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.233556",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "0.189302",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.118064",
+            "ticker_sentiment_score": "0.012926",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.15697",
+            "ticker_sentiment_score": "-0.089868",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "HON",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "-0.077214",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "-0.077214",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.039483",
+            "ticker_sentiment_score": "0.261677",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "-0.077214",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARQQ",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "-0.077214",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "0.189302",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QUBT",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "-0.077214",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.195498",
+            "ticker_sentiment_score": "0.186811",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "BACHY",
+            "relevance_score": "0.039483",
+            "ticker_sentiment_score": "-0.167044",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "-0.077214",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FOREX:CNY",
+            "relevance_score": "0.039483",
+            "ticker_sentiment_score": "-0.167044",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.195498",
+            "ticker_sentiment_score": "0.230536",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:QTUM",
+            "relevance_score": "0.039483",
+            "ticker_sentiment_score": "-0.07397",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

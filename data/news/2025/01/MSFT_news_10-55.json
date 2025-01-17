@@ -1,0 +1,49 @@
+{
+    "title": "Is Intel Ready for an AI Comeback in 2025?",
+    "url": "https://www.fool.com/investing/2025/01/12/is-intel-ready-for-an-ai-comeback-in-2025/",
+    "time_published": "20250112T105500",
+    "authors": [
+        "Timothy Green"
+    ],
+    "summary": "One area where Intel ( NASDAQ: INTC ) has seriously dropped the ball has been artificial intelligence ( AI ) . Nvidia essentially owns the market for AI accelerator chips, and AMD is at least competitive with its Instinct line of data center graphics processing units ( GPUs ) .",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803609/gettyimages-1473086836.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.024012,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "0.068291",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.098054",
+            "ticker_sentiment_score": "0.023655",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.804208",
+            "ticker_sentiment_score": "0.113067",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

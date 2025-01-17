@@ -1,0 +1,49 @@
+{
+    "title": "CRNC Short Squeeze Analysis  ( 5 Attributed to Look for ) ",
+    "url": "https://www.zacks.com/commentary/2391854/crnc-short-squeeze-analysis-5-attributed-to-look-for",
+    "time_published": "20250103T204900",
+    "authors": [
+        "Andrew Rocco"
+    ],
+    "summary": "Short squeezes are on of the most rewarding set ups. Luckily, investors can learn the ingredients behind these breathtaking moves with some studying.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default238.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.145494,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.152018",
+            "ticker_sentiment_score": "0.133066",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.226301",
+            "ticker_sentiment_score": "0.107349",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRNC",
+            "relevance_score": "0.556784",
+            "ticker_sentiment_score": "0.228182",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

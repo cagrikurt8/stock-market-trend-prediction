@@ -1,0 +1,59 @@
+{
+    "title": "3 AI Software Stocks to Consider Buying",
+    "url": "https://www.fool.com/investing/2025/01/09/3-ai-software-stocks-to-consider-buying/",
+    "time_published": "20250109T114200",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "The build-out of artificial intelligence ( AI ) has been the first big wave for AI, leading to huge surges in revenue for companies like Nvidia. However, the second wave of AI could come from the software space, as organizations begin to implement AI into their businesses.Let's look at three ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803081%2Fgettyimages-1287582736.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.929393"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.99676"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.385582,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.190043",
+            "ticker_sentiment_score": "0.322279",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "APP",
+            "relevance_score": "0.095707",
+            "ticker_sentiment_score": "0.208976",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.04794",
+            "ticker_sentiment_score": "0.148777",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.095707",
+            "ticker_sentiment_score": "0.220678",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

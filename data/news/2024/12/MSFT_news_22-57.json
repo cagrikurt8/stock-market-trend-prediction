@@ -1,0 +1,71 @@
+{
+    "title": "3 Top Semiconductor Stocks to Buy for 2025",
+    "url": "https://www.zacks.com/commentary/2389071/3-top-semiconductor-stocks-to-buy-for-2025",
+    "time_published": "20241228T225700",
+    "authors": [
+        "Shaun Pruitt"
+    ],
+    "summary": "With the global market for artificial intelligence presumed to be worth trillions in the coming years, these top semiconductor stocks should be lucrative investments going into 2025.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default72.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.381504,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.194242",
+            "ticker_sentiment_score": "0.071811",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.194242",
+            "ticker_sentiment_score": "0.071811",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.461283",
+            "ticker_sentiment_score": "0.491906",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.287762",
+            "ticker_sentiment_score": "0.13517",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.377142",
+            "ticker_sentiment_score": "0.33769",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.194242",
+            "ticker_sentiment_score": "0.071811",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

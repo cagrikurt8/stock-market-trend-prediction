@@ -1,0 +1,37 @@
+{
+    "title": "WORLD3 Joins Microsoft for Startups to bring AI Agents to Life in Web3",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42857709/world3-joins-microsoft-for-startups-to-bring-ai-agents-to-life-in-web3",
+    "time_published": "20250107T181206",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "EDMONTON, Alberta, Jan. 07, 2025 ( GLOBE NEWSWIRE ) -- WORLD3, the pioneering AI-powered Autonomous World platform, has announced a transformative partnership with Microsoft for Startups to launch its next-generation AI Agent Portal.",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/6813bdfc-c019-4f09-97bc-372ee1cb953b/create-al.png",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.416047,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.078482",
+            "ticker_sentiment_score": "0.25244",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

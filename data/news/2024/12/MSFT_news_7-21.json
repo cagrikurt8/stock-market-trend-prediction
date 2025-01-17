@@ -1,0 +1,55 @@
+{
+    "title": "Nvidia Tops Tesla As Better Bet Over 10 Years, Says Ross Gerber: Must Have In Portfolio Along With These 2 Stocks - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",
+    "url": "https://www.benzinga.com/markets/equities/24/12/42717543/nvidia-tops-tesla-as-better-bet-over-10-years-says-ross-gerber-must-have-in-portfolio-along-with",
+    "time_published": "20241230T072151",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "Nvidia Corp. NVDA has proven to be a more lucrative investment than Tesla Inc. TSLA over the past decade, according to Ross Gerber, CEO of Gerber Kawasaki Wealth & Investment Management, who recommends treating the chipmaker as a core portfolio holding alongside tech giants.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/30/The-Pitfall-of-Market-Timing.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.990999"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.347477,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.264897",
+            "ticker_sentiment_score": "0.131394",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.740604",
+            "ticker_sentiment_score": "0.527583",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.264897",
+            "ticker_sentiment_score": "0.131394",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.570165",
+            "ticker_sentiment_score": "0.47362",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Zacks Investment Ideas feature highlights: Constellation Energy, Microsoft, Nvidia and Meta",
+    "url": "https://www.zacks.com/stock/news/2396241/zacks-investment-ideas-feature-highlights-constellation-energy-microsoft-nvidia-and-meta",
+    "time_published": "20250114T082800",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "Constellation Energy, Microsoft, Nvidia and Meta have been highlighted in this Investment Ideas article.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/49/437.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.459462"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.614606"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.368687,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.236972",
+            "ticker_sentiment_score": "0.15114",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "UCLE",
+            "relevance_score": "0.040078",
+            "ticker_sentiment_score": "0.076454",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.040078",
+            "ticker_sentiment_score": "0.168118",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.159305",
+            "ticker_sentiment_score": "0.066978",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.384693",
+            "ticker_sentiment_score": "0.260679",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

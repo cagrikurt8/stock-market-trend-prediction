@@ -1,0 +1,67 @@
+{
+    "title": "Is IonQ Stock a Buy?",
+    "url": "https://www.fool.com/investing/2025/01/05/is-ionq-a-buy/",
+    "time_published": "20250105T092500",
+    "authors": [
+        "Justin Pope"
+    ],
+    "summary": "While AI stocks have gotten most of the attention, quantum computing stock IonQ caught fire in 2024.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802575%2Fionq-technology-roadmap.png&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.980922"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.152876,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.053992",
+            "ticker_sentiment_score": "0.073954",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.053992",
+            "ticker_sentiment_score": "0.166788",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.750367",
+            "ticker_sentiment_score": "0.213233",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.053992",
+            "ticker_sentiment_score": "0.073954",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Bill Gates Is So Frugal He Wears A $10 Watch But Spent $42,000 In Fines For Manure Bins At His Daughter's $8.7 Million Florida Horse Farm",
+    "url": "https://www.benzinga.com/markets/25/01/42802980/bill-gates-is-so-frugal-he-wears-a-10-watch-but-spent-42000-in-fines-for-manure-bins-at-his-daughters-8-7",
+    "time_published": "20250104T140516",
+    "authors": [
+        "Jeannine Mancini"
+    ],
+    "summary": "Bill Gates is one of the richest men in the world, but he's not exactly clinging to the title. In fact, the Microsoft cofounder has said he wants to fall off the billionaires' list entirely - thanks to his commitment to giving away the majority of his fortune through the Bill & Melinda Gates ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/04/Bill-Gates-Could-Go-Bankrupt-If-Tesla-St.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.929393"
+        }
+    ],
+    "overall_sentiment_score": 0.270783,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MDNDF",
+            "relevance_score": "0.113329",
+            "ticker_sentiment_score": "0.111077",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.177057",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

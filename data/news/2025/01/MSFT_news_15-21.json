@@ -1,0 +1,169 @@
+{
+    "title": "Institutional Crypto Inflows Hit A Record $44.2B In 2024, Nearly Quadrupling The Previous High; Analysts Expect A Stronger Dollar As Trump's Tariff Plans Advance; ArcelorMittal South Africa To Cut 3,500 Jobs Amid Economic Challenges - Top Headlines While the U.S. Slept.",
+    "url": "https://www.benzinga.com/25/01/42818588/institutional-crypto-inflows-hit-a-record-442b-in-2024-nearly-quadrupling-the-previous-high-analysts-expect-a-str",
+    "time_published": "20250106T152119",
+    "authors": [
+        "Akanksha Bakshi"
+    ],
+    "summary": "Bitcoin, Ethereum, Solana Institutional Investment Inflows Hit Record $44.2B In 2024, Nearly Quadrupling Previous High Bitcoin To $200,000 As Crypto Enters 'Infinity Age' In 2025, Bernstein Predicts Dogecoin Leaps 20% In 7 Days: What Is Going On?",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/06/Blackrocks-Bitcoin-Fund-Breaks-Records-W_0.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.413559"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        }
+    ],
+    "overall_sentiment_score": 0.022061,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "XPEV",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "-0.226257",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.197011",
+            "ticker_sentiment_score": "-0.233787",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "UAL",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.016012",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVO",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "-0.159154",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "MT",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "-0.422836",
+            "ticker_sentiment_label": "Bearish"
+        },
+        {
+            "ticker": "EM",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PRGS",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.118183",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "-0.155594",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "PFE",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.204208",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.177167",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SERV",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.317533",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "-0.018036",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CMC",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "-0.261354",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "ARCXF",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "-0.422836",
+            "ticker_sentiment_label": "Bearish"
+        },
+        {
+            "ticker": "NIU",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.187179",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "UBER",
+            "relevance_score": "0.099271",
+            "ticker_sentiment_score": "-0.154155",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.244846",
+            "ticker_sentiment_score": "0.183572",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:ETH",
+            "relevance_score": "0.099271",
+            "ticker_sentiment_score": "0.065464",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:DOGE",
+            "relevance_score": "0.049732",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

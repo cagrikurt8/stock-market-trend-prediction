@@ -1,0 +1,63 @@
+{
+    "title": "Got $3,000? 3 Artificial Intelligence  ( AI )  Stocks to Buy and Hold for the Long Term",
+    "url": "https://www.fool.com/investing/2025/01/05/got-3000-3-artificial-intelligence-ai-stocks-to-bu/",
+    "time_published": "20250105T104000",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "Artificial intelligence ( AI ) was one of the driving themes in the market in 2024, powering a number of stocks to new highs. While there remains a lot of hype, AI is looking less like a fad and more like a huge technological shift.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802655%2Fgettyimages-1492319884.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.459462"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.938793"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.283806,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.19117",
+            "ticker_sentiment_score": "0.210527",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.115416",
+            "ticker_sentiment_score": "0.143728",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.038592",
+            "ticker_sentiment_score": "0.151615",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.265172",
+            "ticker_sentiment_score": "0.229597",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

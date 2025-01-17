@@ -1,0 +1,43 @@
+{
+    "title": "Constellation Energy, A Nasdaq-100 Nuclear Stock, Appears Ripe For Future Gains Following Calpine Deal - Constellation Energy  ( NASDAQ:CEG ) ",
+    "url": "https://www.benzinga.com/25/01/42918486/this-nasdaq-100-nuclear-stock-is-charging-up-for-a-clean-energy-boom",
+    "time_published": "20250110T161116",
+    "authors": [
+        "Surbhi Jain"
+    ],
+    "summary": "With bullish technical indicators supporting its stock momentum and a transformative acquisition underway, Constellation Energy Corp.'s CEG stock appears primed for future gains following its $26.6 billion offer for Calpine Corp.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/10095859/Screenshot-2025-01-10-at-7.49.33-PM.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.410744,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.585687",
+            "ticker_sentiment_score": "0.659823",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

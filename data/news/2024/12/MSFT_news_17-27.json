@@ -1,0 +1,63 @@
+{
+    "title": "AT&T and Verizon Contain Cyberattack Linked to China's Salt Typhoon Group - AT&T  ( NYSE:T ) , Verizon Communications  ( NYSE:VZ ) ",
+    "url": "https://www.benzinga.com/media/24/12/42727432/att-and-verizon-contain-cyberattack-linked-to-chinas-salt-typhoon-group",
+    "time_published": "20241230T172726",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "AT&T and Verizon confirm networks secure after China-linked Salt Typhoon breach. China denies hacking claims as U.S. officials raise cyber operation concerns. Get Monthly Picks of Market's Fastest Movers",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/30/Crypto-hack-Photo-by-Bits-And-Splits-on-.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.650727"
+        }
+    ],
+    "overall_sentiment_score": -0.060785,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.160099",
+            "ticker_sentiment_score": "-0.282703",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "TMUS",
+            "relevance_score": "0.160099",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LUMN",
+            "relevance_score": "0.160099",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SSTK",
+            "relevance_score": "0.080458",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "T",
+            "relevance_score": "0.238133",
+            "ticker_sentiment_score": "0.034527",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VZ",
+            "relevance_score": "0.313817",
+            "ticker_sentiment_score": "-0.187329",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Quisitive to be Acquired by H.I.G. Capital",
+    "url": "https://www.globenewswire.com/news-release/2025/01/02/3003533/0/en/Quisitive-to-be-Acquired-by-H-I-G-Capital.html",
+    "time_published": "20250102T133000",
+    "authors": [
+        "Quisitive Technology Solutions Inc."
+    ],
+    "summary": "TORONTO, Jan. 02, 2025 ( GLOBE NEWSWIRE ) -- Quisitive Technology Solutions Inc. ( \"Quisitive\" or the \"Company\" ) ( TSXV: QUIS. OTCQX: QUISF ) , a premier Microsoft Cloud and AI solutions provider, today announced that on December 31, 2024 it entered into an arrangement agreement ( the ...",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/bdd1755f-f58e-4bf8-b5b9-c6fd2d8b1450",
+    "source": "GlobeNewswire",
+    "category_within_source": "n/a",
+    "source_domain": "www.globenewswire.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        }
+    ],
+    "overall_sentiment_score": 0.365232,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CCORF",
+            "relevance_score": "0.045439",
+            "ticker_sentiment_score": "0.157405",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.090731",
+            "ticker_sentiment_score": "0.213365",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

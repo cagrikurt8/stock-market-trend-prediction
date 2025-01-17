@@ -1,0 +1,73 @@
+{
+    "title": "2 Index ETFs to Buy With $500 and Hold Forever",
+    "url": "https://www.fool.com/investing/2025/01/05/2-index-etfs-to-buy-with-500-and-hold-forever/",
+    "time_published": "20250105T160000",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "Investing in stocks can be complicated. From earnings, to cash flow, to balance sheets, there are a lot of numbers and financial jargon when it comes to researching stocks. And that's only half of it. Investors also need to determine whether a company's products and services will continue to ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802815%2Fgettyimages-462756183.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.137368,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.10607",
+            "ticker_sentiment_score": "0.057169",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.10607",
+            "ticker_sentiment_score": "0.057169",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SPGI",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "-0.012986",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "0.040787",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.310843",
+            "ticker_sentiment_score": "0.089004",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

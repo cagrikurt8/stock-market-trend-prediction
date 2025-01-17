@@ -1,0 +1,77 @@
+{
+    "title": "Nvidia's $2 Trillion AI Rally In 2024 Fueled by Chips, Startups, and Robotics - NVIDIA  ( NASDAQ:NVDA ) ",
+    "url": "https://www.benzinga.com/25/01/42793394/nvidias-2-trillion-ai-rally-fueled-by-chips-startups-and-robotics",
+    "time_published": "20250103T182831",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "The artificial intelligence frenzy and demand for its AI-centric chips catapulted Nvidia Corp NVDA into the trillion-dollar market cap club for 2024. It lags behind Apple Inc AAPL, which was backed by investor curiosity over its potential AI offerings, turbocharging its iPhone sales.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/03/Nvidia-CEO-Jensen-Huang.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.858979"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.158815,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.193465",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.193465",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.537474",
+            "ticker_sentiment_score": "0.05317",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.193465",
+            "ticker_sentiment_score": "-0.072151",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.193465",
+            "ticker_sentiment_score": "-0.015299",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.193465",
+            "ticker_sentiment_score": "0.096401",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "OPTGF",
+            "relevance_score": "0.097457",
+            "ticker_sentiment_score": "0.067428",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "AMD Announces New Graphics and Gaming Products for Ultimate Gameplay Experience at CES - Advanced Micro Devices  ( NASDAQ:AMD ) ",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42827736/amd-announces-new-graphics-and-gaming-products-for-ultimate-gameplay-experience-at-ces",
+    "time_published": "20250106T194600",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "LAS VEGAS, Jan. 06, 2025 ( GLOBE NEWSWIRE ) -- Ahead of CES 2025, AMD AMD today announced new gaming products to expand its leadership in desktop, mobile and handheld gaming, and deliver incredible performance for the most demanding games.",
+    "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Economy - Macro",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.236855,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.564813",
+            "ticker_sentiment_score": "0.336547",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "LNVGF",
+            "relevance_score": "0.03458",
+            "ticker_sentiment_score": "0.115042",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.017294",
+            "ticker_sentiment_score": "0.054578",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CURN",
+            "relevance_score": "0.017294",
+            "ticker_sentiment_score": "0.054578",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.069094",
+            "ticker_sentiment_score": "0.172482",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

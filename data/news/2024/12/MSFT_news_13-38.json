@@ -1,0 +1,73 @@
+{
+    "title": "Nvidia sees 'remarkable' influx of retail investor dollars as traders flock to AI darling",
+    "url": "https://www.cnbc.com/2024/12/25/nvidia-sees-remarkable-influx-of-retail-investor-dollars-as-traders-flock-to-ai-darling.html",
+    "time_published": "20241225T133807",
+    "authors": [],
+    "summary": "Everyday traders bought nearly $30 billion of Nvidia shares on net this year, Vanda data shows.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Investing",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.682689"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.251475,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.031446",
+            "ticker_sentiment_score": "0.11411",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.522043",
+            "ticker_sentiment_score": "0.333446",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MORN",
+            "relevance_score": "0.031446",
+            "ticker_sentiment_score": "0.12261",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.031446",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.156258",
+            "ticker_sentiment_score": "0.117487",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BAC",
+            "relevance_score": "0.031446",
+            "ticker_sentiment_score": "0.144989",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

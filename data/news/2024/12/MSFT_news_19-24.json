@@ -1,0 +1,81 @@
+{
+    "title": "'s 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet - Comcast  ( NASDAQ:CMCSA ) , Axon Enterprise  ( NASDAQ:AXON ) ",
+    "url": "https://www.benzinga.com/media/24/12/42709387/benzingas-stock-whisper-index-5-stocks-investors-secretly-monitor-but-dont-talk-about-yet",
+    "time_published": "20241227T192424",
+    "authors": [
+        "Chris Katje"
+    ],
+    "summary": "Each week, Benzinga's Stock Whisper Index uses a combination of proprietary data and pattern recognition to showcase five stocks that are just under the surface and deserve attention. Investors are constantly on the hunt for undervalued, under-followed and emerging stocks.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/27120409/Screenshot-279.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.503496"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.928769"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.245146,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "LAES",
+            "relevance_score": "0.27063",
+            "ticker_sentiment_score": "0.272687",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.039418",
+            "ticker_sentiment_score": "0.12691",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.039418",
+            "ticker_sentiment_score": "0.209621",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CCZ",
+            "relevance_score": "0.11787",
+            "ticker_sentiment_score": "0.030662",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.039418",
+            "ticker_sentiment_score": "0.209621",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.156715",
+            "ticker_sentiment_score": "0.224527",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GME",
+            "relevance_score": "0.156715",
+            "ticker_sentiment_score": "0.118575",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

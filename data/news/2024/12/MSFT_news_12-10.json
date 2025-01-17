@@ -1,0 +1,65 @@
+{
+    "title": "Meet the Supercharged Growth Stock That Could Make You a Millionaire",
+    "url": "https://www.fool.com/investing/2024/12/31/meet-the-supercharged-growth-stock-that-could-make/",
+    "time_published": "20241231T121000",
+    "authors": [
+        "Keithen Drury"
+    ],
+    "summary": "Finding a stock that can outright make you a millionaire isn't easy. However, they're out there. A $10,000 investment in Nvidia a decade ago is now worth $2.72 million. And $10,000 invested 12 years ago in Tesla is now worth more than $2 million.",
+    "banner_image": "https://media.ycharts.com/charts/96ffef6648225755241dc519caa77c5a.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.5855"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999955"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.283375,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.061315",
+            "ticker_sentiment_score": "0.089311",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.122269",
+            "ticker_sentiment_score": "0.015095",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.122269",
+            "ticker_sentiment_score": "0.095458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.061315",
+            "ticker_sentiment_score": "-0.014022",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.122269",
+            "ticker_sentiment_score": "0.221258",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

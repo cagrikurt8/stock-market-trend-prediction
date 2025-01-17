@@ -1,0 +1,69 @@
+{
+    "title": "Commercial Metals, Boeing And 3 Stocks To Watch Heading Into Monday - Commercial Metals  ( NYSE:CMC ) , Boeing  ( NYSE:BA ) ",
+    "url": "https://www.benzinga.com/25/01/42808837/commercial-metals-boeing-and-3-stocks-to-watch-heading-into-monday",
+    "time_published": "20250106T102040",
+    "authors": [
+        "Avi Kapoor"
+    ],
+    "summary": "With U.S. stock futures trading mixed this morning on Monday, some of the stocks that may grab investor focus today are as follows: Wall Street expects Commercial Metals Company CMC to report quarterly earnings at 81 cents per share on revenue of $1.87 billion before the opening bell, according ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/06/5-Stocks-To-Watch-Heading-Into-Tuesday.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.383765,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CMC",
+            "relevance_score": "0.410059",
+            "ticker_sentiment_score": "0.521968",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "FF",
+            "relevance_score": "0.410059",
+            "ticker_sentiment_score": "0.658695",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.410059",
+            "ticker_sentiment_score": "0.419129",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "CREX",
+            "relevance_score": "0.410059",
+            "ticker_sentiment_score": "0.497491",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "BA",
+            "relevance_score": "0.410059",
+            "ticker_sentiment_score": "0.1326",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

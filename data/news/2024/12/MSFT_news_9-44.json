@@ -1,0 +1,83 @@
+{
+    "title": "1 Unstoppable Semiconductor ETF to Buy for the 2025 Artificial Intelligence  ( AI )  Spending Boom",
+    "url": "https://www.fool.com/investing/2024/12/29/1-semiconductor-etf-to-buy-2025-ai-spending-boom/",
+    "time_published": "20241229T094400",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "Artificial intelligence ( AI ) could be the most transformational technology in a generation. AI chatbots like OpenAI's ChatGPT can already answer complex questions and instantly generate computer-generated text, images, and even new software code on command.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802211%2Fa-digital-rendering-of-a-circuit-board-with-a-chip-embossed-with-the-letters-ai.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.996675"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.158962,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "0.077837",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "0.077837",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.38366",
+            "ticker_sentiment_score": "0.210686",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.099683",
+            "ticker_sentiment_score": "0.07102",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.099683",
+            "ticker_sentiment_score": "0.057061",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.149038",
+            "ticker_sentiment_score": "0.084536",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MU",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "0.084315",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "0.084315",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

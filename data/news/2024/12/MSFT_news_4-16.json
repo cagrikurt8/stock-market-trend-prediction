@@ -1,0 +1,71 @@
+{
+    "title": "Sam Altman-Backed Nuclear Power Startup Oklo Receives Outperform Rating From Wedbush Amid 'AI Revolution' Buzz - Constellation Energy  ( NASDAQ:CEG ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/markets/equities/24/12/42665216/sam-altman-backed-nuclear-power-startup-oklo-receives-outperform-rating-from-wedbush-amid-ai-rev",
+    "time_published": "20241224T041647",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "OpenAI CEO Sam Altman-backed nuclear power startup Oklo Inc. OKLO received an outperform rating from Wedbush Securities, marking another milestone in its push to power the artificial intelligence revolution through advanced nuclear technology.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/23225103/Screenshot-2024-12-24-at-9.16.31%E2%80%AFAM-1024x374.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.905476"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.20379,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.198221",
+            "ticker_sentiment_score": "0.167053",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.198221",
+            "ticker_sentiment_score": "0.104972",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.198221",
+            "ticker_sentiment_score": "0.104972",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "C",
+            "relevance_score": "0.09989",
+            "ticker_sentiment_score": "-0.108432",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.198221",
+            "ticker_sentiment_score": "0.167053",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "USEG",
+            "relevance_score": "0.09989",
+            "ticker_sentiment_score": "0.071936",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

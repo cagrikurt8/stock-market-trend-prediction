@@ -1,0 +1,35 @@
+{
+    "title": "This millennial made $130,000 in 2024 - and shares two strategies that helped her do it",
+    "url": "https://www.cnbc.com/2024/12/31/millennial-who-makes-130000-says-upskilling-social-media-are-critical.html",
+    "time_published": "20241231T060530",
+    "authors": [],
+    "summary": "Kennie Bukky, a millennial professional, says earning a six-figure salary came down to promoting herself on social media and learning high-paying skills.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Top News",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.538269"
+        }
+    ],
+    "overall_sentiment_score": 0.14022,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.063091",
+            "ticker_sentiment_score": "0.064018",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

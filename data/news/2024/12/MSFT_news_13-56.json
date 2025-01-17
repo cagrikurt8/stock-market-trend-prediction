@@ -1,0 +1,53 @@
+{
+    "title": "How To Earn $500 A Month From Apple Stock - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",
+    "url": "https://www.benzinga.com/24/12/42669068/how-to-earn-500-a-month-from-apple-stock",
+    "time_published": "20241224T135642",
+    "authors": [
+        "Avi Kapoor"
+    ],
+    "summary": "Apple Inc. AAPL shares settled slightly higher during Monday's session. Apple is on track to become the first company to reach a $4 trillion market capitalization by \"early 2025,\" driven by strong iPhone sales and artificial intelligence innovations, according to Wedbush Securities analyst Dan Ives.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/24/Why-It-Matters_0.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999993"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.232443,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.219809",
+            "ticker_sentiment_score": "0.164557",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.219809",
+            "ticker_sentiment_score": "0.164557",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.735697",
+            "ticker_sentiment_score": "0.561983",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Trader Post-Analysis: Why it's Worth it, How to do it",
+    "url": "https://www.zacks.com/commentary/2391091/trader-post-analysis-why-its-worth-it-how-to-do-it",
+    "time_published": "20250102T164100",
+    "authors": [
+        "Andrew Rocco"
+    ],
+    "summary": "Though tedious, a post-analysis is a worthwhile endeavor for investors of all levels. Stock Strategist Andrew Rocco explains...",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default198.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.247796,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.065866",
+            "ticker_sentiment_score": "0.089342",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.131284",
+            "ticker_sentiment_score": "0.222643",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.131284",
+            "ticker_sentiment_score": "0.145325",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UAL",
+            "relevance_score": "0.131284",
+            "ticker_sentiment_score": "0.145325",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.131284",
+            "ticker_sentiment_score": "0.145325",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

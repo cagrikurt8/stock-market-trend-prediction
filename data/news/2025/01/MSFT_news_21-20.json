@@ -1,0 +1,61 @@
+{
+    "title": "Top Research Reports for Apple, Alphabet & Cisco",
+    "url": "https://www.zacks.com/research-daily/2394999/top-research-reports-for-apple-alphabet-cisco",
+    "time_published": "20250110T212000",
+    "authors": [
+        "Mark Vickery"
+    ],
+    "summary": "Today's Research Daily features new research reports on 16 major stocks, including Apple Inc. (AAPL), Alphabet Inc. (GOOGL) and Cisco Systems, Inc. (CSCO), as well as two micro-cap stocks Hovnanian Enterprises, Inc. (HOV) and Perma-Pipe International Holdings, Inc. (PPIH).",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3f/12266.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.302917,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.050786",
+            "ticker_sentiment_score": "0.019087",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.101367",
+            "ticker_sentiment_score": "0.159484",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.297661",
+            "ticker_sentiment_score": "0.260208",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PPIH",
+            "relevance_score": "0.050786",
+            "ticker_sentiment_score": "0.125892",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CSCO",
+            "relevance_score": "0.050786",
+            "ticker_sentiment_score": "0.159347",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

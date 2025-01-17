@@ -1,0 +1,49 @@
+{
+    "title": "Monday.com Rises 25.3% in 2024: A Preview of What's Coming in 2025",
+    "url": "https://www.zacks.com/stock/news/2389901/mondaycom-rises-253-in-2024-a-preview-of-whats-coming-in-2025",
+    "time_published": "20241231T133300",
+    "authors": [
+        "Vasundhara Sawalka"
+    ],
+    "summary": "MNDY's robust growth, AI innovation and $1 billion ARR milestone signal strong potential. With a 25.3% surge in 2024, this tech leader is set to soar in 2025.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0c/68023.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.503496"
+        }
+    ],
+    "overall_sentiment_score": 0.524568,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.160277",
+            "ticker_sentiment_score": "0.194598",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ASAN",
+            "relevance_score": "0.107255",
+            "ticker_sentiment_score": "0.159996",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TEAM",
+            "relevance_score": "0.107255",
+            "ticker_sentiment_score": "0.159996",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

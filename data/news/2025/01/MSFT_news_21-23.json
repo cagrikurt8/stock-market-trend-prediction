@@ -1,0 +1,69 @@
+{
+    "title": "Analyst Sees 'Broadening Rally' In Semiconductors In 2025: 2 Top Stock Picks, 2 To Avoid - Intel  ( NASDAQ:INTC ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+    "url": "https://www.benzinga.com/25/01/42961753/analyst-sees-broadening-rally-in-semis-coming-in-2025-2-top-stock-picks-and-2-to-avoid",
+    "time_published": "20250113T212306",
+    "authors": [
+        "Chris Katje"
+    ],
+    "summary": "An analyst picks two semiconductor stocks to buy in 2025 and two to avoid. Semiconductor stocks could see a separation between those with strong AI exposure and those without. Semiconductor analyst Vivek Arya expects a \"surprising broadening rally in semis\" in 2025 compared to last year.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/13/Semiconductor-Shutterstock_0.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.288029,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.263942",
+            "ticker_sentiment_score": "0.017873",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.089462",
+            "ticker_sentiment_score": "0.147281",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.425746",
+            "ticker_sentiment_score": "0.588848",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.263942",
+            "ticker_sentiment_score": "-0.298586",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "MRVL",
+            "relevance_score": "0.263942",
+            "ticker_sentiment_score": "0.461945",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

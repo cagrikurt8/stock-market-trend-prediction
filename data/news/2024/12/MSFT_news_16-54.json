@@ -1,0 +1,81 @@
+{
+    "title": "Bullish Technical Signal, Santa Claus Rally, Taking Advantage Of Hopium - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR Gold Trust  ( ARCA:GLD ) ",
+    "url": "https://www.benzinga.com/trading-ideas/24/12/42653670/bullish-technical-signal-santa-claus-rally-taking-advantage-of-hopium",
+    "time_published": "20241223T165434",
+    "authors": [
+        "The Arora Report"
+    ],
+    "summary": "To gain an edge, this is what you need to know today. An enlarged chart of SPDR S&P 500 ETF Trust SPY which represents the benchmark stock market index S&P 500 ( SPX ) . The chart shows Friday was an outside day. It is a bullish technical signal.",
+    "banner_image": "https://thearorareport.com/wp-content/uploads/2024/12/2024-12-23_08h02_56.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.274769,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.041755",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.041755",
+            "ticker_sentiment_score": "0.190727",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.041755",
+            "ticker_sentiment_score": "0.190727",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.041755",
+            "ticker_sentiment_score": "0.190727",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.041755",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.041755",
+            "ticker_sentiment_score": "0.190727",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.041755",
+            "ticker_sentiment_score": "0.133064",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

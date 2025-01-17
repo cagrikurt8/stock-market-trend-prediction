@@ -1,0 +1,67 @@
+{
+    "title": "This Industry-Leading Artificial Intelligence  ( AI )  Stock -- Up 7,900% Since Its IPO -- Finds Itself at the Center of a $1 Trillion Opportunity",
+    "url": "https://www.fool.com/investing/2025/01/06/this-industry-leading-artificial-intelligence-ai-s/",
+    "time_published": "20250106T151700",
+    "authors": [
+        "Adam Spatacco"
+    ],
+    "summary": "Salesforce is quietly emerging as a force in the artificial intelligence (AI) landscape, and the company's next big opportunity could be worth trillions.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802850%2Fgettyimages-1432457969.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.87644"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.215253,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.144563",
+            "ticker_sentiment_score": "0.280527",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.144563",
+            "ticker_sentiment_score": "0.079312",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FDX",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ACN",
+            "relevance_score": "0.144563",
+            "ticker_sentiment_score": "0.05941",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

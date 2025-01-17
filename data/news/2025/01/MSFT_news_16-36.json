@@ -1,0 +1,65 @@
+{
+    "title": "GTLB Stock Rises 21% in 6 Months: Will the Rally Continue in 2025?",
+    "url": "https://www.zacks.com/stock/news/2393871/gtlb-stock-rises-21-in-6-months-will-the-rally-continue-in-2025",
+    "time_published": "20250108T163600",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "GitLab shares are gaining traction, driven by robust AI-powered DevSecOps adoption and an expanding clientele.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/43/1261.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972476"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.378345,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.148121",
+            "ticker_sentiment_score": "0.099247",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.099066",
+            "ticker_sentiment_score": "0.10508",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GTLB",
+            "relevance_score": "0.763021",
+            "ticker_sentiment_score": "0.556613",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.19661",
+            "ticker_sentiment_score": "0.328976",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FOREX:USD",
+            "relevance_score": "0.049629",
+            "ticker_sentiment_score": "0.039562",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

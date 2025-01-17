@@ -1,0 +1,75 @@
+{
+    "title": "Taiwan Semiconductor Ramps Up Production in Japan, US, and Germany to Diversify Away from China - Taiwan Semiconductor  ( NYSE:TSM ) ",
+    "url": "https://www.benzinga.com/government/regulations/25/01/42843001/taiwan-semiconductor-ramps-up-production-in-japan-us-and-germany-to-diversify-away-from-ch",
+    "time_published": "20250107T132657",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "Taiwan Semiconductor expands globally with U.S., Japan, and Germany plants. AI demand and 2nm advancements drive TSM's 26.8% growth projection for 2025.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/07/TSMCs-Challenges.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.650727"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.20404,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.135347",
+            "ticker_sentiment_score": "0.256161",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SNEJF",
+            "relevance_score": "0.135347",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.135347",
+            "ticker_sentiment_score": "0.256161",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.135347",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.067919",
+            "ticker_sentiment_score": "0.265651",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.201803",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

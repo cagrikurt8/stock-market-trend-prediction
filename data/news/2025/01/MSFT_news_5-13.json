@@ -1,0 +1,45 @@
+{
+    "title": "TikTok Fined $10 Million In Venezuela, Funds To Be Used To Compensate Victims Of Deadly Viral Challenges",
+    "url": "https://www.benzinga.com/25/01/42758430/tiktok-fined-10-million-in-venezuela-as-supreme-court-blames-platform-for-failing-to-prevent-deadly-viral-challen",
+    "time_published": "20250102T051308",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "Venezuela's Supreme Court has levied a $10 million fine against ByteDance-owned TikTok for its alleged failure to curb the spread of hazardous viral challenges. What Happened: On Monday, Magistrate Tania D'Amelio said that TikTok has eight days to remit the fine to the National Communications ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/02/TikTok.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.072363,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.128135",
+            "ticker_sentiment_score": "0.135405",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WBD",
+            "relevance_score": "0.128135",
+            "ticker_sentiment_score": "0.07212",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.128135",
+            "ticker_sentiment_score": "0.135405",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

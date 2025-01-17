@@ -1,0 +1,63 @@
+{
+    "title": "Meet the Incredible Artificial Intelligence  ( AI )  Stock That Could Pass Apple, Nvidia, and Microsoft on Its Way to a $5 Trillion Valuation by 2030",
+    "url": "https://www.fool.com/investing/2025/01/12/artificial-intelligence-ai-stock-pass-nvidia/",
+    "time_published": "20250112T081000",
+    "authors": [
+        "Adam Levy"
+    ],
+    "summary": "This company is spending as much as anyone on AI infrastructure, and it's paying off already.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803293%2Fgettyimages-ai-artificial-intelligence-circuit-chip.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.796627"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.322456,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.072108",
+            "ticker_sentiment_score": "0.107038",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.107978",
+            "ticker_sentiment_score": "0.151401",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.072108",
+            "ticker_sentiment_score": "0.147081",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.473582",
+            "ticker_sentiment_score": "0.359004",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

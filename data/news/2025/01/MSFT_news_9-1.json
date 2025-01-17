@@ -1,0 +1,59 @@
+{
+    "title": "Short-Seller Jim Chanos Warns Of Overbuilding Data Center Capacity, Compares AI Boom To Fiber Optic Bubble Of 2000s - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/markets/equities/25/01/42808258/short-seller-jim-chanos-warns-of-overbuilding-data-center-capacity-compares-ai-boom-to-fiber-opt",
+    "time_published": "20250106T090116",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "Renowned short-seller Jim Chanos is warning of potential overbuilding in the data center sector, drawing parallels to the 2000 fiber optic bubble, even as tech giants Microsoft Corp. MSFT, Amazon.com Inc. AMZN, and Alphabet Inc. GOOG GOOGL Google announce massive expansion plans.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/06/3d-Graphics-Concept-Big-Data-Center-Fema.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.116123,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.270773",
+            "ticker_sentiment_score": "-0.054664",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.355588",
+            "ticker_sentiment_score": "0.136443",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.182506",
+            "ticker_sentiment_score": "0.141573",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.182506",
+            "ticker_sentiment_score": "0.080945",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

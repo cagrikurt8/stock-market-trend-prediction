@@ -1,0 +1,35 @@
+{
+    "title": "Elon Musk's Legal Battle Against OpenAI's For-Profit Transition Joined By Non-Profit Encode",
+    "url": "https://www.benzinga.com/24/12/42712824/elon-musks-legal-battle-against-openais-for-profit-transition-joined-by-non-profit-encode",
+    "time_published": "20241228T042645",
+    "authors": [
+        "Rounak Jain"
+    ],
+    "summary": "Encode, a nonprofit organization, has joined forces with Elon Musk in a legal effort to prevent OpenAI from transitioning into a for-profit entity. This move comes as Encode files a request to submit an amicus brief in support of Musk's injunction.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/27/OpenAIs-Funding-Round.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.199599,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.097457",
+            "ticker_sentiment_score": "0.329779",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.097457",
+            "ticker_sentiment_score": "-0.31723",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

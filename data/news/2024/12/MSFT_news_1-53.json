@@ -1,0 +1,39 @@
+{
+    "title": "Microsoft Invested Nearly $14 Billion In OpenAI But Now Its Reducing Its Dependence On The ChatGPT-Parent: Report - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
+    "url": "https://www.benzinga.com/24/12/42664762/after-investing-nearly-14-billion-in-openai-microsoft-reportedly-moves-to-reduce-its-dependence-on-chatgpt-parent",
+    "time_published": "20241224T015323",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "Microsoft Corporation MSFT is reportedly planning to reduce its dependence on ChatGPT-maker OpenAI. What Happened: Microsoft has been working on integrating internal and third-party artificial intelligence models into its AI product, Microsoft 365 Copilot, reported Reuters, citing sources ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/23/Microsoft-and-OpenAI.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        }
+    ],
+    "overall_sentiment_score": 0.115082,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.796338",
+            "ticker_sentiment_score": "0.176649",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.200688",
+            "ticker_sentiment_score": "0.037076",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

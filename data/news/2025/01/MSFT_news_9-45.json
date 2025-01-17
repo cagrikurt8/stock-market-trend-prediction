@@ -1,0 +1,69 @@
+{
+    "title": "Artificial Intelligence  ( AI ) , Quantum Computing, and RoboTaxis: Here's 1 \"Magnificent Seven\" Stock That Has It All",
+    "url": "https://www.fool.com/investing/2025/01/10/ai-quantum-computing-magnificent-seven-stock/",
+    "time_published": "20250110T094500",
+    "authors": [
+        "Keith Speights"
+    ],
+    "summary": "Artificial intelligence ( AI ) could be the greatest game-changing technology ever. However, some believe quantum computing will be even bigger than AI. Autonomous ride-hailing services, commonly known as \"robotaxis\", could bring another tectonic shift to society.Investing in any of these hot ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803314/excited-investor-looks-at-financial-charts-on-computer.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.282945,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.221757",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.574235",
+            "ticker_sentiment_score": "-0.003499",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.157827",
+            "ticker_sentiment_score": "0.296574",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.221757",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.105604",
+            "ticker_sentiment_score": "0.241142",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

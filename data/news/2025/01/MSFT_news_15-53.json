@@ -1,0 +1,49 @@
+{
+    "title": "Salesforce Up 27% in 2024: Will the Stock Sustain Momentum in 2025?",
+    "url": "https://www.zacks.com/stock/news/2393068/salesforce-up-27-in-2024-will-the-stock-sustain-momentum-in-2025",
+    "time_published": "20250107T155300",
+    "authors": [
+        "Anirudha Bhagat"
+    ],
+    "summary": "While CRM's long-term prospects shine brightly, slowing revenue growth and macroeconomic pressures warrant a cautious stance.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/76/103.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.744043"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.312947,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "ADBE",
+            "relevance_score": "0.21686",
+            "ticker_sentiment_score": "0.178392",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "INTU",
+            "relevance_score": "0.21686",
+            "ticker_sentiment_score": "0.178392",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.28636",
+            "ticker_sentiment_score": "0.336257",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

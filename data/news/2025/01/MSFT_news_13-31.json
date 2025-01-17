@@ -1,0 +1,99 @@
+{
+    "title": "Prediction: Quantum Computing Will Be the Biggest Theme in Artificial Intelligence  ( AI )  in 2025. But Does That Mean You Should Invest in It?",
+    "url": "https://www.fool.com/investing/2025/01/04/quantum-computing-will-be-the-biggest-ai-theme/",
+    "time_published": "20250104T133100",
+    "authors": [
+        "Adam Spatacco"
+    ],
+    "summary": "Quantum computing stocks are soaring, but do the rising stock prices make sense?",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802570%2Fcoding-error-computing-error.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.221131,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.04161",
+            "ticker_sentiment_score": "0.059204",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.04161",
+            "ticker_sentiment_score": "0.134004",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.083107",
+            "ticker_sentiment_score": "0.041818",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.04161",
+            "ticker_sentiment_score": "0.02901",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RDDT",
+            "relevance_score": "0.124378",
+            "ticker_sentiment_score": "0.010634",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.04161",
+            "ticker_sentiment_score": "0.02901",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.361334",
+            "ticker_sentiment_score": "0.218731",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.124378",
+            "ticker_sentiment_score": "0.050414",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.04161",
+            "ticker_sentiment_score": "0.059204",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GME",
+            "relevance_score": "0.124378",
+            "ticker_sentiment_score": "-0.075128",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

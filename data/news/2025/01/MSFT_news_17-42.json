@@ -1,0 +1,81 @@
+{
+    "title": "ChatGPT Moment For Robotics Is Around The Corner Says Nvidia CEO - Accuray  ( NASDAQ:ARAY ) , Arbe Robotics  ( NASDAQ:ARBE ) ",
+    "url": "https://www.benzinga.com/trading-ideas/25/01/42856720/chatgpt-moment-for-robotics-is-around-the-corner-says-nvidia-ceo",
+    "time_published": "20250107T174259",
+    "authors": [
+        "The Arora Report"
+    ],
+    "summary": "To gain an edge, this is what you need to know today. The ChatGPT moment for robotics is around the corner. Nvidia plans to release a personal AI supercomputer for AI data scientists and researchers, so they do not need to connect to AI data centers.",
+    "banner_image": "https://thearorareport.com/wp-content/uploads/2025/01/2025-01-07_08h51_22.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.993856"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.296894,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.24707",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "-0.236056",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.233556",
+            "ticker_sentiment_score": "0.246531",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "-0.236056",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "-0.236056",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.059194",
+            "ticker_sentiment_score": "0.375414",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

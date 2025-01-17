@@ -1,0 +1,49 @@
+{
+    "title": "Top Stock Picks for Week of January 6, 2025",
+    "url": "https://www.zacks.com/stock/news/2393267/top-stock-picks-for-week-of-january-6-2025",
+    "time_published": "20250107T223500",
+    "authors": [
+        "Panel Of Zacks Experts"
+    ],
+    "summary": "A Pet Food Company and a Software Provider are Featured.",
+    "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.240616,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.11983",
+            "ticker_sentiment_score": "0.118872",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.11983",
+            "ticker_sentiment_score": "0.16565",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MORN",
+            "relevance_score": "0.11983",
+            "ticker_sentiment_score": "0.118872",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

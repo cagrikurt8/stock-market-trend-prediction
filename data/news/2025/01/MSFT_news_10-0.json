@@ -1,0 +1,69 @@
+{
+    "title": "Marjorie Taylor Greene Is Piling Into These 5 Unstoppable Artificial Intelligence  ( AI )  Stocks as 2025 Starts",
+    "url": "https://www.fool.com/investing/2025/01/10/marjorie-taylor-greene-is-piling-into-these-5-unst/",
+    "time_published": "20250110T100000",
+    "authors": [
+        "Keith Noonan"
+    ],
+    "summary": "Marjorie Taylor Greene has served in the House as the representative for Georgia's 14th congressional district since taking office in 2021. Due to the STOCK Act, the Republican congresswoman is required to file disclosures for any stock purchases and sales she makes while in office.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803122%2Fgettyimages-1550670587.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.858979"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.614606"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.358779,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.22616",
+            "ticker_sentiment_score": "0.156232",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.136888",
+            "ticker_sentiment_score": "0.081801",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.181819",
+            "ticker_sentiment_score": "0.250299",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.22616",
+            "ticker_sentiment_score": "0.314204",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NOW",
+            "relevance_score": "0.181819",
+            "ticker_sentiment_score": "0.278027",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

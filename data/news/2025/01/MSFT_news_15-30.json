@@ -1,0 +1,35 @@
+{
+    "title": "Top Job Search Website  ( 2025 ) : Upwork Recognized as Top Online Work Marketplace by Consumer365",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42819002/top-job-search-website-2025-upwork-recognized-as-top-online-work-marketplace-by-consumer365",
+    "time_published": "20250106T153000",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "Boston, Jan. 06, 2025 ( GLOBE NEWSWIRE ) -- Upwork, a global leader in the freelance and remote work marketplace, has been acknowledged as the top job search site in Consumer365's review of job search websites for 2025.",
+    "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFHlQ5YLJetJ-j5QHT6GliJ-ur-4pkVdkrpnSIvQQiZyULrw7h3_Hju72aQDVhnzWAjSGMyIGpXab2Ih9zFjltcL1kCn-Wk61sNj27DVpfjpxrvEECoZ_NLjbBGBdLyPQC2zyZ7Q?key=F1nPUzIG-gELN5mZAQQzg0kv",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.612971,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.247937",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "UPWK",
+            "relevance_score": "0.461468",
+            "ticker_sentiment_score": "0.716794",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "ChatGPT Maker OpenAI Drops o3 Reasoning Model As o1's Successor: Greg Brockman Calls It A 'Breakthrough' - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
+    "url": "https://www.benzinga.com/tech/24/12/42633947/chatgpt-maker-openai-drops-o3-reasoning-model-as-o1s-successor-greg-brockman-calls-it-a-breakthrough",
+    "time_published": "20241221T043040",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "On Friday, ChatGPT-maker OpenAI unveiled its next-generation reasoning model, o3, as the successor to o1, capping off the company's 12 days of shipmas announcements. What Happened: On the final day of its \"12 Days of OpenAI\" event, the AI startup revealed o3, which brings significant advancements ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/20/OpenAI.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.315764,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.132733",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.132733",
+            "ticker_sentiment_score": "0.06268",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

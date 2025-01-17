@@ -1,0 +1,41 @@
+{
+    "title": "CES 2025: HP Unveils AI-Powered Experiences to Supercharge Productivity and Shape the Future of Work - HP  ( NYSE:HPQ ) ",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42827686/ces-2025-hp-unveils-ai-powered-experiences-to-supercharge-productivity-and-shape-the-future-of-wor",
+    "time_published": "20250106T194500",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "Enabling businesses to crush it like never before Modern leaders will make a powerful impression with a new class of PCs that unlock their full potential including the HP EliteBook Ultra G1i - the world's most immersive AI business notebook1",
+    "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.296485,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "HPQ",
+            "relevance_score": "0.051441",
+            "ticker_sentiment_score": "0.212536",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.012869",
+            "ticker_sentiment_score": "0.066133",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TGHI",
+            "relevance_score": "0.012869",
+            "ticker_sentiment_score": "0.133441",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

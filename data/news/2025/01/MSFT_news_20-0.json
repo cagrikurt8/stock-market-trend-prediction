@@ -1,0 +1,49 @@
+{
+    "title": "IBM Faces UK Watchdog Scrutiny for HashiCorp Buyout: Trouble Brewing?",
+    "url": "https://www.zacks.com/stock/news/2391230/ibm-faces-uk-watchdog-scrutiny-for-hashicorp-buyout-trouble-brewing",
+    "time_published": "20250102T200000",
+    "authors": [
+        "Supriyo Bose"
+    ],
+    "summary": "IBM appears primed for further price appreciation despite apparent roadblocks and investors are likely to profit if they bet on this high-flying stock now.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3a/521.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        }
+    ],
+    "overall_sentiment_score": 0.254543,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "HCP",
+            "relevance_score": "0.205458",
+            "ticker_sentiment_score": "0.105345",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.205458",
+            "ticker_sentiment_score": "0.181281",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IBM",
+            "relevance_score": "0.323078",
+            "ticker_sentiment_score": "0.279024",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

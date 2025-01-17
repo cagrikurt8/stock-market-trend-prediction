@@ -1,0 +1,83 @@
+{
+    "title": "Computer Accessories Market to Grow by USD 4.29 Billion  ( 2025-2029 ) , Driven by E-Sports Popularity and AI's Impact on Trends - Technavio",
+    "url": "https://www.benzinga.com/pressreleases/25/01/n42787197/computer-accessories-market-to-grow-by-usd-4-29-billion-2025-2029-driven-by-e-sports-popularity-an",
+    "time_published": "20250103T150100",
+    "authors": [
+        "PRNewswire"
+    ],
+    "summary": "NEW YORK, Jan. 3, 2025 /PRNewswire/ -- Report on how AI is redefining market landscape - The global computer accessories market size is estimated to grow by USD 4.29 billion from 2025-2029, according to Technavio.",
+    "banner_image": "https://mma.prnewswire.com/media/2589984/Technavio_Global_Computer_Accessories_Market_2025_2029.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.286686,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNEJF",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRSR",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DTST",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "0.074022",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LOGI",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "STX",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WDC",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "HPQ",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SEKEF",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DELL",
+            "relevance_score": "0.022794",
+            "ticker_sentiment_score": "-0.006453",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

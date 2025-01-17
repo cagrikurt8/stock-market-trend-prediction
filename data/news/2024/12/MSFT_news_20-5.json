@@ -1,0 +1,93 @@
+{
+    "title": "NVIDIA is the Top 2025 Magnificent 7 Stock Pick - Find Out Why",
+    "url": "https://www.zacks.com/stock/news/2388989/nvidia-is-the-top-2025-magnificent-7-stock-pick---find-out-why",
+    "time_published": "20241227T200500",
+    "authors": [
+        "Tirthankar Chakraborty"
+    ],
+    "summary": "Staggering demand for AI chips, dominance in the GPU market, and strong fundamentals make NVIDIA the top magnificent 7 stock choice for the new year.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b2/55550.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.459462"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.769861"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.34526,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.188683",
+            "ticker_sentiment_score": "0.058053",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.063425",
+            "ticker_sentiment_score": "0.058019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.12645",
+            "ticker_sentiment_score": "0.06703",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.475618",
+            "ticker_sentiment_score": "0.29635",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.12645",
+            "ticker_sentiment_score": "0.06703",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.12645",
+            "ticker_sentiment_score": "0.06703",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.12645",
+            "ticker_sentiment_score": "0.237911",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.063425",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.12645",
+            "ticker_sentiment_score": "0.237911",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

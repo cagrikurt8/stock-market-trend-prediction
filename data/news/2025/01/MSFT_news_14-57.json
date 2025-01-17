@@ -1,0 +1,53 @@
+{
+    "title": "Atlassian Stock Rises 24% in 3 Months: What Should Investors Do?",
+    "url": "https://www.zacks.com/stock/news/2396632/atlassian-stock-rises-24-in-3-months-what-should-investors-do",
+    "time_published": "20250114T145700",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Though TEAM benefits from the ongoing digital transformation trend, softening IT spending amid macroeconomic uncertainties warrants a cautious approach.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/18/20877.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.796627"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.262775,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.126119",
+            "ticker_sentiment_score": "-0.044918",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.063258",
+            "ticker_sentiment_score": "0.113673",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.126119",
+            "ticker_sentiment_score": "-0.044918",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

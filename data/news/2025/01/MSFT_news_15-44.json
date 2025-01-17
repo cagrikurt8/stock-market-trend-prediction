@@ -1,0 +1,87 @@
+{
+    "title": "IONQ's Qubitekk Deal: A Quantum Leap or Risky Bet for 2025?",
+    "url": "https://www.zacks.com/stock/news/2393821/ionqs-qubitekk-deal-a-quantum-leap-or-risky-bet-for-2025",
+    "time_published": "20250108T154400",
+    "authors": [
+        "Vasundhara Sawalka"
+    ],
+    "summary": "IonQ shows promise in quantum tech, but high valuation and competition warrant patience. Consider holding or awaiting better entry points in 2025.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6e/815.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.996023"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.316881,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.089129",
+            "ticker_sentiment_score": "0.101378",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.044634",
+            "ticker_sentiment_score": "0.096262",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ANSS",
+            "relevance_score": "0.089129",
+            "ticker_sentiment_score": "0.095714",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AZN",
+            "relevance_score": "0.089129",
+            "ticker_sentiment_score": "0.095714",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IBM",
+            "relevance_score": "0.089129",
+            "ticker_sentiment_score": "0.101378",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BIDU",
+            "relevance_score": "0.044634",
+            "ticker_sentiment_score": "0.096262",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.38555",
+            "ticker_sentiment_score": "0.339068",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.044634",
+            "ticker_sentiment_score": "0.096262",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

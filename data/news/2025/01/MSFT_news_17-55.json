@@ -1,0 +1,127 @@
+{
+    "title": "AI, Quantum, And Robotics in Focus - All Eyes On Nvidia CEO Keynote - Applied Mat  ( NASDAQ:AMAT ) , Apple  ( NASDAQ:AAPL ) ",
+    "url": "https://www.benzinga.com/trading-ideas/25/01/42824520/ai-quantum-and-robotics-in-focus-all-eyes-on-nvidia-ceo-keynote",
+    "time_published": "20250106T175557",
+    "authors": [
+        "The Arora Report"
+    ],
+    "summary": "To gain an edge, this is what you need to know today. This article is about the big picture, not an individual stock. The chart of NVDA stock is being used to illustrate the point. The chart shows that NVDA stock ran up on Friday in advance of the Consumer Electronics Shows ( CES ) .",
+    "banner_image": "https://thearorareport.com/wp-content/uploads/2025/01/2025-01-06_08h30_16.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999999"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.271589,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMAT",
+            "relevance_score": "0.094576",
+            "ticker_sentiment_score": "0.034458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.047371",
+            "ticker_sentiment_score": "0.157631",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.047371",
+            "ticker_sentiment_score": "0.157631",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.40711",
+            "ticker_sentiment_score": "0.144845",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.141448",
+            "ticker_sentiment_score": "0.082035",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SMCI",
+            "relevance_score": "0.094576",
+            "ticker_sentiment_score": "0.034458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MU",
+            "relevance_score": "0.094576",
+            "ticker_sentiment_score": "0.034458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.047371",
+            "ticker_sentiment_score": "0.374277",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "STM",
+            "relevance_score": "0.094576",
+            "ticker_sentiment_score": "0.034458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ASML",
+            "relevance_score": "0.094576",
+            "ticker_sentiment_score": "0.034458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.141448",
+            "ticker_sentiment_score": "0.172091",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.047371",
+            "ticker_sentiment_score": "0.157631",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "VRT",
+            "relevance_score": "0.094576",
+            "ticker_sentiment_score": "0.034458",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DELL",
+            "relevance_score": "0.094576",
+            "ticker_sentiment_score": "0.034458",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

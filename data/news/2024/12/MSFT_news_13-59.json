@@ -1,0 +1,51 @@
+{
+    "title": "Eshallgo Dives Into Tencent Ecosystem With Cloud Gaming Push; Reveals Up To $20 Million Investment Boost - Eshallgo  ( NASDAQ:EHGO ) ",
+    "url": "https://www.benzinga.com/24/12/42616385/eshallgos-20-million-investment-sparks-cloud-gaming-ambitions-but-shares-plunge",
+    "time_published": "20241220T135950",
+    "authors": [
+        "Lekha Gupta"
+    ],
+    "summary": "Eshallgo Inc. EHGO shares are trading lower premarket today. The company made a strategic move by acquiring D&K Asset Management ( Hong Kong ) Co., Ltd. and forming a partnership with Beijing Liuliuqiu Cultural Development Co., Ltd.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/20/Mastering-Negotiation-Skills.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.380455,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.078354",
+            "ticker_sentiment_score": "0.019504",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "EHGO",
+            "relevance_score": "0.674691",
+            "ticker_sentiment_score": "0.641529",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "SZIHF",
+            "relevance_score": "0.078354",
+            "ticker_sentiment_score": "0.161559",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TCTZF",
+            "relevance_score": "0.306007",
+            "ticker_sentiment_score": "0.373421",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

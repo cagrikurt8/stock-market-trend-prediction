@@ -1,0 +1,59 @@
+{
+    "title": "Cathie Wood Says Software Is the Next Big AI Opportunity -- 2 Super Stocks You'll Wish You'd Bought if She's Right",
+    "url": "https://www.fool.com/investing/2024/12/28/cathie-wood-software-next-ai-2-stocks-wish-bought/",
+    "time_published": "20241228T094900",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "Ark Investment Management operates several exchange-traded funds ( ETFs ) focused on innovative technology stocks. Its founder, Cathie Wood, believes software companies are the next big opportunity in the artificial intelligence ( AI ) industry, predicting they could generate up to $8 in revenue ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802132%2Fa-smartphone-with-the-c3ai-logo-on-the-screen.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.977154"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972756"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.204016,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.46341",
+            "ticker_sentiment_score": "0.235671",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.044801",
+            "ticker_sentiment_score": "0.033956",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.044801",
+            "ticker_sentiment_score": "0.192863",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.044801",
+            "ticker_sentiment_score": "0.142971",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

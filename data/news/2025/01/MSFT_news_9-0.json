@@ -1,0 +1,41 @@
+{
+    "title": "Alibaba ties up with Lee Kai-fu's unicorn as AI sector consolidates",
+    "url": "https://www.scmp.com/tech/big-tech/article/3293297/alibaba-ties-lee-kai-fus-unicorn-chinas-ai-sector-consolidates",
+    "time_published": "20250103T090012",
+    "authors": [
+        "Ann Cao"
+    ],
+    "summary": "Alibaba Cloud signs a deal with start-up 01.AI to develop AI model solutions for business clients.",
+    "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/03/0e3770a5-6d8b-49ad-947d-df8666151ff7_1126e908.jpg",
+    "source": "South China Morning Post",
+    "category_within_source": "Companies",
+    "source_domain": "www.scmp.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.045747,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "BABA",
+            "relevance_score": "0.733479",
+            "ticker_sentiment_score": "0.101256",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.088472",
+            "ticker_sentiment_score": "0.08429",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.088472",
+            "ticker_sentiment_score": "-0.090139",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "title": "Enduring Truths for Investors Both New and Seasoned",
+    "url": "https://www.fool.com/investing/2025/01/11/enduring-truths-for-investors-both-new-and-seasone/",
+    "time_published": "20250111T211900",
+    "authors": [
+        "Motley Fool Staff"
+    ],
+    "summary": "In this podcast, Motley Fool co-founder David Gardner kicks off 2025 by revisiting five timeless lessons drawn from classic Rule Breaker Investing episodes spanning nearly a decade of weekly podcasts. He's got insight on the surprising advantage of never selling, the folly of waiting for dips, ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802899/rbi-01.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.228103,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.032216",
+            "ticker_sentiment_score": "0.096133",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.006445",
+            "ticker_sentiment_score": "0.102003",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.025775",
+            "ticker_sentiment_score": "0.115535",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.019333",
+            "ticker_sentiment_score": "0.086348",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ABNB",
+            "relevance_score": "0.006445",
+            "ticker_sentiment_score": "0.102003",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.006445",
+            "ticker_sentiment_score": "0.102003",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.019333",
+            "ticker_sentiment_score": "0.111623",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SHAK",
+            "relevance_score": "0.006445",
+            "ticker_sentiment_score": "0.035851",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.006445",
+            "ticker_sentiment_score": "-0.005018",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ISRG",
+            "relevance_score": "0.019333",
+            "ticker_sentiment_score": "0.043897",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UBER",
+            "relevance_score": "0.006445",
+            "ticker_sentiment_score": "0.102003",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.064379",
+            "ticker_sentiment_score": "0.088494",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BIIB",
+            "relevance_score": "0.012889",
+            "ticker_sentiment_score": "-0.005278",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BNXYF",
+            "relevance_score": "0.006445",
+            "ticker_sentiment_score": "0.088038",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

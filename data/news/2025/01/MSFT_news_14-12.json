@@ -1,0 +1,79 @@
+{
+    "title": "The crazy ride in quantum computing stocks continues as shares rip higher on Microsoft's 'quantum ready' directive",
+    "url": "https://www.cnbc.com/2025/01/15/quantum-computing-stocks-rip-higher-on-microsofts-quantum-ready-directive.html",
+    "time_published": "20250115T141218",
+    "authors": [],
+    "summary": "Quantum computing stocks rallied Wednesday after Microsoft urged businesses to get \"quantum-ready\" in 2025.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Investing",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.060218,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.324495",
+            "ticker_sentiment_score": "-0.009658",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.110973",
+            "ticker_sentiment_score": "0.137536",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.110973",
+            "ticker_sentiment_score": "0.049686",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.219809",
+            "ticker_sentiment_score": "0.053577",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.110973",
+            "ticker_sentiment_score": "0.024683",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.110973",
+            "ticker_sentiment_score": "0.024683",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.110973",
+            "ticker_sentiment_score": "0.024683",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

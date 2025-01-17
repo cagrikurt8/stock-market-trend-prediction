@@ -1,0 +1,37 @@
+{
+    "title": "Microsoft CEO Satya Nadella Draws Attention To AI-Powered Agriculture For 'Healthier, More Sustainable Harvests' Amid $80 Billion Investment Push - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/markets/equities/25/01/42867849/microsoft-ceo-satya-nadella-draws-attention-to-ai-powered-agriculture-for-healthier-more-sustain",
+    "time_published": "20250108T094828",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "Microsoft Corp. MSFT CEO Satya Nadella showcased the company's artificial intelligence initiatives in Indian agriculture, highlighting a broader push into AI technology backed by an $80 billion investment planned for fiscal 2025.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/08/Washington--United-States---April-04-202.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.342193,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.313484",
+            "ticker_sentiment_score": "0.357711",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

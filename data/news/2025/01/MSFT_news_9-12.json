@@ -1,0 +1,91 @@
+{
+    "title": "Prediction: 1 AI Stock Will Be Worth More Than Palantir Technologies by Year-End in 2025",
+    "url": "https://www.fool.com/investing/2025/01/06/1-ai-stock-worth-more-than-palantir-stock-2025/",
+    "time_published": "20250106T091200",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "Palantir Technologies was the best-performing member of the S&P 500 ( SNPINDEX: ^GSPC ) in 2024. Its share price surged 340% last year as growing demand for its artificial intelligence platform excited investors. Palantir has grown into a $181.9 billion business, but I think semiconductor comany ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802926%2Fartificial-intelligence-28.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.904684"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.338671,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.005",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.005",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.113329",
+            "ticker_sentiment_score": "0.216846",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.183984",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.124947",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.113329",
+            "ticker_sentiment_score": "0.245631",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.005",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.218075",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

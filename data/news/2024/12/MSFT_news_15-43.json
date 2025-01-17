@@ -1,0 +1,61 @@
+{
+    "title": "Zoom Video Poised for Growth in 2025: Time to Buy the Stock?",
+    "url": "https://www.zacks.com/stock/news/2389559/zoom-video-poised-for-growth-in-2025-time-to-buy-the-stock",
+    "time_published": "20241230T154300",
+    "authors": [
+        "Vasundhara Sawalka"
+    ],
+    "summary": "Zoom's AI innovation, record enterprise wins & strategic expansion signal strong growth. Strong financials & AI-first vision make it a compelling buy for 2025.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b8/2315.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.818451"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.491594,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.101154",
+            "ticker_sentiment_score": "0.171734",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.101154",
+            "ticker_sentiment_score": "0.259629",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CSCO",
+            "relevance_score": "0.101154",
+            "ticker_sentiment_score": "0.171734",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ZM",
+            "relevance_score": "0.432701",
+            "ticker_sentiment_score": "0.581328",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "NOW",
+            "relevance_score": "0.050679",
+            "ticker_sentiment_score": "0.190365",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

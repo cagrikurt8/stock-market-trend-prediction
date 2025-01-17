@@ -1,0 +1,55 @@
+{
+    "title": "More & More Regulations Under Trump: How Will Tech Giants Cope in 2025?",
+    "url": "https://www.zacks.com/stock/news/2386985/more-more-regulations-under-trump-how-will-tech-giants-cope-in-2025",
+    "time_published": "20241223T155400",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "In Trump's second term, tech giants like GOOGL, MSFT, META and AAPL face tough regulations on AI, antitrust and privacy.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b3/738.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.796627"
+        }
+    ],
+    "overall_sentiment_score": 0.249834,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.345674",
+            "ticker_sentiment_score": "0.268562",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.133346",
+            "ticker_sentiment_score": "0.214772",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.304787",
+            "ticker_sentiment_score": "0.240066",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.424317",
+            "ticker_sentiment_score": "0.130611",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

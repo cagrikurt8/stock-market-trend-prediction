@@ -1,0 +1,61 @@
+{
+    "title": "Dana White Wanted Elon Musk, Mark Zuckerberg In Cage Fight, Now He's On Meta's Board Of Directors - Meta Platforms  ( NASDAQ:META ) ",
+    "url": "https://www.benzinga.com/general/social-media/25/01/42833727/dana-white-wanted-elon-musk-mark-zuckerberg-in-cage-fight-now-hes-on-metas-board-of-director",
+    "time_published": "20250106T230131",
+    "authors": [
+        "Chris Katje"
+    ],
+    "summary": "Meta announces three new board of directors on Monday. UFC CEO Dana White is among the new board members, which adds to the Zuckerberg vs. Musk cage fight storyline that almost happened. Dana White served as the matchmaker who wanted to make a cage fight between billionaires Elon Musk and Mark ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/06/Dana-White-shutter.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        }
+    ],
+    "overall_sentiment_score": 0.122742,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "JVTSF",
+            "relevance_score": "0.059341",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.059341",
+            "ticker_sentiment_score": "0.181014",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.059341",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.176717",
+            "ticker_sentiment_score": "0.036058",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TKO",
+            "relevance_score": "0.176717",
+            "ticker_sentiment_score": "0.047834",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

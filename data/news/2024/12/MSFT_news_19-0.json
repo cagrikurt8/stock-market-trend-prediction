@@ -1,0 +1,91 @@
+{
+    "title": "Quantum Computing: The New AI? A Look at the Rapidly Expanding Market and Top Stocks For 2025 - Global X Cloud Computing ETF  ( NASDAQ:CLOU ) , ARK Next Generation Internet ETF  ( ARCA:ARKW ) ",
+    "url": "https://www.benzinga.com/markets/equities/24/12/42638753/quantum-computing-the-new-ai-a-look-at-the-rapidly-expanding-market-and-top-stocks-for-2025",
+    "time_published": "20241222T190045",
+    "authors": [
+        "Nabaparna Bhattacharya"
+    ],
+    "summary": "Quantum computing is emerging as a game-changing technology poised to revolutionize industries, much like how artificial intelligence ( AI ) has transformed the digital landscape.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/22/quantum-cloud-image.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.875462"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.343692,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.166743",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QUBT",
+            "relevance_score": "0.166743",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.166743",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TRMNF",
+            "relevance_score": "0.083833",
+            "ticker_sentiment_score": "0.192793",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IBM",
+            "relevance_score": "0.166743",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.166743",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "HON",
+            "relevance_score": "0.166743",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.166743",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WT",
+            "relevance_score": "0.083833",
+            "ticker_sentiment_score": "-0.288342",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "CRYPTO:QTUM",
+            "relevance_score": "0.083833",
+            "ticker_sentiment_score": "-0.288342",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

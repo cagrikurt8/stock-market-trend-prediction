@@ -1,0 +1,57 @@
+{
+    "title": "Prediction: This Hypergrowth AI Stock Will Finish 2025 With the Largest Market Cap in the World  ( Hint: It's Not Nvidia ) ",
+    "url": "https://www.fool.com/investing/2025/01/13/prediction-this-hypergrowth-ai-stock-will-finish-2/",
+    "time_published": "20250114T010700",
+    "authors": [
+        "Brett Schafer"
+    ],
+    "summary": "2024 was the year Nvidia -- at least briefly -- became the world's largest company by market capitalization. The rising demand for artificial intelligence ( AI ) has put the computer chip maker in overdrive, with profits gushing.",
+    "banner_image": "https://media.ycharts.com/charts/00b0b50ab18af564df47f0ac79a1daba.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.99994"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.275021,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.057215",
+            "ticker_sentiment_score": "0.01",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.22595",
+            "ticker_sentiment_score": "0.195954",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.384608",
+            "ticker_sentiment_score": "0.263092",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

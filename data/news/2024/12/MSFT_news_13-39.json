@@ -1,0 +1,61 @@
+{
+    "title": "Assessing Five9 Stock's 2025 Comeback Potential After 48.3% Drop in 2024",
+    "url": "https://www.zacks.com/stock/news/2389908/assessing-five9-stocks-2025-comeback-potential-after-483-drop-in-2024",
+    "time_published": "20241231T133900",
+    "authors": [
+        "Vasundhara Sawalka"
+    ],
+    "summary": "FIVN's recovery potential is likely to shine in 2025 after a 48.3% drop in 2024. Strong AI growth, financials and expanding enterprise presence make it an attractive pick.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6f/66526.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.980716"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        }
+    ],
+    "overall_sentiment_score": 0.445556,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.162528",
+            "ticker_sentiment_score": "0.350862",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "RNG",
+            "relevance_score": "0.081691",
+            "ticker_sentiment_score": "0.176587",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FIVN",
+            "relevance_score": "0.280386",
+            "ticker_sentiment_score": "0.357597",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "ZM",
+            "relevance_score": "0.081691",
+            "ticker_sentiment_score": "0.176587",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FOREX:USD",
+            "relevance_score": "0.040899",
+            "ticker_sentiment_score": "0.169283",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

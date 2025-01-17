@@ -1,0 +1,91 @@
+{
+    "title": "Top Research Reports for ServiceNow, AMD & Sanofi",
+    "url": "https://www.zacks.com/research-daily/2386939/top-research-reports-for-servicenow-amd-sanofi",
+    "time_published": "20241223T224400",
+    "authors": [
+        "Mark Vickery"
+    ],
+    "summary": "Today's Research Daily features new research reports on 16 major stocks, including ServiceNow, Inc. (NOW), Advanced Micro Devices, Inc. (AMD) and Sanofi (SNY), as well as two micro-cap stocks Team, Inc. (TISI) and United-Guardian, Inc. (UG).",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/08/1020.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.291135,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "LNVGF",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "0.026971",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.10607",
+            "ticker_sentiment_score": "0.029553",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "0.026971",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UG",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "0.358983",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "NOW",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "0.028",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TISI",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "0.118902",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UBER",
+            "relevance_score": "0.053153",
+            "ticker_sentiment_score": "0.026971",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNY",
+            "relevance_score": "0.10607",
+            "ticker_sentiment_score": "0.284861",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

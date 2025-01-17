@@ -1,0 +1,53 @@
+{
+    "title": "Intel Has a Lot to Prove in 2025",
+    "url": "https://www.fool.com/investing/2025/01/01/intel-has-a-lot-to-prove-in-2025/",
+    "time_published": "20250101T114000",
+    "authors": [
+        "Timothy Green"
+    ],
+    "summary": "2025 will be a pivotal year for chip-giant Intel ( NASDAQ: INTC ) as it navigates an industry that it no longer dominates. A multiyear turnaround effort led by former CEO Pat Gelsinger, which aimed to turn Intel into a world-class foundry, has yet to pay off as the company struggles on multiple ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802454/gettyimages-2157571110.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.069805,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.052226",
+            "ticker_sentiment_score": "0.041987",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QCOM",
+            "relevance_score": "0.052226",
+            "ticker_sentiment_score": "-0.019015",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.911443",
+            "ticker_sentiment_score": "0.126759",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

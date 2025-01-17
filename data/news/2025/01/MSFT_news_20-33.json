@@ -1,0 +1,199 @@
+{
+    "title": "Investors Look Back at 2024",
+    "url": "https://www.fool.com/investing/2025/01/06/investors-look-back-at-2024/",
+    "time_published": "20250106T203300",
+    "authors": [
+        "Motley Fool Staff"
+    ],
+    "summary": "The S&P 500 had a great year.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802558/2024s-winners-and-losers.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Economy - Macro",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.179809,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.189396",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TGT",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.013521",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CVS",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.013521",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.019962",
+            "ticker_sentiment_score": "0.096368",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.133321",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UAL",
+            "relevance_score": "0.079722",
+            "ticker_sentiment_score": "0.142874",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DLTR",
+            "relevance_score": "0.029939",
+            "ticker_sentiment_score": "-0.025727",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVO",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.014188",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AXON",
+            "relevance_score": "0.019962",
+            "ticker_sentiment_score": "0.128729",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAL",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.124215",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.128096",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.019962",
+            "ticker_sentiment_score": "0.046633",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.139035",
+            "ticker_sentiment_score": "0.09219",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.019962",
+            "ticker_sentiment_score": "0.128729",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WBA",
+            "relevance_score": "0.029939",
+            "ticker_sentiment_score": "-0.025727",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LLY",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.014188",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CDNS",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.095038",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MRNA",
+            "relevance_score": "0.019962",
+            "ticker_sentiment_score": "-0.024416",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.029939",
+            "ticker_sentiment_score": "-0.016284",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BA",
+            "relevance_score": "0.029939",
+            "ticker_sentiment_score": "0.110681",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSEZ",
+            "relevance_score": "0.009982",
+            "ticker_sentiment_score": "0.188022",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.019962",
+            "ticker_sentiment_score": "0.00457",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FOREX:USD",
+            "relevance_score": "0.019962",
+            "ticker_sentiment_score": "0.040999",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.029939",
+            "ticker_sentiment_score": "0.018342",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

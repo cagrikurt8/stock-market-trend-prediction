@@ -1,0 +1,59 @@
+{
+    "title": "3 Red-Hot Growth Stocks to Buy in 2025",
+    "url": "https://www.fool.com/investing/2024/12/23/3-red-hot-growth-stocks-to-buy-in-2025/",
+    "time_published": "20241223T120000",
+    "authors": [
+        "Keithen Drury"
+    ],
+    "summary": "Picking up the latest hot growth stock can be smart, but only if it's at the right price. Following the crowd after a stock has made a huge move sometimes doesn't work out, so there are a few considerations to take note of before making the move.However, I've found three red-hot growth stocks ...",
+    "banner_image": "https://media.ycharts.com/charts/7f1afc2f7229a9f4fb03b1c8eb24745c.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.503496"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.990893"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.30909,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.194242",
+            "ticker_sentiment_score": "0.126002",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PYPL",
+            "relevance_score": "0.065327",
+            "ticker_sentiment_score": "0.114167",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MELI",
+            "relevance_score": "0.433877",
+            "ticker_sentiment_score": "0.295148",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.194242",
+            "ticker_sentiment_score": "0.220222",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

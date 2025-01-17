@@ -1,0 +1,75 @@
+{
+    "title": "Cisco Systems Rises 16% in a Year: Buy, Sell or Hold the Stock?",
+    "url": "https://www.zacks.com/stock/news/2386435/cisco-systems-rises-16-in-a-year-buy-sell-or-hold-the-stock",
+    "time_published": "20241220T162600",
+    "authors": [
+        "Nida Ali Saigal"
+    ],
+    "summary": "CSCO shares are riding on strong partnerships, an expanding portfolio and cybersecurity growth amid challenges in networking demand.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/16/405.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.917436"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.345556,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "LNVGF",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.197873",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.197873",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.108712",
+            "ticker_sentiment_score": "0.21696",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.215415",
+            "ticker_sentiment_score": "0.345396",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MGM",
+            "relevance_score": "0.162437",
+            "ticker_sentiment_score": "0.196265",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CSCO",
+            "relevance_score": "0.781328",
+            "ticker_sentiment_score": "0.464814",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

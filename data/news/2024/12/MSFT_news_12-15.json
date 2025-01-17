@@ -1,0 +1,51 @@
+{
+    "title": "34% of the S&P 500's Value Comes From Just 8 Stocks",
+    "url": "https://www.fool.com/investing/2024/12/29/34-of-the-sp-500-index-value-comes-from/",
+    "time_published": "20241229T121500",
+    "authors": [
+        "Bram Berkowitz"
+    ],
+    "summary": "The S&P 500 index is a benchmark used to gauge the broader U.S. market. Its 500 large-cap and megacap components come from every sector of the economy, and reflect investing categories from value to growth. As those companies account for about 80% of the value of the U.S. stock market, the S&P ...",
+    "banner_image": "https://media.ycharts.com/charts/8fe7f364d88205020f7860683dbfbb24.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.682689"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.818451"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.081849,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.060388",
+            "ticker_sentiment_score": "-0.120006",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.060388",
+            "ticker_sentiment_score": "0.055035",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Prediction: Microsoft Will Beat the Market, Here's Why",
+    "url": "https://www.fool.com/investing/2024/12/30/prediction-microsoft-will-beat-the-market-heres-wh/",
+    "time_published": "20241231T000000",
+    "authors": [
+        "Motley Fool Youtube"
+    ],
+    "summary": "Explore the exciting world of Microsoft ( NASDAQ: MSFT ) with our expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of Nov. 12, 2024.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/801587/msft.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.237116,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.9545",
+            "ticker_sentiment_score": "0.546196",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

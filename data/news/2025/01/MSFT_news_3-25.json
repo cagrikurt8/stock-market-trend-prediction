@@ -1,0 +1,67 @@
+{
+    "title": "NVIDIA Launches AI Foundation Models for RTX AI PCs - NVIDIA  ( NASDAQ:NVDA ) ",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42835845/nvidia-launches-ai-foundation-models-for-rtx-ai-pcs",
+    "time_published": "20250107T032527",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "LAS VEGAS, Jan. 06, 2025 ( GLOBE NEWSWIRE ) -- CES -- NVIDIA today announced foundation models running locally on NVIDIA RTX™ AI PCs that supercharge digital humans, content creation, productivity and development.",
+    "banner_image": "https://ml.globenewswire.com/media/ad3b9553-6933-40b1-adfd-2ed199cd141c/small/nvidia-logo-jpg.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.169695,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "LNVGF",
+            "relevance_score": "0.020215",
+            "ticker_sentiment_score": "0.049521",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.020215",
+            "ticker_sentiment_score": "0.125331",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SSNLF",
+            "relevance_score": "0.020215",
+            "ticker_sentiment_score": "0.049521",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.7562",
+            "ticker_sentiment_score": "0.241072",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TRMNF",
+            "relevance_score": "0.020215",
+            "ticker_sentiment_score": "0.007989",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:NANO",
+            "relevance_score": "0.020215",
+            "ticker_sentiment_score": "0.053071",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

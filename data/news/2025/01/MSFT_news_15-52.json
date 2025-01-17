@@ -1,0 +1,115 @@
+{
+    "title": "Trifecta Of Good Data Puts Animal Spirits In High Gear Again To Buy Stocks - Bank of New York Mellon  ( NYSE:BK ) ",
+    "url": "https://www.benzinga.com/trading-ideas/25/01/43007609/trifecta-of-good-data-puts-animal-spirits-in-high-gear-again-to-buy-stocks",
+    "time_published": "20250115T155219",
+    "authors": [
+        "The Arora Report"
+    ],
+    "summary": "To gain an edge, this is what you need to know today. An enlarged chart of SPDR S&P 500 ETF Trust SPY which represents the benchmark stock market index S&P 500 ( SPX ) . Headline CPI came at 0.4% vs. 0.3% consensus. Core CPI came at 0.2% vs. 0.3% consensus.",
+    "banner_image": "https://thearorareport.com/wp-content/uploads/2025/01/2025-01-15_08h43_48.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999346"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.287389,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.166833",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.166833",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.166833",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.166833",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.166833",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "C",
+            "relevance_score": "0.162437",
+            "ticker_sentiment_score": "0.150788",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.166833",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "WFC",
+            "relevance_score": "0.108712",
+            "ticker_sentiment_score": "0.088239",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BK",
+            "relevance_score": "0.108712",
+            "ticker_sentiment_score": "0.088239",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.108712",
+            "ticker_sentiment_score": "0.088239",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.054483",
+            "ticker_sentiment_score": "0.265957",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.108712",
+            "ticker_sentiment_score": "0.219168",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

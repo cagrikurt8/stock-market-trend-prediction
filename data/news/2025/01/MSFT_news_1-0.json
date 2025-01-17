@@ -1,0 +1,73 @@
+{
+    "title": "Better Artificial Intelligence Stock: IonQ vs. Rigetti Computing",
+    "url": "https://www.fool.com/investing/2025/01/05/better-artificial-intelligence-stock-ionq-vs-riget/",
+    "time_published": "20250106T010000",
+    "authors": [
+        "Leo Sun"
+    ],
+    "summary": "Which of these early movers in the quantum computing market is a better buy?",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802648%2Fai-letters-projected-on-a-circuit-board.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "IPO",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.133764,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.04531",
+            "ticker_sentiment_score": "-0.016878",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.04531",
+            "ticker_sentiment_score": "-0.016878",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.04531",
+            "ticker_sentiment_score": "-0.016878",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.504646",
+            "ticker_sentiment_score": "0.274483",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.090474",
+            "ticker_sentiment_score": "0.198951",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

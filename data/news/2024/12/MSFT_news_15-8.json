@@ -1,0 +1,73 @@
+{
+    "title": "CommVault Stock Rises 26% in Six Months: What Should Investors Do?",
+    "url": "https://www.zacks.com/stock/news/2389541/commvault-stock-rises-26-in-six-months-what-should-investors-do",
+    "time_published": "20241230T150800",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "CVLT stock offers compelling long-term growth opportunities, yet its elevated valuation suggests that short-term gains may be constrained.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/43/1261.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.938793"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.37303,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.108958",
+            "ticker_sentiment_score": "0.056536",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.215894",
+            "ticker_sentiment_score": "0.331269",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PSTG",
+            "relevance_score": "0.054607",
+            "ticker_sentiment_score": "0.22519",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CVLT",
+            "relevance_score": "0.318897",
+            "ticker_sentiment_score": "0.316858",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ADSK",
+            "relevance_score": "0.108958",
+            "ticker_sentiment_score": "0.137724",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MANH",
+            "relevance_score": "0.108958",
+            "ticker_sentiment_score": "0.137724",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DUOL",
+            "relevance_score": "0.054607",
+            "ticker_sentiment_score": "0.027006",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

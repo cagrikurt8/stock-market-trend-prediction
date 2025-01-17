@@ -1,0 +1,81 @@
+{
+    "title": "Failed Nvidia Breakout Burns Momo Crowd, Interest Rates Rise On Strong Economic Data - NVIDIA  ( NASDAQ:NVDA ) , VanEck Semiconductor ETF  ( NASDAQ:SMH ) ",
+    "url": "https://www.benzinga.com/trading-ideas/25/01/42878286/failed-nvidia-breakout-burns-momo-crowd-interest-rates-rise-on-strong-economic-data",
+    "time_published": "20250108T153246",
+    "authors": [
+        "The Arora Report"
+    ],
+    "summary": "To gain an edge, this is what you need to know today. The stock stays in stage five for a long time. The stock starts the five stages of a short trade. The stock breaks out and starts another cycle of the five stages to the upside. ADP employment change came at 122K vs. 131K consensus.",
+    "banner_image": "https://thearorareport.com/wp-content/uploads/2025/01/2025-01-08_08h14_20.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999606"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.22426,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.059935",
+            "ticker_sentiment_score": "0.247115",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.059935",
+            "ticker_sentiment_score": "-0.188034",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.059935",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.059935",
+            "ticker_sentiment_score": "-0.188034",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.059935",
+            "ticker_sentiment_score": "-0.188034",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.059935",
+            "ticker_sentiment_score": "0.268159",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.059935",
+            "ticker_sentiment_score": "-0.252667",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

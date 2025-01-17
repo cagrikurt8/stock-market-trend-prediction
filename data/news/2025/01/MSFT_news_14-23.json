@@ -1,0 +1,55 @@
+{
+    "title": "Microsoft's $80 Billion Investment Outlay, Musk's Battle With OpenAI, And Nvidia's Billion-Dollar Bet: This Week In Artificial Intelligence - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",
+    "url": "https://www.benzinga.com/25/01/42804813/microsofts-80-billion-investment-outlay-musks-battle-with-openai-and-nvidias-billion-dollar-bet-this-week-in-arti",
+    "time_published": "20250105T142341",
+    "authors": [
+        "Benzinga Neuro"
+    ],
+    "summary": "As we step into the new year, the tech world continues to be abuzz with artificial intelligence ( AI ) developments. From Microsoft Corp. MSFT announcing a whopping $80 billion investment in AI data centers to the ongoing legal tussle between Elon Musk and OpenAI, the past week has been nothing ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/05/What-Happened.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.101333,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.406197",
+            "ticker_sentiment_score": "0.120368",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IBIDF",
+            "relevance_score": "0.10607",
+            "ticker_sentiment_score": "0.043715",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.310843",
+            "ticker_sentiment_score": "0.113393",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TRMNF",
+            "relevance_score": "0.10607",
+            "ticker_sentiment_score": "0.148497",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

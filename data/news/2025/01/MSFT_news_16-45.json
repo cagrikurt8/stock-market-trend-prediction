@@ -1,0 +1,39 @@
+{
+    "title": "Why BlackBerry Stock Is Soaring Today",
+    "url": "https://www.fool.com/investing/2025/01/06/why-blackberry-stock-is-soaring-today/",
+    "time_published": "20250106T164525",
+    "authors": [
+        "Keith Noonan"
+    ],
+    "summary": "Is BlackBerry on the verge of scoring big wins with the Internet of Things?",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802992/gettyimages-1442334668.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.35143,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "BB",
+            "relevance_score": "0.59972",
+            "ticker_sentiment_score": "0.488345",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.220809",
+            "ticker_sentiment_score": "0.265462",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

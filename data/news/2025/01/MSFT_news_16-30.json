@@ -1,0 +1,69 @@
+{
+    "title": "Why Is Oracle  ( ORCL )  Down 8.8% Since Last Earnings Report?",
+    "url": "https://www.zacks.com/stock/news/2393876/why-is-oracle-orcl-down-88-since-last-earnings-report",
+    "time_published": "20250108T163007",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Oracle (ORCL) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default315.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.989041"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999174"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Economy - Macro",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.102416,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.037446",
+            "ticker_sentiment_score": "0.20201",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.037446",
+            "ticker_sentiment_score": "0.064231",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.037446",
+            "ticker_sentiment_score": "0.208236",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.426824",
+            "ticker_sentiment_score": "0.158347",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "UBER",
+            "relevance_score": "0.037446",
+            "ticker_sentiment_score": "0.20201",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

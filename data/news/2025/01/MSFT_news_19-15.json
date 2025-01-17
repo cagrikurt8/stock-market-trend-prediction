@@ -1,0 +1,37 @@
+{
+    "title": "Check Out What Whales Are Doing With MSFT - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/insights/options/25/01/42924634/check-out-what-whales-are-doing-with-msft",
+    "time_published": "20250110T191555",
+    "authors": [
+        "Benzinga Insights"
+    ],
+    "summary": "Financial giants have made a conspicuous bearish move on Microsoft. Our analysis of options history for Microsoft MSFT revealed 122 unusual trades. Delving into the details, we found 36% of traders were bullish, while 47% showed bearish tendencies.",
+    "banner_image": "https://www.benzinga.com/files/images/story/2025/1736536552_0.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        }
+    ],
+    "overall_sentiment_score": 0.194839,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.800999",
+            "ticker_sentiment_score": "0.139658",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "title": "This Is the Top-Performing Vanguard ETF This Year. Should You Buy It for 2025?",
+    "url": "https://www.fool.com/investing/2024/12/21/this-is-the-top-performing-vanguard-etf-this-year/",
+    "time_published": "20241221T115000",
+    "authors": [
+        "Jennifer Saibil"
+    ],
+    "summary": "Many investors know about the Vanguard S&P 500 ETF, one of the easiest ways to invest in the broader market. But Vanguard actually has more than 80 different exchange-traded funds ( ETFs ) that meet a varied list of investor criteria.As you might imagine, its growth ETFs are performing ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801173%2Fsuccess-in-workplace-happy-businesswoman-1201x800-5b2df79.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998287"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.25443,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.076115",
+            "ticker_sentiment_score": "0.030275",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.076115",
+            "ticker_sentiment_score": "0.030275",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.076115",
+            "ticker_sentiment_score": "0.030275",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.076115",
+            "ticker_sentiment_score": "0.053494",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

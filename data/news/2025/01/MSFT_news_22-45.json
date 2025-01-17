@@ -1,0 +1,37 @@
+{
+    "title": "Why Microsoft  ( MSFT )  Outpaced the Stock Market Today",
+    "url": "https://www.zacks.com/stock/news/2392479/why-microsoft-msft-outpaced-the-stock-market-today",
+    "time_published": "20250106T224520",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Microsoft (MSFT) concluded the recent trading session at $427.58, signifying a +1% move from its prior day's close.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default105.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.891286"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        }
+    ],
+    "overall_sentiment_score": 0.158727,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.622414",
+            "ticker_sentiment_score": "0.254981",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

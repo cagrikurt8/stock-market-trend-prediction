@@ -1,0 +1,61 @@
+{
+    "title": "Why Intel Stock Is Falling Today",
+    "url": "https://www.fool.com/investing/2025/01/06/why-intel-stock-is-falling-today/",
+    "time_published": "20250106T211320",
+    "authors": [
+        "Keith Noonan"
+    ],
+    "summary": "Intel ( NASDAQ: INTC ) stock price was down by 2.9% as of 3 p.m. ET Monday, even as the S&P 500 index was up by 0.5% and the Nasdaq Composite had gained 1% for the day.The chipmaker's decline appears to be linked to an article published late Friday by The Wall Street Journal that highlighted the ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803057/gettyimages-1410807011.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.123422,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.090816",
+            "ticker_sentiment_score": "0.046651",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SSNLF",
+            "relevance_score": "0.090816",
+            "ticker_sentiment_score": "0.009622",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.090816",
+            "ticker_sentiment_score": "0.046651",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.506284",
+            "ticker_sentiment_score": "0.223372",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.090816",
+            "ticker_sentiment_score": "0.009622",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

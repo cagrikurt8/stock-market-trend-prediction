@@ -1,0 +1,49 @@
+{
+    "title": "Warren Buffett Says Buy S&P 500, But This Tech Investor Warns Of A 'Rude Awakening' - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",
+    "url": "https://www.benzinga.com/markets/25/01/42756619/warren-buffett-says-buy-sp-500-but-this-tech-investor-warns-of-a-rude-awakening",
+    "time_published": "20250101T180019",
+    "authors": [
+        "Bibhu Pattnaik"
+    ],
+    "summary": "Investing in the S&P 500 index could be a high-risk gamble, suggests Palihapitiya, as a few tech giants sway market stability. Palihapitiya contrasts Buffett's conservative investment approach with cautionary advice amid his own SPAC endorsements.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/01/Do-You-Know-Warren-Buffetts-Berkshire-Ha_1.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.967645"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.036231,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.160633",
+            "ticker_sentiment_score": "-0.051049",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.160633",
+            "ticker_sentiment_score": "-0.051049",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.160633",
+            "ticker_sentiment_score": "-0.051049",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

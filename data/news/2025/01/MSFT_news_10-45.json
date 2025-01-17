@@ -1,0 +1,59 @@
+{
+    "title": "Microsoft vs. Amazon: Which Cloud-Computing Stock Will Outperform in 2025?",
+    "url": "https://www.fool.com/investing/2025/01/03/microsoft-vs-amazon-which-cloud-computing-stock-wi/",
+    "time_published": "20250103T104500",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "Both Amazon ( NASDAQ: AMZN ) and Microsoft ( NASDAQ: MSFT ) saw strong growth in their cloud-computing business units in 2024. While Microsoft's Azure saw the higher revenue growth, it was Amazon's stock that outperformed in 2024.Let's see which stock could be the bigger winner this year.Cloud ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802518%2Fgettyimages-1483780995.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.998682"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.369559,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.510421",
+            "ticker_sentiment_score": "0.443518",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.045918",
+            "ticker_sentiment_score": "0.170226",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.045918",
+            "ticker_sentiment_score": "-0.014864",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.510421",
+            "ticker_sentiment_score": "0.464833",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

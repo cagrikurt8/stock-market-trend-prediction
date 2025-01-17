@@ -1,0 +1,69 @@
+{
+    "title": "McKesson Stock Declines Post Divestiture of Canada-Based Businesses",
+    "url": "https://www.zacks.com/stock/news/2391106/mckesson-stock-declines-post-divestiture-of-canada-based-businesses",
+    "time_published": "20250102T160400",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "MCK aims to focus on capital deployment and prioritize investments to strengthen its strategic oncology and biopharma growth platforms.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2a/3899.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.256014,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.057907",
+            "ticker_sentiment_score": "0.214003",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RMD",
+            "relevance_score": "0.22861",
+            "ticker_sentiment_score": "0.109799",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CAH",
+            "relevance_score": "0.172507",
+            "ticker_sentiment_score": "0.078986",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MCK",
+            "relevance_score": "0.532402",
+            "ticker_sentiment_score": "0.405394",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "BSX",
+            "relevance_score": "0.172507",
+            "ticker_sentiment_score": "0.095686",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

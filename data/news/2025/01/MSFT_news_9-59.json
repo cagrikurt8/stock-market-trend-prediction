@@ -1,0 +1,61 @@
+{
+    "title": "1 Vanguard ETF to Confidently Buy With $430 During the S&P 500 Bull Market in 2025",
+    "url": "https://www.fool.com/investing/2025/01/09/1-vanguard-etf-buy-430-sp-500-bull-market-in-2025/",
+    "time_published": "20250109T095900",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "The S&P 500 is coming off back-to-back annual gains of more than 25% in 2023 and 2024 ( including dividends ) , something it has only done one other time in its history dating back to 1957. In other words, the bull market is roaring.The S&P 500 is weighted by market capitalization, so the largest ...",
+    "banner_image": "https://media.ycharts.com/charts/acfe08a1d4509fa15f21daf1f72b72c8.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998917"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.146075,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.051774",
+            "ticker_sentiment_score": "0.084859",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.154455",
+            "ticker_sentiment_score": "0.080616",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.051774",
+            "ticker_sentiment_score": "0.026978",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.154455",
+            "ticker_sentiment_score": "0.101464",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.051774",
+            "ticker_sentiment_score": "0.084859",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

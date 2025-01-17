@@ -1,0 +1,49 @@
+{
+    "title": "Microsoft Stock vs. Meta Platforms Stock: Billionaires Are Buying One and Selling the Other",
+    "url": "https://www.fool.com/investing/2024/12/29/microsoft-stock-meta-platforms-stock-buy-sell/",
+    "time_published": "20241229T101200",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "Wall Street is very bullish on Microsoft ( NASDAQ: MSFT ) and Meta Platforms ( NASDAQ: META ) . Both stocks have a consensus rating of buy, and the median target prices imply at least 10% upside as of Dec. 27. However, two hedge fund billionaires sold Microsoft and bought Meta Platforms in the ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802286/bull-and-bear-4.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.999996"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.996023"
+        }
+    ],
+    "overall_sentiment_score": 0.172574,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.583366",
+            "ticker_sentiment_score": "0.133514",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.229301",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.551622",
+            "ticker_sentiment_score": "0.373638",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

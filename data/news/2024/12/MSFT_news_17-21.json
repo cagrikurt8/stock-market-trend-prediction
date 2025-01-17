@@ -1,0 +1,39 @@
+{
+    "title": "Tevogen Bio to Host Panel Discussions \"AI In Biopharma: Next Frontier of Medical Innovation\" and \"Pioneering the Economics of Health: Balancing Access and Outcomes\" During J.P. Morgan Healthcare Conference",
+    "url": "https://www.globenewswire.com/news-release/2024/12/26/3002002/0/en/Tevogen-Bio-to-Host-Panel-Discussions-AI-In-Biopharma-Next-Frontier-of-Medical-Innovation-and-Pioneering-the-Economics-of-Health-Balancing-Access-and-Outcomes-During-J-P-Morgan-Hea.html",
+    "time_published": "20241226T172100",
+    "authors": [
+        "Tevogen Bio Inc"
+    ],
+    "summary": "WARREN, N.J., Dec. 26, 2024 ( GLOBE NEWSWIRE ) -- Tevogen Bio ( \"Tevogen\" or \"Tevogen Bio Holdings Inc.\" ) ( Nasdaq: TVGN ) , will host panel discussions at the 43rd Annual J.P. Morgan Healthcare Conference in San Francisco, California.",
+    "banner_image": "https://ml.globenewswire.com/Resource/Download/9b0bf9b2-9619-4962-ab6d-3b2f13eaf0c8",
+    "source": "GlobeNewswire",
+    "category_within_source": "n/a",
+    "source_domain": "www.globenewswire.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.321551,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.199584",
+            "ticker_sentiment_score": "0.21985",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TVGN",
+            "relevance_score": "0.386875",
+            "ticker_sentiment_score": "-0.088526",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

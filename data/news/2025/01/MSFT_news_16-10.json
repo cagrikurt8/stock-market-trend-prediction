@@ -1,0 +1,43 @@
+{
+    "title": "Here's Why You Should Add Vertex Stock to Your Portfolio Now",
+    "url": "https://www.zacks.com/stock/news/2393091/heres-why-you-should-add-vertex-stock-to-your-portfolio-now",
+    "time_published": "20250107T161000",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "VERX's strong portfolio, increasing customer base and product integrations make it a compelling investment option at present.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/43/1261.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.444653,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.224903",
+            "ticker_sentiment_score": "-0.043729",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ORCL",
+            "relevance_score": "0.296761",
+            "ticker_sentiment_score": "-0.054407",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

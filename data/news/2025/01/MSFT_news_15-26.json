@@ -1,0 +1,65 @@
+{
+    "title": "Can AMD's Expanding AI PC & Gaming Portfolio Aid the Stock in 2025?",
+    "url": "https://www.zacks.com/stock/news/2393048/can-amds-expanding-ai-pc-gaming-portfolio-aid-the-stock-in-2025",
+    "time_published": "20250107T152600",
+    "authors": [
+        "Nida Ali Saigal"
+    ],
+    "summary": "Advanced Micro Devices is expanding its AI, gaming and commercial portfolios, which is expected to boost prospects.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/1f/462.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.21911,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.765728",
+            "ticker_sentiment_score": "0.439039",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "HPQ",
+            "relevance_score": "0.052685",
+            "ticker_sentiment_score": "0.184664",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "LNVGF",
+            "relevance_score": "0.052685",
+            "ticker_sentiment_score": "0.184664",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.052685",
+            "ticker_sentiment_score": "0.184664",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.208464",
+            "ticker_sentiment_score": "0.005252",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "RBRK Surges 101% in 3 Months: Is it Too Late to Invest in the Stock?",
+    "url": "https://www.zacks.com/stock/news/2386534/rbrk-surges-101-in-3-months-is-it-too-late-to-invest-in-the-stock",
+    "time_published": "20241220T180700",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "RBRK rides with record subscription ARR and partnerships but faces challenges from intense competition in the data protection market.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bf/827.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.271036,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.071145",
+            "ticker_sentiment_score": "0.075662",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.071145",
+            "ticker_sentiment_score": "-0.11068",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GTLB",
+            "relevance_score": "0.141726",
+            "ticker_sentiment_score": "0.15373",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRWD",
+            "relevance_score": "0.071145",
+            "ticker_sentiment_score": "0.3466",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PSTG",
+            "relevance_score": "0.141726",
+            "ticker_sentiment_score": "0.241916",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CTV",
+            "relevance_score": "0.141726",
+            "ticker_sentiment_score": "0.15373",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "KD",
+            "relevance_score": "0.071145",
+            "ticker_sentiment_score": "0.3466",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RBRK",
+            "relevance_score": "0.910195",
+            "ticker_sentiment_score": "0.519649",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

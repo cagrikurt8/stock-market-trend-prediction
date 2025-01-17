@@ -1,0 +1,97 @@
+{
+    "title": "There's a popular tech stock washout Monday as Palantir, Nvidia and Rigetti Computing drop",
+    "url": "https://www.cnbc.com/2025/01/13/theres-a-popular-tech-stock-washout-monday-as-palantir-nvidia-and-rigetti-computing-drop.html",
+    "time_published": "20250113T132140",
+    "authors": [],
+    "summary": "Popular technology stocks tumbled Monday as bond yields rose, dragging down tech-heavy Nasdaq-100 futures.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Top News",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.102036,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "-0.093371",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "APP",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "0.0484",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "-0.093371",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.318897",
+            "ticker_sentiment_score": "0.184112",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "-0.214152",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "-0.214152",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "-0.214152",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "MU",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "-0.214152",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "0.152329",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.162802",
+            "ticker_sentiment_score": "0.0484",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

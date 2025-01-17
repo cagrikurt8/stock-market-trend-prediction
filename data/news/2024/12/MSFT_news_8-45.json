@@ -1,0 +1,59 @@
+{
+    "title": "Software Is the Next Big AI Opportunity: 1 Brilliant AI Stock to Buy Ahead of 2025, According to Wall Street",
+    "url": "https://www.fool.com/investing/2024/12/21/software-next-big-ai-opportunity-1-stock-buy-now/",
+    "time_published": "20241221T084500",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "Investors should think of artificial intelligence ( AI ) in three phases. The first phase involves high-performance semiconductors and networking gear required to build supercomputing infrastructure. Nvidia has dominated the first phase, but chipmakers like Broadcom and networking specialists ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801706%2Fartificial-intelligence-12.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972476"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.255501,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.095327",
+            "ticker_sentiment_score": "0.124522",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.047749",
+            "ticker_sentiment_score": "0.101879",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ANET",
+            "relevance_score": "0.047749",
+            "ticker_sentiment_score": "0.101879",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.047749",
+            "ticker_sentiment_score": "0.101879",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

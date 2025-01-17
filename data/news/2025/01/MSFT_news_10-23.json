@@ -1,0 +1,69 @@
+{
+    "title": "Microsoft's Copilot Plus Set To Expand To Mini PCs At CES As Windows-Maker Looks To Take On Apple's Mac Mini - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+    "url": "https://www.benzinga.com/markets/25/01/42781607/microsofts-copilot-plus-set-to-expand-to-mini-pcs-at-ces-as-windows-maker-looks-to-take-on-apples-mac-min",
+    "time_published": "20250103T102307",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "Microsoft Corp. MSFT is broadening its artificial intelligence hardware strategy with a new wave of compact desktop computers featuring dedicated Copilot capabilities, as manufacturers prepare to showcase their latest offerings at the Consumer Electronics Show next week.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/03/Microsoft-Corporation.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.232301,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.288893",
+            "ticker_sentiment_score": "0.284506",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TRMNF",
+            "relevance_score": "0.098255",
+            "ticker_sentiment_score": "0.21468",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.195025",
+            "ticker_sentiment_score": "0.192517",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QCOM",
+            "relevance_score": "0.195025",
+            "ticker_sentiment_score": "0.142555",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.288893",
+            "ticker_sentiment_score": "-0.065556",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.288893",
+            "ticker_sentiment_score": "0.041128",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WLDS",
+            "relevance_score": "0.098255",
+            "ticker_sentiment_score": "0.070865",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

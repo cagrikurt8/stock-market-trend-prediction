@@ -1,0 +1,55 @@
+{
+    "title": "Meet the Unstoppable Vanguard ETF With 58.2% of Its Portfolio Invested in the \"Magnificent Seven\" Stocks",
+    "url": "https://www.fool.com/investing/2025/01/15/meet-vanguard-etf-582-in-magnificent-seven-stocks/",
+    "time_published": "20250115T105600",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "The term \"Magnificent Seven\" was coined by Wall Street in 2023 to describe a group of seven American technology stocks that consistently outperformed the rest of the market. The group remained a dominant force in 2024, delivering an average return of 60.1% for the year:NVDA data by ...",
+    "banner_image": "https://media.ycharts.com/charts/a554e906e9df95997ee30d51af911280.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999483"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.291769,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.057907",
+            "ticker_sentiment_score": "0.078004",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.115509",
+            "ticker_sentiment_score": "0.092452",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.115509",
+            "ticker_sentiment_score": "0.136943",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.057907",
+            "ticker_sentiment_score": "0.08897",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

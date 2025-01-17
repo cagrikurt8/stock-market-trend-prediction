@@ -1,0 +1,73 @@
+{
+    "title": "Meet the 15 Dow Jones Stocks That Combined for Over $150 Billion in Dividends in 2024 and Will All Likely Boost Their Payouts Again in 2025",
+    "url": "https://www.fool.com/investing/2025/01/12/dow-jones-dividend-stocks-buy-2025-passive-income/",
+    "time_published": "20250112T121700",
+    "authors": [
+        "Daniel Foelber"
+    ],
+    "summary": "The Dow Jones Industrial Average ( DJINDICES: ^DJI ) is composed of 30 industry-leading blue-chip businesses that represent the broader market. Many of these companies also pay growing dividends.Here's a look at the 15 Dow components that paid the most dividends in 2024 -- combining for more than ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803257%2Fgettyimages-1283813790-1201x742-1536a11-1.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.99676"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.318951,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.142989",
+            "ticker_sentiment_score": "0.282224",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.142989",
+            "ticker_sentiment_score": "0.282224",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "HD",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.260456",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "KO",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.063454",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PG",
+            "relevance_score": "0.071784",
+            "ticker_sentiment_score": "0.063454",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

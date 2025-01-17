@@ -1,0 +1,65 @@
+{
+    "title": "Will Apple's Growing China Woes Derail the Stock's Momentum in 2025?",
+    "url": "https://www.zacks.com/stock/news/2396100/will-apples-growing-china-woes-derail-the-stocks-momentum-in-2025",
+    "time_published": "20250113T174000",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "Although AAPL's AI push and growing Services business are positives, stretched valuation and China headwinds are concerning.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6c/1151.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.714479"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.288227,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.103109",
+            "ticker_sentiment_score": "0.246967",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SSNLF",
+            "relevance_score": "0.051663",
+            "ticker_sentiment_score": "0.044993",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.930362",
+            "ticker_sentiment_score": "0.478442",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "XIACY",
+            "relevance_score": "0.154125",
+            "ticker_sentiment_score": "-0.022073",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.103109",
+            "ticker_sentiment_score": "0.246967",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

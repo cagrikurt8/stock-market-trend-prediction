@@ -1,0 +1,61 @@
+{
+    "title": "Key Nvidia Supplier Warns AI Spending Slowdown May Trigger 'Vicious' Downturn For Chipmakers - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
+    "url": "https://www.benzinga.com/tech/24/12/42697954/key-nvidia-supplier-warns-ai-spending-slowdown-may-trigger-vicious-downturn-for-chipmakers",
+    "time_published": "20241227T081139",
+    "authors": [
+        "Pooja Rajkumari"
+    ],
+    "summary": "Recent concerns have emerged regarding a potential slowdown in artificial intelligence ( AI ) investments by major U.S. tech giants, which could significantly impact the semiconductor industry. What Happened: Doug Lefever, CEO of Advantest, a leading supplier of chip testing machines for ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/27/AI-chips.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.191981,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.201523",
+            "ticker_sentiment_score": "0.026265",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.298264",
+            "ticker_sentiment_score": "0.03583",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.201523",
+            "ticker_sentiment_score": "0.026265",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.201523",
+            "ticker_sentiment_score": "-0.120381",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ADTTF",
+            "relevance_score": "0.201523",
+            "ticker_sentiment_score": "-0.01344",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

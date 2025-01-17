@@ -1,0 +1,49 @@
+{
+    "title": "Extended Reality  ( XR )  Market size to increase by USD 1.84 Trillion between 2024 to 2029, Market Segmentation by Application, Component, Geography, Technavio",
+    "url": "https://www.benzinga.com/pressreleases/25/01/n42799923/extended-reality-xr-market-size-to-increase-by-usd-1-84-trillion-between-2024-to-2029-market-segme",
+    "time_published": "20250103T223000",
+    "authors": [
+        "PRNewswire"
+    ],
+    "summary": "NEW YORK, Jan. 3, 2025 /PRNewswire/ -- The global extended reality ( xr ) market size is estimated to grow by USD 1.84 trillion from 2025 to 2029, according to Technavio. The market is estimated to grow at a CAGR of almost 64.5% during the forecast period.",
+    "banner_image": "https://mma.prnewswire.com/media/2589335/Technavio_Global_Extended_Reality_XR_Market_2025_2029_Infographic.jpg",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.360215"
+        }
+    ],
+    "overall_sentiment_score": 0.296396,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.049322",
+            "ticker_sentiment_score": "0.095456",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.049322",
+            "ticker_sentiment_score": "0.095456",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.049322",
+            "ticker_sentiment_score": "0.095456",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

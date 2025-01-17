@@ -1,0 +1,109 @@
+{
+    "title": "History Says the Nasdaq Will Soar in 2025. My Top 10 Artificial Intelligence  ( AI )  Growth Stocks to Buy Before It Does.",
+    "url": "https://www.fool.com/investing/2025/01/01/nasdaq-soar-2025-artificial-intelligence-ai/",
+    "time_published": "20250101T090500",
+    "authors": [
+        "Danny Vena"
+    ],
+    "summary": "AI went viral last year, helping fuel the market recovery. There's likely more to come.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802261%2Fa-person-in-business-attire-drawing-an-arrow-with-an-upward-trajectory-marked-2025.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.54554"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.995921"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.210839,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.067919",
+            "ticker_sentiment_score": "0.057268",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.067919",
+            "ticker_sentiment_score": "0.155198",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.04531",
+            "ticker_sentiment_score": "0.058634",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.135347",
+            "ticker_sentiment_score": "0.061195",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.135347",
+            "ticker_sentiment_score": "0.107669",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.157631",
+            "ticker_sentiment_score": "0.118483",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PTAIF",
+            "relevance_score": "0.022664",
+            "ticker_sentiment_score": "0.014397",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.04531",
+            "ticker_sentiment_score": "0.060415",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.112956",
+            "ticker_sentiment_score": "0.092469",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.04531",
+            "ticker_sentiment_score": "0.072667",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.04531",
+            "ticker_sentiment_score": "0.102362",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

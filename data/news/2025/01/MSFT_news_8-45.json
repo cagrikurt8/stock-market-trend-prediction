@@ -1,0 +1,59 @@
+{
+    "title": "Nvidia Was One of the Largest Companies by Market Cap in 2024. Will Its Reign Continue in 2025?",
+    "url": "https://www.fool.com/investing/2025/01/12/nvidia-was-one-of-the-largest-companies-by-market/",
+    "time_published": "20250112T084500",
+    "authors": [
+        "Johnny Rice"
+    ],
+    "summary": "2024 saw Nvidia ( NASDAQ: NVDA ) briefly take the title of the largest company in the world, as measured by market capitalization, before seeding the position back to Apple. Microsoft was also a contender, holding the top spot for some time, as well.While the other two big tech players have been ...",
+    "banner_image": "https://media.ycharts.com/charts/17701fd0db38ee0dd272ec3706faf405.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.239883,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.316439",
+            "ticker_sentiment_score": "0.18233",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.536866",
+            "ticker_sentiment_score": "0.257332",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.129516",
+            "ticker_sentiment_score": "0.112505",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.064973",
+            "ticker_sentiment_score": "0.331333",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Labviva Secures $25M to Accelerate Product Development and Global Expansion",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42940142/labviva-secures-25m-to-accelerate-product-development-and-global-expansion",
+    "time_published": "20250113T112500",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "BOSTON, Jan. 13, 2025 ( GLOBE NEWSWIRE ) -- Labviva, the leading AI procurement platform for life sciences, today announced the close of its $25 million Series B, bringing its total funding to $55 million.",
+    "banner_image": "https://ml.globenewswire.com/media/bc03c0e9-5c6c-4580-a31f-17e9f461d774/small/labviva-logo-dark-png.png",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.348627,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.04794",
+            "ticker_sentiment_score": "0.107184",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

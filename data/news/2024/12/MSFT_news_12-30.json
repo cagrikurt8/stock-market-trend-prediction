@@ -1,0 +1,45 @@
+{
+    "title": "Alibaba slashes prices on large language models by up to 85% as China AI rivalry heats up",
+    "url": "https://www.cnbc.com/2024/12/31/alibaba-baba-cloud-unit-slashes-prices-on-ai-models-by-up-to-85percent.html",
+    "time_published": "20241231T123049",
+    "authors": [],
+    "summary": "Alibaba is offering the price cuts on its visual language model, Qwen-VL, which is designed to perceive and understand both texts and images.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Top News",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": -0.011876,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "BABA",
+            "relevance_score": "0.577527",
+            "ticker_sentiment_score": "-0.163736",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.127456",
+            "ticker_sentiment_score": "0.070774",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TCTZF",
+            "relevance_score": "0.127456",
+            "ticker_sentiment_score": "-0.015375",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BIDU",
+            "relevance_score": "0.127456",
+            "ticker_sentiment_score": "-0.015375",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

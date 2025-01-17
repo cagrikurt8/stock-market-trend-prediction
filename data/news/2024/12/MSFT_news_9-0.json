@@ -1,0 +1,77 @@
+{
+    "title": "Bull of the Day: Vistra  ( VST ) ",
+    "url": "https://www.zacks.com/commentary/2387128/bull-of-the-day-vistra-vst",
+    "time_published": "20241224T090000",
+    "authors": [
+        "Benjamin Rains"
+    ],
+    "summary": "Vistra was one of 2024's best stocks and VST looks ready to be a big winner again in 2025 and beyond.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default220.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.917436"
+        }
+    ],
+    "overall_sentiment_score": 0.343146,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CETY",
+            "relevance_score": "0.043499",
+            "ticker_sentiment_score": "0.141579",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.08687",
+            "ticker_sentiment_score": "0.280114",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.172713",
+            "ticker_sentiment_score": "0.071338",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.043499",
+            "ticker_sentiment_score": "0.223415",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.843862",
+            "ticker_sentiment_score": "0.547339",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

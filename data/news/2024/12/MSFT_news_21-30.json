@@ -1,0 +1,69 @@
+{
+    "title": "Opinion | After a mixed bag for climate action in 2024, businesses must take the lead",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3292367/after-mixed-bag-climate-action-2024-businesses-must-take-lead",
+    "time_published": "20241228T213008",
+    "authors": [
+        "Rizwan Basir"
+    ],
+    "summary": "As more governments lurch to the right, firms are feeling a backlash against social and climate action. But the stakes are too high for inaction.",
+    "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2024/12/26/d4d81204-6345-4194-959b-dac487ee208d_8dfa5323.jpg?itok=aJ5OLHsy&v=1735226324",
+    "source": "South China Morning Post",
+    "category_within_source": "Business",
+    "source_domain": "www.scmp.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.210457,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.208438",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "DE",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSCO",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UL",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.208438",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.045569",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

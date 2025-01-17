@@ -1,0 +1,105 @@
+{
+    "title": "5 AI ETFs to Invest in the Biggest Opportunity in a Generation",
+    "url": "https://www.fool.com/investing/2025/01/09/5-ai-etfs-to-invest-in-the-biggest-opportunity-in/",
+    "time_published": "20250109T114100",
+    "authors": [
+        "Matt Frankel"
+    ],
+    "summary": "It's no secret that artificial intelligence, or AI, is the key trend driving the stock market right now, especially when it comes to some of the largest and most popular companies to invest in. But choosing individual AI stocks can be challenging.If you're looking to get AI exposure in your ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803212/shocked-expression-looking-at-laptop-2022.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.996675"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.235404,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.116542",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TER",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.162061",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.08199",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.352557",
+            "ticker_sentiment_score": "0.176974",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.116542",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ANET",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "-0.044454",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.216215",
+            "ticker_sentiment_score": "0.102993",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRWD",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.116542",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.216215",
+            "ticker_sentiment_score": "0.211007",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NOW",
+            "relevance_score": "0.072876",
+            "ticker_sentiment_score": "0.125369",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.145145",
+            "ticker_sentiment_score": "0.103141",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

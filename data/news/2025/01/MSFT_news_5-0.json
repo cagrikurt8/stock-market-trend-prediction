@@ -1,0 +1,77 @@
+{
+    "title": "Investors pour billions into S&P equal weight fund as tech fears rise",
+    "url": "https://www.ft.com/content/47e6a03d-b4b8-4193-9994-da67a0eb75b3",
+    "time_published": "20250115T050027",
+    "authors": [
+        "George Steer",
+        "Jennifer Hughes",
+        "Will Schmitt"
+    ],
+    "summary": "Invesco ETF garners record inflows on growing concerns over Magnificent Seven's dominance of US market ...",
+    "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F7d70c625-ca65-490e-99fb-d9f4e905570e.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next&fit=scale-down&dpr=2&width=240",
+    "source": "Financial Times",
+    "category_within_source": "Markets",
+    "source_domain": "www.ft.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.209387,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.061473",
+            "ticker_sentiment_score": "0.06509",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SCGLF",
+            "relevance_score": "0.061473",
+            "ticker_sentiment_score": "-0.117459",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.061473",
+            "ticker_sentiment_score": "0.06509",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MORN",
+            "relevance_score": "0.242285",
+            "ticker_sentiment_score": "0.082493",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.061473",
+            "ticker_sentiment_score": "0.06509",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.182967",
+            "ticker_sentiment_score": "0.16085",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

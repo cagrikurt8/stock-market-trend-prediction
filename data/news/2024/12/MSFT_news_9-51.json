@@ -1,0 +1,97 @@
+{
+    "title": "Prediction: Wall Street's Most Unique Member of the \"Magnificent Seven\" Will Become the Hottest Stock-Split Stock of 2025",
+    "url": "https://www.fool.com/investing/2024/12/27/prediction-wall-st-mag-7-stock-split-stock-of-2025/",
+    "time_published": "20241227T095100",
+    "authors": [
+        "Sean Williams"
+    ],
+    "summary": "Among Apple, Nvidia, Microsoft, Alphabet, Amazon, Meta Platforms, and Tesla, there's a dominant company waiting to captivate investors with a historic stock-split announcement.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802049%2Fstock-certificate-split-public-company-shares-invest-getty.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.752319"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.795202"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.319321,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.038969",
+            "ticker_sentiment_score": "0.083966",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.339874",
+            "ticker_sentiment_score": "0.260399",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.154951",
+            "ticker_sentiment_score": "0.074342",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.077845",
+            "ticker_sentiment_score": "0.050844",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.038969",
+            "ticker_sentiment_score": "0.162665",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.038969",
+            "ticker_sentiment_score": "0.083966",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BAC",
+            "relevance_score": "0.038969",
+            "ticker_sentiment_score": "0.052856",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SMCI",
+            "relevance_score": "0.038969",
+            "ticker_sentiment_score": "0.162665",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.038969",
+            "ticker_sentiment_score": "0.083966",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

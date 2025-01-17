@@ -1,0 +1,69 @@
+{
+    "title": "2 Magnificent Artificial Intelligence  ( AI )  Stocks to Buy in 2025",
+    "url": "https://www.fool.com/investing/2025/01/02/2-artificial-intelligence-ai-stocks-that-could-mak/",
+    "time_published": "20250102T121500",
+    "authors": [
+        "Keithen Drury"
+    ],
+    "summary": "The artificial intelligence ( AI ) investing sector is a gold mine for finding companies with market-beating potential. Nvidia ( NASDAQ: NVDA ) and Taiwan Semiconductor Manufacturing ( NYSE: TSM ) are among the stocks that I think can outperform the market over the next five years.",
+    "banner_image": "https://media.ycharts.com/charts/60a80c0c6b4c4ce8f0cf93a0d3824137.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.929393"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.995973"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.31529,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.068698",
+            "ticker_sentiment_score": "0.110389",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.657011",
+            "ticker_sentiment_score": "0.482756",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.068698",
+            "ticker_sentiment_score": "0.110389",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.068698",
+            "ticker_sentiment_score": "0.110389",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.136888",
+            "ticker_sentiment_score": "0.244321",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

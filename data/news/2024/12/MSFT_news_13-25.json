@@ -1,0 +1,61 @@
+{
+    "title": "Palantir Stock Slips On Profit-Taking: Is It Time To Buy The Dip? - Palantir Technologies  ( NASDAQ:PLTR ) ",
+    "url": "https://www.benzinga.com/trading-ideas/technicals/24/12/42721082/palantir-stock-slips-on-profit-taking-is-it-time-to-buy-the-dip",
+    "time_published": "20241230T132538",
+    "authors": [
+        "Surbhi Jain"
+    ],
+    "summary": "Palantir Technologies Inc. PLTR is cooling off after a blistering 2024 run. The stock dipped 4.22% on Friday, followed by a 1.8% slide in pre-market trading Monday, as investors cashed in gains amid broader market turmoil.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/30055556/Screenshot-2024-12-30-at-4.25.32-PM.png",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.413559"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.252921,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.213048",
+            "ticker_sentiment_score": "-0.079426",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.213048",
+            "ticker_sentiment_score": "-0.079426",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SSTK",
+            "relevance_score": "0.107495",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.213048",
+            "ticker_sentiment_score": "-0.079426",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.582526",
+            "ticker_sentiment_score": "0.34955",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

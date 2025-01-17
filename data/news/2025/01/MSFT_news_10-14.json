@@ -1,0 +1,81 @@
+{
+    "title": "Is the Invesco QQQ ETF a Millionaire Maker?",
+    "url": "https://www.fool.com/investing/2025/01/14/is-the-invesco-qqq-etf-a-millionaire-maker/",
+    "time_published": "20250114T101400",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "The Invesco QQQ ( NASDAQ: QQQ ) has been one of the best-performing index-based exchange-traded funds ( ETFs ) over the years. The ETF tracks the popular Nasdaq-100 index, which consists of the 100 largest stocks that trade on the Nasdaq stock exchange.The Invesco QQQ proudly boasts that it has ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803598%2Fgettyimages-462756183.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.281705,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.189987",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.189987",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.189987",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.189987",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.189987",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.056808",
+            "ticker_sentiment_score": "0.189987",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.331024",
+            "ticker_sentiment_score": "0.307276",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

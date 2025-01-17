@@ -1,0 +1,39 @@
+{
+    "title": "Could Investing $10,000 in NuScale Power Make You a Millionaire?",
+    "url": "https://www.fool.com/investing/2024/12/23/could-investing-10000-in-nuscale-power-make-you-a/",
+    "time_published": "20241224T010000",
+    "authors": [
+        "James Brumley"
+    ],
+    "summary": "The rapid proliferation of artificial intelligence data centers is forcing the world to quickly revive an aging industry... with a twist.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801779%2Fpower-plant-producing-electricity.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        }
+    ],
+    "overall_sentiment_score": 0.183454,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.043342",
+            "ticker_sentiment_score": "0.018717",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SMR",
+            "relevance_score": "0.296377",
+            "ticker_sentiment_score": "0.203676",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

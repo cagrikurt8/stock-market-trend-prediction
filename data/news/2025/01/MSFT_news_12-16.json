@@ -1,0 +1,67 @@
+{
+    "title": "Alibaba Leverages Scale and Deep Pockets to Slash AI LLM Prices To Gain Market Share - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
+    "url": "https://www.benzinga.com/media/25/01/42761737/alibaba-leverages-scale-and-deep-pockets-to-slash-ai-llm-prices-to-gain-market-share",
+    "time_published": "20250102T121627",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "Alibaba slashes Qwen-VL model prices by up to 85%, intensifying China's AI price war to gain market share. Qwen-VL interprets text and images; Alibaba focuses on enterprise AI rather than consumer chatbots like ChatGPT.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/02/Tongyi-Qianwen-Logo-Seen-On-Smartphone-S.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.858979"
+        }
+    ],
+    "overall_sentiment_score": 0.134319,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "BABA",
+            "relevance_score": "0.841981",
+            "ticker_sentiment_score": "0.255892",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.18602",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.18602",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.093653",
+            "ticker_sentiment_score": "0.296889",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TCTZF",
+            "relevance_score": "0.18602",
+            "ticker_sentiment_score": "0.059896",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BIDU",
+            "relevance_score": "0.275867",
+            "ticker_sentiment_score": "0.08192",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

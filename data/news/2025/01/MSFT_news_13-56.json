@@ -1,0 +1,97 @@
+{
+    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "url": "https://www.cnbc.com/2025/01/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "time_published": "20250107T135655",
+    "authors": [],
+    "summary": "Wall Street was looking at a muted open Tuesday after the S&P 500 and the Nasdaq closed higher for a second straight session ...",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Top News",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.986714"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.244629,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.323934",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.101994",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.309539",
+            "ticker_sentiment_score": "0.281071",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SSTK",
+            "relevance_score": "0.105604",
+            "ticker_sentiment_score": "0.13957",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GETY",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.128638",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BCS",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.116",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.105604",
+            "ticker_sentiment_score": "0.055794",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BAC",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.050007",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SBUX",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.116",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AUR",
+            "relevance_score": "0.052918",
+            "ticker_sentiment_score": "0.170674",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

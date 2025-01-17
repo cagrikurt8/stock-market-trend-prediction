@@ -1,0 +1,121 @@
+{
+    "title": "Stock Market's New Year Mantra - Trump, Bitcoin, AI, And Quantum Will Fix Everything - EOG Resources  ( NYSE:EOG ) , Devon Energy  ( NYSE:DVN ) ",
+    "url": "https://www.benzinga.com/trading-ideas/25/01/42773997/stock-markets-new-year-mantra-trump-bitcoin-ai-and-quantum-will-fix-everything",
+    "time_published": "20250102T193210",
+    "authors": [
+        "The Arora Report"
+    ],
+    "summary": "To gain an edge, this is what you need to know today. An enlarged chart of SPDR S&P 500 ETF Trust which represents the benchmark stock market index S&P 500 ( SPX ) . Trump will fix everything. At The Arora Report, we would like nothing more than to see Trump succeed.",
+    "banner_image": "https://thearorareport.com/wp-content/uploads/2025/01/2025-01-02_08h31_20.png",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.252502,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "0.154776",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "0.154776",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "0.154776",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "0.154776",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "-0.286532",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "RRC",
+            "relevance_score": "0.077972",
+            "ticker_sentiment_score": "0.153941",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "EQT",
+            "relevance_score": "0.077972",
+            "ticker_sentiment_score": "0.153941",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "EOG",
+            "relevance_score": "0.077972",
+            "ticker_sentiment_score": "0.153941",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "0.261438",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "DVN",
+            "relevance_score": "0.077972",
+            "ticker_sentiment_score": "0.153941",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RYDAF",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "0.147801",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FOREX:USD",
+            "relevance_score": "0.039033",
+            "ticker_sentiment_score": "0.110782",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.230965",
+            "ticker_sentiment_score": "0.202233",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

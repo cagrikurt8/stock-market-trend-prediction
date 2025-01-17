@@ -1,0 +1,63 @@
+{
+    "title": "Tesla Stock vs. Amazon Stock: Billionaires Are Buying One and Selling the Other",
+    "url": "https://www.fool.com/investing/2025/01/13/tesla-stock-vs-amazon-stock-billionaires-buy-sell/",
+    "time_published": "20250113T084800",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "Tesla ( NASDAQ: TSLA ) and Amazon ( NASDAQ: AMZN ) have been very rewarding long-term investments, but the hedge fund billionaires listed below bought Tesla and sold Amazon in the third quarter:Importantly, while tracking the stocks hedge fund managers hold can provide inspiration, the trades ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803714/bull-and-bear-3.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.988787"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.193899,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.044222",
+            "ticker_sentiment_score": "0.033734",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.044222",
+            "ticker_sentiment_score": "0.202665",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.654165",
+            "ticker_sentiment_score": "0.165603",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.562452",
+            "ticker_sentiment_score": "0.411033",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

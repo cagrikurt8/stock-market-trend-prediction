@@ -1,0 +1,49 @@
+{
+    "title": "Top Stock Picks for Week of December 23, 2024",
+    "url": "https://www.zacks.com/stock/news/2387122/top-stock-picks-for-week-of-december-23-2024",
+    "time_published": "20241223T201700",
+    "authors": [
+        "Panel Of Zacks Experts"
+    ],
+    "summary": "An Alternative Energy Company with a Strong Commitment to Clean Energy and a Quantum Computer Company are Spotlighted.",
+    "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        }
+    ],
+    "overall_sentiment_score": 0.240616,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.11983",
+            "ticker_sentiment_score": "0.118872",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.11983",
+            "ticker_sentiment_score": "0.16565",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MORN",
+            "relevance_score": "0.11983",
+            "ticker_sentiment_score": "0.118872",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

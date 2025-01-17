@@ -1,0 +1,81 @@
+{
+    "title": "Will C3.ai Be the Palantir of 2025?",
+    "url": "https://www.fool.com/investing/2025/01/06/will-c3ai-be-the-palantir-of-2025/",
+    "time_published": "20250106T113000",
+    "authors": [
+        "Adam Spatacco"
+    ],
+    "summary": "Palantir was the top-performing stock in the S&P 500 last year, but a smaller competitor is emerging on the scene.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802705%2Fgettyimages-888846194.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.95493"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.244485,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.115232",
+            "ticker_sentiment_score": "0.08281",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.057767",
+            "ticker_sentiment_score": "0.116019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.057767",
+            "ticker_sentiment_score": "0.116019",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CAPMF",
+            "relevance_score": "0.057767",
+            "ticker_sentiment_score": "-0.073962",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BAH",
+            "relevance_score": "0.057767",
+            "ticker_sentiment_score": "-0.073962",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.057767",
+            "ticker_sentiment_score": "-0.073962",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.057767",
+            "ticker_sentiment_score": "0.116019",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

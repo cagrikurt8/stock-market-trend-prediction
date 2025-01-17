@@ -1,0 +1,61 @@
+{
+    "title": "Wall Street Analyst Dan Ives Sees Tech Stocks Jumping Another 25% in 2025. Time to Buy?",
+    "url": "https://www.fool.com/investing/2025/01/01/wall-street-analyst-dan-ives-sees-tech-stocks-jump/",
+    "time_published": "20250101T130500",
+    "authors": [
+        "Jeremy Bowman"
+    ],
+    "summary": "Arguably, there's been no bigger bull in the artificial-intelligence ( AI ) rally than Wedbush's Dan Ives.Ives has been cheerleading the AI boom since shortly after the debut of ChatGPT. In February 2023, the analyst said an AI arms race was shaping up following the launch of the generational AI ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802470%2Finvestor-reading-the-newspaper.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.839681"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.224477,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.112532",
+            "ticker_sentiment_score": "0.151428",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.056407",
+            "ticker_sentiment_score": "0.059002",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.168099",
+            "ticker_sentiment_score": "0.164385",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

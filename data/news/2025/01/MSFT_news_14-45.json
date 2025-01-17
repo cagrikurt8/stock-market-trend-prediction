@@ -1,0 +1,111 @@
+{
+    "title": "3 Ultra-Safe Vanguard ETFs to Buy, Even If There's a Stock Market Sell-Off in 2025",
+    "url": "https://www.fool.com/investing/2025/01/02/3-ultra-safe-vanguard-etfs-buy-2025/",
+    "time_published": "20250102T144500",
+    "authors": [
+        "Daniel Foelber"
+    ],
+    "summary": "These Vanguard ETFs all have higher yields and lower P/E ratios than the S&P 500.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802363%2Fgettyimages-1371997481-1200x800-5b2df79.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.769861"
+        }
+    ],
+    "overall_sentiment_score": 0.233984,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.041394",
+            "ticker_sentiment_score": "0.05299",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.041394",
+            "ticker_sentiment_score": "0.05299",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.041394",
+            "ticker_sentiment_score": "0.05299",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.082677",
+            "ticker_sentiment_score": "0.060261",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.041394",
+            "ticker_sentiment_score": "0.05299",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "KO",
+            "relevance_score": "0.041394",
+            "ticker_sentiment_score": "0.098388",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BRK-A",
+            "relevance_score": "0.082677",
+            "ticker_sentiment_score": "0.221513",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "PG",
+            "relevance_score": "0.041394",
+            "ticker_sentiment_score": "0.098388",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "XOM",
+            "relevance_score": "0.041394",
+            "ticker_sentiment_score": "0.21254",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.123738",
+            "ticker_sentiment_score": "0.128368",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

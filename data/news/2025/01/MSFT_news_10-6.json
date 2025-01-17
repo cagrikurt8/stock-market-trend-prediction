@@ -1,0 +1,127 @@
+{
+    "title": "10 Stock Market Predictions for 2025",
+    "url": "https://www.fool.com/investing/2025/01/01/10-stock-market-predictions-for-2025/",
+    "time_published": "20250101T100600",
+    "authors": [
+        "Sean Williams"
+    ],
+    "summary": "Here's what to expect from the stock market, along with some of Wall Street's hottest trends and most influential businesses, in the new year.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802285%2Fbear-market-stock-chart-quarter-report-financial-metrics-invest-getty.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.682689"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.451494"
+        }
+    ],
+    "overall_sentiment_score": 0.077051,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.108466",
+            "ticker_sentiment_score": "0.130801",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.065209",
+            "ticker_sentiment_score": "0.096486",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.08687",
+            "ticker_sentiment_score": "0.08002",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.08687",
+            "ticker_sentiment_score": "0.151611",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "COST",
+            "relevance_score": "0.043499",
+            "ticker_sentiment_score": "-0.00793",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.043499",
+            "ticker_sentiment_score": "0.07165",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BAC",
+            "relevance_score": "0.021758",
+            "ticker_sentiment_score": "0.07063",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "JNJ",
+            "relevance_score": "0.043499",
+            "ticker_sentiment_score": "0.153801",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CMG",
+            "relevance_score": "0.021758",
+            "ticker_sentiment_score": "-0.07189",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IVZ",
+            "relevance_score": "0.021758",
+            "ticker_sentiment_score": "0.147825",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PFE",
+            "relevance_score": "0.043499",
+            "ticker_sentiment_score": "0.153801",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.08687",
+            "ticker_sentiment_score": "0.032885",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

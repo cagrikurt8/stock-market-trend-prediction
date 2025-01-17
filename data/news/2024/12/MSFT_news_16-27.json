@@ -1,0 +1,55 @@
+{
+    "title": "Is AMD Stock a Buy Now?",
+    "url": "https://www.fool.com/investing/2024/12/29/is-amd-stock-a-buy-now/",
+    "time_published": "20241229T162700",
+    "authors": [
+        "Anders Bylund"
+    ],
+    "summary": "Is Advanced Micro Devices stock a buy after its recent drop? Here's what you need to know.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802296/semiconductor-chip-hidden-among-large-denomination-dollar-bills.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998356"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.213739,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.666827",
+            "ticker_sentiment_score": "0.308178",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.109956",
+            "ticker_sentiment_score": "0.010515",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.321673",
+            "ticker_sentiment_score": "0.217408",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SMCI",
+            "relevance_score": "0.055109",
+            "ticker_sentiment_score": "0.032145",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

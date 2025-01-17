@@ -1,0 +1,81 @@
+{
+    "title": "3 Best Magnificent 7 Stocks to Buy for 2025",
+    "url": "https://www.zacks.com/stock/news/2387124/3-best-magnificent-7-stocks-to-buy-for-2025",
+    "time_published": "20241223T203300",
+    "authors": [
+        "Tracey Ryniec"
+    ],
+    "summary": "The Magnificent 7 big-cap stocks have had a great 2024. But which should you be buying for 2025?",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/aa/397.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.714479"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.225086,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.198493",
+            "ticker_sentiment_score": "0.061359",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.1331",
+            "ticker_sentiment_score": "0.09851",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.198493",
+            "ticker_sentiment_score": "0.116704",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.549265",
+            "ticker_sentiment_score": "0.345547",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.1331",
+            "ticker_sentiment_score": "0.131766",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.198493",
+            "ticker_sentiment_score": "0.109772",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.32478",
+            "ticker_sentiment_score": "0.014282",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

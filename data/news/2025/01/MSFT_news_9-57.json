@@ -1,0 +1,81 @@
+{
+    "title": "Apple and Nvidia chip supplier TSMC's sales top estimates, boosting AI in 2025",
+    "url": "https://www.scmp.com/tech/big-tech/article/3294278/apple-and-nvidia-chip-supplier-tsmcs-sales-top-estimates-boosting-ais-2025-outlook",
+    "time_published": "20250110T095707",
+    "authors": [
+        "Bloomberg"
+    ],
+    "summary": "The world's largest contract chipmaker reported a 39 per cent rise in October-December revenue to US$26.3 billion.",
+    "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/10/4966b10e-6ce7-4132-a97a-62572419c61f_26097572.jpg",
+    "source": "South China Morning Post",
+    "category_within_source": "Companies",
+    "source_domain": "www.scmp.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.938793"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.107344,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.113062",
+            "ticker_sentiment_score": "0.138446",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.056674",
+            "ticker_sentiment_score": "0.137949",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.168884",
+            "ticker_sentiment_score": "-0.072827",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "HNHPF",
+            "relevance_score": "0.056674",
+            "ticker_sentiment_score": "0.110933",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.056674",
+            "ticker_sentiment_score": "0.076922",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.056674",
+            "ticker_sentiment_score": "0.225998",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FOREX:USD",
+            "relevance_score": "0.056674",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

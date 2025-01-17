@@ -1,0 +1,85 @@
+{
+    "title": "Why IonQ Is the Best Quantum Computing Stock to Buy Right Now",
+    "url": "https://www.fool.com/investing/2024/12/26/why-ionq-is-the-best-quantum-computing-stock-to-bu/",
+    "time_published": "20241226T124500",
+    "authors": [
+        "George Budwell"
+    ],
+    "summary": "Quantum computing represents the next frontier in computational power. Once developed, these systems could solve complex problems in drug development, financial modeling, and artificial intelligence ( AI ) that lie beyond the reach of today's fastest supercomputers.This revolutionary potential ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802120%2Fnuclear.png&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        }
+    ],
+    "overall_sentiment_score": 0.316009,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.057352",
+            "ticker_sentiment_score": "-0.011023",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.057352",
+            "ticker_sentiment_score": "-0.011023",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LMT",
+            "relevance_score": "0.057352",
+            "ticker_sentiment_score": "0.216",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ANSS",
+            "relevance_score": "0.057352",
+            "ticker_sentiment_score": "0.110961",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AZN",
+            "relevance_score": "0.057352",
+            "ticker_sentiment_score": "0.08395",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.280938",
+            "ticker_sentiment_score": "0.241256",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.114409",
+            "ticker_sentiment_score": "0.118501",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

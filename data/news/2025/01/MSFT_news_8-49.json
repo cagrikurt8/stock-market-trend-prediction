@@ -1,0 +1,53 @@
+{
+    "title": "Blackstone Invests $300 Million In AI Data Firm That Powers Elon Musk's xAI Supercomputer - Microsoft  ( NASDAQ:MSFT ) , Blackstone  ( NYSE:BX ) ",
+    "url": "https://www.benzinga.com/news/25/01/42892338/blackstone-invests-300-million-in-ai-data-firm-that-powers-elon-musks-xai-supercomputer",
+    "time_published": "20250109T084930",
+    "authors": [
+        "Pooja Rajkumari"
+    ],
+    "summary": "Blackstone Inc. BX is making a significant move in the AI sector with a $300 million investment in DDN, a company known for its expertise in data storage and analysis. What Happened: The investment represents the first external funding for DDN, valuing the Chatsworth, California-based firm at $5 ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/New-York--Ny---September-17--2023-Blacks.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "IPO",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.990999"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.280721,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.105141",
+            "ticker_sentiment_score": "0.027179",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DTST",
+            "relevance_score": "0.105141",
+            "ticker_sentiment_score": "0.06673",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BX",
+            "relevance_score": "0.208464",
+            "ticker_sentiment_score": "0.098877",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

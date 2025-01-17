@@ -1,0 +1,49 @@
+{
+    "title": "Microsoft May Have Given Bitcoin a Miss, but Did You Know One of Its Largest Shareholders Is Betting Big on the Top Crypto? - iShares Bitcoin Trust  ( NASDAQ:IBIT ) ",
+    "url": "https://www.benzinga.com/25/01/42807883/microsoft-gave-bitcoin-a-miss-but-do-you-know-one-of-tech-giants-largest-shareholders-is-massively-bullish-on-the",
+    "time_published": "20250106T081134",
+    "authors": [
+        "Aniket Verma"
+    ],
+    "summary": "Microsoft Corp. MSFT might have rejected the proposal to assess Bitcoin BTC/USD investment, but its second-largest shareholder, BlackRock, is second to none in terms of optimism for the apex cryptocurrency.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/06/Microsoft-Corporation.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.98396"
+        }
+    ],
+    "overall_sentiment_score": 0.243736,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.589793",
+            "ticker_sentiment_score": "0.266695",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.093653",
+            "ticker_sentiment_score": "-0.045145",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.873838",
+            "ticker_sentiment_score": "0.386763",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

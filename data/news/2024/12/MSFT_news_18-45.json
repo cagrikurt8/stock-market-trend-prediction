@@ -1,0 +1,65 @@
+{
+    "title": "Smart Money Is Betting Big In ANET Options - Arista Networks  ( NYSE:ANET ) ",
+    "url": "https://www.benzinga.com/insights/options/24/12/42675137/smart-money-is-betting-big-in-anet-options",
+    "time_published": "20241224T184525",
+    "authors": [
+        "Benzinga Insights"
+    ],
+    "summary": "Investors with a lot of money to spend have taken a bearish stance on Arista Networks ANET. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+    "banner_image": "https://www.benzinga.com/files/images/story/2024/1735065922_0.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.413559"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.173971,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.070517",
+            "ticker_sentiment_score": "0.057232",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.070517",
+            "ticker_sentiment_score": "0.057232",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ANET",
+            "relevance_score": "0.574235",
+            "ticker_sentiment_score": "0.125882",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BCS",
+            "relevance_score": "0.070517",
+            "ticker_sentiment_score": "-0.002024",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.070517",
+            "ticker_sentiment_score": "-0.002024",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

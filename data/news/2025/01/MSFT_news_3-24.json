@@ -1,0 +1,49 @@
+{
+    "title": "Microsoft To Invest $80 Billion In AI Data Centers For Fiscal 2025 - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/25/01/42801720/microsoft-to-invest-80-billion-in-ai-data-centers-for-fiscal-2025",
+    "time_published": "20250104T032416",
+    "authors": [
+        "Rounak Jain"
+    ],
+    "summary": "Microsoft Corp. MSFT announced plans to allocate approximately $80 billion in fiscal 2025 towards the development of data centers aimed at training artificial intelligence ( AI ) models and deploying AI and cloud-based applications.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/03/Microsoft-Copilot.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.360215"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.796627"
+        }
+    ],
+    "overall_sentiment_score": 0.221387,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.651499",
+            "ticker_sentiment_score": "0.368788",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "DSSMY",
+            "relevance_score": "0.093289",
+            "ticker_sentiment_score": "0.085429",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.185306",
+            "ticker_sentiment_score": "0.11535",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

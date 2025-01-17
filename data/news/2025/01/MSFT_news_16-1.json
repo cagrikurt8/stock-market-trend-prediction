@@ -1,0 +1,33 @@
+{
+    "title": "Microsoft Bets Big On India's AI Future With $3B Investment - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/25/01/42852041/microsoft-expands-ai-investment-in-india-with-3b-boost-report",
+    "time_published": "20250107T160119",
+    "authors": [
+        "Shivani Kumaresan"
+    ],
+    "summary": "Satya Nadella, chairman and CEO of Microsoft Corp. MSFT, said the company is planning a major $3 billion investment in India, aimed at boosting cloud and AI infrastructure over the next two years. This initiative will include establishing new data centers and equipping 10 million Indians with ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/07/Washington--United-States---April-04-202.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": 0.268781,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.551295",
+            "ticker_sentiment_score": "0.159604",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

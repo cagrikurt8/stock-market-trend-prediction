@@ -1,0 +1,41 @@
+{
+    "title": "Meet Alibaba's AI coder: an automated system that can build an app 'in minutes'",
+    "url": "https://www.scmp.com/tech/big-tech/article/3294096/meet-alibabas-ai-coder-automated-system-can-build-app-minutes",
+    "time_published": "20250110T000014",
+    "authors": [
+        "Ann Cao"
+    ],
+    "summary": "AI coder forms part of Alibaba Cloud's artificial intelligence programming tool called Tongyi Lingma.",
+    "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/09/6651ebaa-69fb-480a-9b18-3d6732591c6f_0e2c23f9.jpg",
+    "source": "South China Morning Post",
+    "category_within_source": "Business",
+    "source_domain": "www.scmp.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.21133,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "BABA",
+            "relevance_score": "0.60999",
+            "ticker_sentiment_score": "0.316794",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.068502",
+            "ticker_sentiment_score": "-0.116404",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SZIHF",
+            "relevance_score": "0.068502",
+            "ticker_sentiment_score": "0.430784",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

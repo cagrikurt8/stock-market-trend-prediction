@@ -1,0 +1,59 @@
+{
+    "title": "My Top Vanguard Index ETF Pick for 2025",
+    "url": "https://www.fool.com/investing/2024/12/21/my-top-vanguard-index-etf-pick-for-2025/",
+    "time_published": "20241221T101500",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "2024 is turning out to be another strong year for the stock market, with the S&P 500 on track for another year of 20%-plus returns. The benchmark index has produced total returns ( including dividends ) of nearly 25% as of this writing.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801410%2Fgettyimages-1964849486.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.998932"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.284992,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.065866",
+            "ticker_sentiment_score": "0.181523",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.131284",
+            "ticker_sentiment_score": "0.203684",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.065866",
+            "ticker_sentiment_score": "0.181523",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.131284",
+            "ticker_sentiment_score": "0.203684",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

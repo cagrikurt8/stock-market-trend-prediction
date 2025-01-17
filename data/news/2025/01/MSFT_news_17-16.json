@@ -1,0 +1,61 @@
+{
+    "title": "Here Are Last Year's Top-Performing Stocks From the S&P 500",
+    "url": "https://www.zacks.com/commentary/2391109/here-are-last-years-top-performing-stocks-from-the-sp-500",
+    "time_published": "20250102T171600",
+    "authors": [
+        "Bryan Hayes"
+    ],
+    "summary": "Late-year selling pressure didn't stop the S&P 500 from logging its best back-to-back annual gain in nearly 30 years.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/76/68348.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.905476"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.328771,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.032736",
+            "ticker_sentiment_score": "0.083968",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.406323",
+            "ticker_sentiment_score": "0.297684",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.194502",
+            "ticker_sentiment_score": "0.065497",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

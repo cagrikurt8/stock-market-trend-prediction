@@ -1,0 +1,155 @@
+{
+    "title": "\"Rule Breaker Investing\" Mailbag: Portfolio-Level Thinking",
+    "url": "https://www.fool.com/investing/2025/01/03/rule-breaker-investing-mailbag-portfolio-level-thi/",
+    "time_published": "20250103T222500",
+    "authors": [
+        "Motley Fool Staff"
+    ],
+    "summary": "From a preschool teacher newly inspired to invest at 73 to a lifelong Fool whose Microsoft shares became a 500-bagger, this year-end mailbag edition brims with transformational stories.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802559/rbi-copy.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.255369,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.013161",
+            "ticker_sentiment_score": "0.025357",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.004387",
+            "ticker_sentiment_score": "0.025143",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.017547",
+            "ticker_sentiment_score": "0.007203",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CSCO",
+            "relevance_score": "0.008774",
+            "ticker_sentiment_score": "0.026031",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TMDX",
+            "relevance_score": "0.035086",
+            "ticker_sentiment_score": "0.145143",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNBR",
+            "relevance_score": "0.008774",
+            "ticker_sentiment_score": "0.082932",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.039469",
+            "ticker_sentiment_score": "0.109449",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SHOP",
+            "relevance_score": "0.004387",
+            "ticker_sentiment_score": "0.025143",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MELI",
+            "relevance_score": "0.004387",
+            "ticker_sentiment_score": "0.025143",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.04385",
+            "ticker_sentiment_score": "0.082567",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SBUX",
+            "relevance_score": "0.013161",
+            "ticker_sentiment_score": "0.026848",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WM",
+            "relevance_score": "0.008774",
+            "ticker_sentiment_score": "0.079567",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MCO",
+            "relevance_score": "0.004387",
+            "ticker_sentiment_score": "0.045697",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MIDD",
+            "relevance_score": "0.004387",
+            "ticker_sentiment_score": "0.095246",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RCL",
+            "relevance_score": "0.030703",
+            "ticker_sentiment_score": "0.038709",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.004387",
+            "ticker_sentiment_score": "0.035662",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.013161",
+            "ticker_sentiment_score": "0.0415",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.008774",
+            "ticker_sentiment_score": "0.079567",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

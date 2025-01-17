@@ -1,0 +1,141 @@
+{
+    "title": "Citigroup Posts Upbeat Results, Joins Goldman Sachs, Wells Fargo, Bank of New York Mellon And Other Big Stocks Moving Higher On Wednesday - Citigroup  ( NYSE:C ) , Bank of New York Mellon  ( NYSE:BK ) ",
+    "url": "https://www.benzinga.com/25/01/43005853/citigroup-posts-upbeat-results-joins-goldman-sachs-wells-fargo-bank-of-new-york-mellon-and-other-big-stocks-movin",
+    "time_published": "20250115T151114",
+    "authors": [
+        "Avi Kapoor"
+    ],
+    "summary": "U.S. stocks were higher, with the Dow Jones index gaining over 650 points on Wednesday. Shares of Citigroup Inc. C rose sharply during Wednesday's session after the company reported better-than-expected fourth-quarter financial results and announced a $20 billion buyback.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/Citi-Custom-Cash-Card.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Trading",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.839681"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.408523,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.328455",
+            "ticker_sentiment_score": "0.375963",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "C",
+            "relevance_score": "0.328455",
+            "ticker_sentiment_score": "0.16844",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SHYF",
+            "relevance_score": "0.249531",
+            "ticker_sentiment_score": "0.517122",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "BK",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.361594",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.174614",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.336549",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.241322",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "COMP",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.398069",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.328455",
+            "ticker_sentiment_score": "0.375963",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "QUBT",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.241322",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CMPGF",
+            "relevance_score": "0.084423",
+            "ticker_sentiment_score": "0.30427",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SOUN",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.362906",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.260265",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "WFC",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.580472",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "TIGO",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UPST",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.362906",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "HOOD",
+            "relevance_score": "0.167904",
+            "ticker_sentiment_score": "0.457933",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

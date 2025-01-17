@@ -1,0 +1,59 @@
+{
+    "title": "Agentic AI to Gain Traction in 2025: 5 Stocks to Watch",
+    "url": "https://www.zacks.com/stock/news/2388249/agentic-ai-to-gain-traction-in-2025-5-stocks-to-watch",
+    "time_published": "20241226T143600",
+    "authors": [
+        "Vasundhara Sawalka"
+    ],
+    "summary": "MSFT, NOW, IBM, GOOGL and NVDA are poised to capture the $45B agentic AI market in 2025 as enterprise adoption accelerates beyond traditional GenAI.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.682689"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.420623,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.115787",
+            "ticker_sentiment_score": "0.224614",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.077343",
+            "ticker_sentiment_score": "0.216652",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IBM",
+            "relevance_score": "0.077343",
+            "ticker_sentiment_score": "0.216652",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NOW",
+            "relevance_score": "0.038717",
+            "ticker_sentiment_score": "0.208574",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

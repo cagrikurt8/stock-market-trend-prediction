@@ -1,0 +1,77 @@
+{
+    "title": "A Handful Of Big Tech Companies Surged By $8 Trillion In Market Value Since ChatGPT's Launch - Marking A New Era",
+    "url": "https://www.benzinga.com/news/24/12/42715768/a-handful-of-big-tech-companies-surged-by-8-trillion-in-market-value-since-chatgpts-launch-marking-a-new-era",
+    "time_published": "20241229T153015",
+    "authors": [
+        "Adrian Volenik"
+    ],
+    "summary": "Over two years ago, OpenAI unveiled ChatGPT, a generative AI chatbot that revolutionized the industry. What began as a small project swiftly grew into the fastest-growing app in history ( before Threads dethroned it later that year ) , currently boasting 200 million active users.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/29/Automate-Routine-Tasks.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.293365,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.112008",
+            "ticker_sentiment_score": "0.124042",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.221819",
+            "ticker_sentiment_score": "0.225535",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.112008",
+            "ticker_sentiment_score": "0.139802",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.056143",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ABNB",
+            "relevance_score": "0.056143",
+            "ticker_sentiment_score": "0.286002",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.056143",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UBER",
+            "relevance_score": "0.056143",
+            "ticker_sentiment_score": "0.286002",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

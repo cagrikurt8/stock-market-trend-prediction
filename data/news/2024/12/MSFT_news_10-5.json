@@ -1,0 +1,63 @@
+{
+    "title": "3 Amazon Stock Predictions for 2025",
+    "url": "https://www.fool.com/investing/2024/12/22/3-amazon-stock-predictions-for-2025/",
+    "time_published": "20241222T100500",
+    "authors": [
+        "Danny Vena"
+    ],
+    "summary": "Even Nostradamus couldn't have predicted the events of 2024. Let's see whether this year will be any easier.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801585%2Fa-runway-labeled-with-2025-and-successive-years-with-a-sunrise-on-the-horizon.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.245053,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.402941",
+            "ticker_sentiment_score": "0.231572",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.208464",
+            "ticker_sentiment_score": "0.115149",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.052685",
+            "ticker_sentiment_score": "0.117964",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.491255",
+            "ticker_sentiment_score": "0.339482",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

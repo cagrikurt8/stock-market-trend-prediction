@@ -1,0 +1,77 @@
+{
+    "title": "2 Stock-Split Artificial Intelligence  ( AI )  Stocks Wall Street Billionaires Are Buying",
+    "url": "https://www.fool.com/investing/2025/01/11/2-stock-split-ai-stocks-wall-st-billionaires-buy/",
+    "time_published": "20250111T080000",
+    "authors": [
+        "Trevor Jennewine"
+    ],
+    "summary": "Billionaire Stanley Druckenmiller of Duquesne Family Office outperformed the S&P 500 ( SNPINDEX: ^GSPC ) by 50 percentage points during the last three years. He purchased 239,980 shares of Broadcom ( NASDAQ: AVGO ) during the third quarter, and it now ranks among his top 15 holdings.Billionaire ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803429/investor-44.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.998932"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.344318,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.058472",
+            "ticker_sentiment_score": "0.093985",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.058472",
+            "ticker_sentiment_score": "0.048014",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.116631",
+            "ticker_sentiment_score": "0.076789",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ANET",
+            "relevance_score": "0.116631",
+            "ticker_sentiment_score": "0.219249",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.49084",
+            "ticker_sentiment_score": "0.444812",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "CSCO",
+            "relevance_score": "0.058472",
+            "ticker_sentiment_score": "0.051028",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ASCCF",
+            "relevance_score": "0.116631",
+            "ticker_sentiment_score": "0.127869",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

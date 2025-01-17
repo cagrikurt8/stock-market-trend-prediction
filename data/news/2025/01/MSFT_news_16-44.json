@@ -1,0 +1,69 @@
+{
+    "title": "3 Technology Investing Trends for 2025",
+    "url": "https://www.zacks.com/commentary/2392347/3-technology-investing-trends-for-2025",
+    "time_published": "20250106T164400",
+    "authors": [
+        "Ethan Feller"
+    ],
+    "summary": "Vertiv, Regetti Computing and Bitcoin offer exposure to three massive technological advancements ...",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3f/61677.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.993856"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.278435,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.035821",
+            "ticker_sentiment_score": "0.04452",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.177671",
+            "ticker_sentiment_score": "0.088181",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VRT",
+            "relevance_score": "0.177671",
+            "ticker_sentiment_score": "0.164867",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.346642",
+            "ticker_sentiment_score": "0.32172",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CRYPTO:QTUM",
+            "relevance_score": "0.142565",
+            "ticker_sentiment_score": "0.075357",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

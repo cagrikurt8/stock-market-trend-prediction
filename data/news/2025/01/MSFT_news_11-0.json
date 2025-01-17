@@ -1,0 +1,39 @@
+{
+    "title": "Here Are Billionaire Philippe Laffont's 5 Biggest Stock Holdings",
+    "url": "https://www.fool.com/investing/2025/01/05/here-are-billionaire-philippe-laffonts-5-biggest/",
+    "time_published": "20250105T110000",
+    "authors": [
+        "Jennifer Saibil"
+    ],
+    "summary": "Large money management companies are required by the Securities and Exchange Commission ( SEC ) to publicly report their trades and holdings. That becomes excellent fodder for the small investor to discuss and dissect. Although billionaire money managers are likely to have different investing ...",
+    "banner_image": "https://media.ycharts.com/charts/347a21a40d38bf38bae9891aa1549bfa.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.650727"
+        }
+    ],
+    "overall_sentiment_score": 0.330797,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "0.224966",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "0.317182",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

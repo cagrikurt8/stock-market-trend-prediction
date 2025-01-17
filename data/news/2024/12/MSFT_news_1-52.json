@@ -1,0 +1,41 @@
+{
+    "title": "Trump Taps Sriram Krishnan As Senior AI Advisor - Elon Musk Agrees New David Sacks Underling 'Right Man For The Topic And The Time' - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) ",
+    "url": "https://www.benzinga.com/24/12/42639812/trump-taps-sriram-krishnan-as-senior-ai-advisor-to-work-closely-with-ai-and-crypto-czar-david-sacks",
+    "time_published": "20241223T015237",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "President-elect Donald Trump has appointed Sriram Krishnan, former general partner at Andreessen Horowitz, as senior policy advisor for AI.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/22/Whats-Driving-This-.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.429497,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.246582",
+            "ticker_sentiment_score": "0.260631",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SNAP",
+            "relevance_score": "0.246582",
+            "ticker_sentiment_score": "0.260631",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.246582",
+            "ticker_sentiment_score": "0.260631",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

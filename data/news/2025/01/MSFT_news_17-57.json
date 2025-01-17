@@ -1,0 +1,53 @@
+{
+    "title": "What's Going On With IonQ Stock Today? - IonQ  ( NYSE:IONQ ) ",
+    "url": "https://www.benzinga.com/25/01/43011494/whats-going-on-with-ionq-stock-today",
+    "time_published": "20250115T175708",
+    "authors": [
+        "Nabaparna Bhattacharya"
+    ],
+    "summary": "IonQ, Inc. IONQ shares rose on Wednesday following NVIDIA Corp's announcement of its first Quantum Day, scheduled for March 20 during GTC 2025. This news comes shortly after CEO Jensen Huang mentioned that practical quantum computing could still take up to two decades to materialize.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/Quantum-ETFs-and-Other-Key-Players-Gain.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.684621"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.275838,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.130217",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.130217",
+            "ticker_sentiment_score": "0.111619",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.674691",
+            "ticker_sentiment_score": "0.496015",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

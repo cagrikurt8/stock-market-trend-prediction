@@ -1,0 +1,56 @@
+{
+    "title": "AI phones could sustain chip sector if data centre spending slows, says Nvidia supplier",
+    "url": "https://www.ft.com/content/54c3d188-9c5d-4664-94c4-366207ef9aad",
+    "time_published": "20241226T020021",
+    "authors": [
+        "David Keohane",
+        "Harry Dempsey"
+    ],
+    "summary": "Advantest chief warns any faltering in Big Tech's AI investments will reverberate through supply chain ...",
+    "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F15b3dec0-ade8-415f-a15b-ded41e9bf5c9.png%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next&fit=scale-down&dpr=2&width=240",
+    "source": "Financial Times",
+    "category_within_source": "Companies",
+    "source_domain": "www.ft.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.05751,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.063933",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.063933",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.063933",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ADTTF",
+            "relevance_score": "0.369685",
+            "ticker_sentiment_score": "0.095346",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

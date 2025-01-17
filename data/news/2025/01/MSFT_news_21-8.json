@@ -1,0 +1,29 @@
+{
+    "title": "Microsoft Highlights 6 AI Trends For 2025 - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/news/large-cap/25/01/42803700/microsoft-highlights-6-ai-trends-for-2025",
+    "time_published": "20250104T210816",
+    "authors": [
+        "Erica Kollmann"
+    ],
+    "summary": "Microsoft expects AI models to become more capable and useful in 2025. AI will enable huge advancements in scientific research, Microsoft says. Microsoft Corp. MSFT listed six AI trends in a December blog post that it expects to shine in 2025.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/04/microsoft-shutter5.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        }
+    ],
+    "overall_sentiment_score": 0.313257,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.694564",
+            "ticker_sentiment_score": "0.63663",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

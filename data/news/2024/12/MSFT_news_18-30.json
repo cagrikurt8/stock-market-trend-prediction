@@ -1,0 +1,43 @@
+{
+    "title": "Bill Gates Expressed Skepticism Towards Bitcoin: 'I Would Short It' If Possible",
+    "url": "https://www.benzinga.com/markets/cryptocurrency/24/12/42716028/bill-gates-expressed-skepticism-towards-bitcoin-i-would-short-it-if-possible",
+    "time_published": "20241229T183018",
+    "authors": [
+        "Bibhu Pattnaik"
+    ],
+    "summary": "Bill Gates challenges Bitcoin's value, likening it to a speculative 'greater fool theory' investment. Despite Bitcoin's popularity, Gates would bet against it, underscoring the cryptocurrency's volatility. Get Monthly Picks of Market's Fastest Movers",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/29/What-Gates-Had-To-Say-.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.769861"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.266143"
+        }
+    ],
+    "overall_sentiment_score": 0.180285,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.112532",
+            "ticker_sentiment_score": "0.026394",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.742397",
+            "ticker_sentiment_score": "-0.00394",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

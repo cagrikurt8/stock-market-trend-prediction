@@ -1,0 +1,79 @@
+{
+    "title": "3 Unstoppable Stocks to Build a Portfolio Around for 2025 and Beyond",
+    "url": "https://www.fool.com/investing/2025/01/04/3-unstoppable-stocks-build-portfolio-2025/",
+    "time_published": "20250104T110600",
+    "authors": [
+        "John Ballard"
+    ],
+    "summary": "The stock market has a long history of delivering wealth-building returns for investors, but the future is inherently uncertain, which is why you never want to put all your eggs in one basket. As long as you own a well-diversified portfolio of growing companies, you should see the value of your ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802527/saving-money-growth-investing.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999941"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.989041"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.278492,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.047278",
+            "ticker_sentiment_score": "0.050082",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AXP",
+            "relevance_score": "0.047278",
+            "ticker_sentiment_score": "0.113426",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.321873",
+            "ticker_sentiment_score": "0.260112",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "KO",
+            "relevance_score": "0.047278",
+            "ticker_sentiment_score": "0.113426",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.40638",
+            "ticker_sentiment_score": "0.287496",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "BRK-A",
+            "relevance_score": "0.09439",
+            "ticker_sentiment_score": "0.215105",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

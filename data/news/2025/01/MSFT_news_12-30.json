@@ -1,0 +1,43 @@
+{
+    "title": "Will Artificial Intelligence  ( AI )  Demand Help Dell Stock Skyrocket in 2025?",
+    "url": "https://www.fool.com/investing/2025/01/02/will-artificial-intelligence-ai-demand-help-dell-s/",
+    "time_published": "20250102T123000",
+    "authors": [
+        "Keithen Drury"
+    ],
+    "summary": "When you think of artificial intelligence ( AI ) computing, Dell Technologies ( NYSE: DELL ) probably isn't the first company you think of. Dell likely reminds you of a laptop or computing station you use at work, not big, powerful AI computing.",
+    "banner_image": "https://media.ycharts.com/charts/fcb0c35e340f4566391c339ce453c50b.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.99992"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.995077"
+        }
+    ],
+    "overall_sentiment_score": 0.294928,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.061159",
+            "ticker_sentiment_score": "0.249219",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "DELL",
+            "relevance_score": "0.121959",
+            "ticker_sentiment_score": "0.103449",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

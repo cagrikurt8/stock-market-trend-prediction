@@ -1,0 +1,63 @@
+{
+    "title": "Market Whales and Their Recent Bets on AMD Options - Advanced Micro Devices  ( NASDAQ:AMD ) ",
+    "url": "https://www.benzinga.com/insights/options/24/12/42627266/market-whales-and-their-recent-bets-on-amd-options",
+    "time_published": "20241220T193026",
+    "authors": [
+        "Benzinga Insights"
+    ],
+    "summary": "Deep-pocketed investors have adopted a bullish approach towards Advanced Micro Devices AMD, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+    "banner_image": "https://www.benzinga.com/files/images/story/2024/1734723023_0.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.980922"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.241853,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.577527",
+            "ticker_sentiment_score": "0.305491",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.063933",
+            "ticker_sentiment_score": "0.111092",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNEJF",
+            "relevance_score": "0.063933",
+            "ticker_sentiment_score": "0.111092",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MS",
+            "relevance_score": "0.063933",
+            "ticker_sentiment_score": "0.053196",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

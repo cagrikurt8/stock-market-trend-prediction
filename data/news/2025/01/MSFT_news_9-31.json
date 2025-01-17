@@ -1,0 +1,33 @@
+{
+    "title": "Billionaire Investor Who Predicted The Dot-Com Crash 25 Years Ago Warns Of Another Market Storm Brewing In The US - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/markets/equities/25/01/42995814/billionaire-investor-who-predicted-the-dot-com-crash-25-years-ago-warns-of-another-market-storm-",
+    "time_published": "20250115T093141",
+    "authors": [
+        "Rishabh Mishra"
+    ],
+    "summary": "Howard Marks latest paper talks about signs that could lead to a bubble. Marks predicted the dot-com bubble 25 years ago. Howard Marks, the co-founder, and co-chairman of Oaktree Capital Management, who predicted the dot-com bubble 25 years ago has alerted investors about cautionary signs in the ...",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/Why-Howard-Marks-Says-Investors-Shouldnt.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.744043"
+        }
+    ],
+    "overall_sentiment_score": 0.165975,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.163354",
+            "ticker_sentiment_score": "0.223743",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

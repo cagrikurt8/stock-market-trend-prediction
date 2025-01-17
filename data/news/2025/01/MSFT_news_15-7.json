@@ -1,0 +1,121 @@
+{
+    "title": "Bitcoin Drops 5% to $95K Amid Market Uncertainty; Nippon Steel Defends $15B US Merger, Criticizes Tariffs as Weak Policy; Micron Invests $7B In Singapore AI Memory Facility - Top Headlines While the U.S. Slept",
+    "url": "https://www.benzinga.com/25/01/42876998/bitcoin-drops-5-to-95k-amid-market-uncertainty-nippon-steel-defends-15b-us-merger-criticizes-tariffs-as-weak-poli",
+    "time_published": "20250108T150702",
+    "authors": [
+        "Akanksha Bakshi"
+    ],
+    "summary": "Bitcoin Slides 5%, Touches $95,000 Mark: Why Is BTC Going Down? What MicroStrategy's ( Declining ) Net Asset Value Premium Really Means For Bitcoin Bitcoin RSI Plunges To 'Oversold' Level Not Seen Since $60K, Signaling Potential Short-Term Recovery",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/08/bitcoin-shutter3.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.684621"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.25"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.25"
+        }
+    ],
+    "overall_sentiment_score": 0.101405,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.153882",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SERV",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.143891",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AYI",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.023073",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.096671",
+            "ticker_sentiment_score": "-0.287438",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "LRHC",
+            "relevance_score": "0.096671",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "C",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.117944",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.096671",
+            "ticker_sentiment_score": "-0.214458",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "SSUMF",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "-0.150884",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "HELE",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.093261",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "XOM",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "-0.35241",
+            "ticker_sentiment_label": "Bearish"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.372912",
+            "ticker_sentiment_score": "-0.062617",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:ETH",
+            "relevance_score": "0.048425",
+            "ticker_sentiment_score": "0.099168",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:DOGE",
+            "relevance_score": "0.144563",
+            "ticker_sentiment_score": "0.002701",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

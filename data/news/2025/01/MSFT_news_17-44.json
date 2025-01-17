@@ -1,0 +1,79 @@
+{
+    "title": "What Is MicroStrategy  ( MSTR ) ? The Bitcoin Treasury Company",
+    "url": "https://decrypt.co/resources/what-is-microstrategy-mstr-the-bitcoin-treasury-company",
+    "time_published": "20250108T174444",
+    "authors": [
+        "Logan Hitchcock"
+    ],
+    "summary": "Software firm MicroStrategy and its co-founder Michael Saylor have become synonymous with Bitcoin. Here's everything you need to know.",
+    "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/microstrategy-learn-gID_7-pID_5.png",
+    "source": "Decrypt.co",
+    "category_within_source": "n/a",
+    "source_domain": "decrypt.co",
+    "topics": [
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.94762"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.451494"
+        }
+    ],
+    "overall_sentiment_score": 0.172257,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "III",
+            "relevance_score": "0.042048",
+            "ticker_sentiment_score": "0.008887",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.042048",
+            "ticker_sentiment_score": "0.083806",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSTR",
+            "relevance_score": "0.731795",
+            "ticker_sentiment_score": "0.295204",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RIOT",
+            "relevance_score": "0.042048",
+            "ticker_sentiment_score": "-0.044345",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FOREX:USD",
+            "relevance_score": "0.042048",
+            "ticker_sentiment_score": "-0.036979",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.873735",
+            "ticker_sentiment_score": "0.317486",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

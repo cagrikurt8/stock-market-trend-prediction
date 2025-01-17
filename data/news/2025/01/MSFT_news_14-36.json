@@ -1,0 +1,105 @@
+{
+    "title": "A Dollar Figure for Artificial General Intelligence",
+    "url": "https://www.fool.com/investing/2025/01/10/a-dollar-figure-for-artificial-general-intelligenc/",
+    "time_published": "20250110T143600",
+    "authors": [
+        "Motley Fool Staff"
+    ],
+    "summary": "Money is the major milestone for how OpenAI and Microsoft are thinking about the holy grail of artificial intelligence - AGI.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802898/openais-magic-number-100b.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        }
+    ],
+    "overall_sentiment_score": 0.12385,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.063526",
+            "ticker_sentiment_score": "0.067267",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.012718",
+            "ticker_sentiment_score": "0.055128",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.006359",
+            "ticker_sentiment_score": "0.037627",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BRK-A",
+            "relevance_score": "0.006359",
+            "ticker_sentiment_score": "0.011512",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IMAX",
+            "relevance_score": "0.044492",
+            "ticker_sentiment_score": "0.112627",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DRI",
+            "relevance_score": "0.019076",
+            "ticker_sentiment_score": "0.019609",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SAM",
+            "relevance_score": "0.012718",
+            "ticker_sentiment_score": "0.034378",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DEO",
+            "relevance_score": "0.006359",
+            "ticker_sentiment_score": "0.026301",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.120367",
+            "ticker_sentiment_score": "0.107207",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

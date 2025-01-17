@@ -1,0 +1,81 @@
+{
+    "title": "The Zacks Analyst Blog Highlights Amazon, Alphabet, Microsoft and Meta Platforms",
+    "url": "https://www.zacks.com/stock/news/2387031/the-zacks-analyst-blog-highlights-amazon-alphabet-microsoft-and-meta-platforms",
+    "time_published": "20241223T163600",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Amazon, Alphabet, Microsoft and Meta Platforms are part of the Zacks top Analyst Blog.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/29/1147.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.962106"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.576289"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.368857,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.265997",
+            "ticker_sentiment_score": "0.202897",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.038717",
+            "ticker_sentiment_score": "0.143936",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.337811",
+            "ticker_sentiment_score": "0.29545",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.038717",
+            "ticker_sentiment_score": "0.203288",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "D",
+            "relevance_score": "0.038717",
+            "ticker_sentiment_score": "0.363907",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "PSIX",
+            "relevance_score": "0.038717",
+            "ticker_sentiment_score": "-0.073409",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.406645",
+            "ticker_sentiment_score": "0.436318",
+            "ticker_sentiment_label": "Bullish"
+        }
+    ]
+}

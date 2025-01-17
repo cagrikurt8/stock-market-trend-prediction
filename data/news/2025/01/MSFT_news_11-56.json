@@ -1,0 +1,69 @@
+{
+    "title": "BB's QNX Unit Undertakes Multiple Strategic Initiatives, Stock Up 11%",
+    "url": "https://www.zacks.com/stock/news/2392659/bbs-qnx-unit-undertakes-multiple-strategic-initiatives-stock-up-11",
+    "time_published": "20250107T115600",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "BlackBerry's QNX fuels auto innovation with new digital cockpit solutions, developer support, an MSFT alliance and a joint platform with Vector and TTTech Auto.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/57/44071.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.108179"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.385678,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "BB",
+            "relevance_score": "0.234458",
+            "ticker_sentiment_score": "0.227179",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.234458",
+            "ticker_sentiment_score": "0.226968",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "IDCC",
+            "relevance_score": "0.142005",
+            "ticker_sentiment_score": "0.216995",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RPBPF",
+            "relevance_score": "0.047559",
+            "ticker_sentiment_score": "0.157678",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QCOM",
+            "relevance_score": "0.18856",
+            "ticker_sentiment_score": "0.294404",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

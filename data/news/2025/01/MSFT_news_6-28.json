@@ -1,0 +1,39 @@
+{
+    "title": "Sam Altman's Sister Files Lawsuit Against OpenAI CEO Alleging Sexual Abuse - Family Respond: 'Deeply Hurtful And Entirely Untrue' - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",
+    "url": "https://www.benzinga.com/25/01/42866539/sam-altmans-sister-files-lawsuit-against-openai-ceo-alleging-sexual-abuse",
+    "time_published": "20250108T062840",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "OpenAI CEO Sam Altman faces allegation from his sister Ann Altman, who filed a lawsuit on Monday claiming sexual abuse, amid multiple legal challenges confronting the artificial intelligence company.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/08/OpenAIs-Sam-Altman-Thanks-Elon-Musk-For-.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": -0.10418,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.122269",
+            "ticker_sentiment_score": "0.09731",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.122269",
+            "ticker_sentiment_score": "0.09731",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "History Says the Nasdaq Will Surge in 2025: 1 AI Stock to Buy Before It Does  ( Hint: It's Not Nvidia ) ",
+    "url": "https://www.fool.com/investing/2024/12/24/history-nasdaq-surge-2025-ai-stock-buy-nvidia/",
+    "time_published": "20241224T102000",
+    "authors": [
+        "Brett Schafer"
+    ],
+    "summary": "The market has gone into overdrive in 2024. Technology stocks especially so. After posting a 55% total return in 2023, the Nasdaq-100 index followed up with 27.5% total returns so far in 2024 ( as of this writing ) . These are two of the strongest years in the index's history.",
+    "banner_image": "https://media.ycharts.com/charts/349ab3cb3bd3b7090bb207d3ed8ee473.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.918141"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972756"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.258771,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.061631",
+            "ticker_sentiment_score": "-0.008059",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.560594",
+            "ticker_sentiment_score": "0.333883",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.061631",
+            "ticker_sentiment_score": "0.188113",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

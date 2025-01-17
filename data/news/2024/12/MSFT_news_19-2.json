@@ -1,0 +1,55 @@
+{
+    "title": "Sam Altman's OpenAI Plans Major Restructuring to Non-Profit Structure Amid Rising Costs - Alphabet  ( NASDAQ:GOOG ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+    "url": "https://www.benzinga.com/media/24/12/42709007/sam-altmans-openai-plans-major-restructuring-to-non-profit-structure-amid-rising-costs",
+    "time_published": "20241227T190212",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "OpenAI plans to restructure into a Public Benefit Corporation in 2025. Elon Musk opposes OpenAI's shift, claiming it abandons nonprofit roots. Get Monthly Picks of Market's Fastest Movers",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/27/Open-AI-CEO-Sam-Altman.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.316726"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.238111,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.173333",
+            "ticker_sentiment_score": "0.137921",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.338582",
+            "ticker_sentiment_score": "-0.168893",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.173333",
+            "ticker_sentiment_score": "-0.098798",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.415927",
+            "ticker_sentiment_score": "-0.044871",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

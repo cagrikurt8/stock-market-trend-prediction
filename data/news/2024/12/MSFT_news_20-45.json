@@ -1,0 +1,37 @@
+{
+    "title": "Microsoft's Options Frenzy: What You Need to Know - Microsoft  ( NASDAQ:MSFT ) ",
+    "url": "https://www.benzinga.com/insights/options/24/12/42694145/microsofts-options-frenzy-what-you-need-to-know",
+    "time_published": "20241226T204524",
+    "authors": [
+        "Benzinga Insights"
+    ],
+    "summary": "Deep-pocketed investors have adopted a bearish approach towards Microsoft MSFT, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+    "banner_image": "https://www.benzinga.com/files/images/story/2024/1735245921_0.png",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.310843"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.413559"
+        }
+    ],
+    "overall_sentiment_score": 0.191587,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.757965",
+            "ticker_sentiment_score": "0.267409",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

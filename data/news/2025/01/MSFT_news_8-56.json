@@ -1,0 +1,73 @@
+{
+    "title": "Jim Cramer Warns 'Day Is Not Near Enough To Justify The Current Valuations' Of Quantum Computing, Nuclear Power Stocks - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",
+    "url": "https://www.benzinga.com/news/global/25/01/42781091/jim-cramer-warns-day-is-not-near-enough-to-justify-the-current-valuations-of-quantum-computing-nuclea",
+    "time_published": "20250103T085639",
+    "authors": [
+        "Kaustubh Bagalkote"
+    ],
+    "summary": "Jim Cramer cautioned investors on Thursday against excessive speculation in quantum computing and nuclear power stocks, despite growing market enthusiasm for both sectors.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/03/Quantum-Computing-Stock-QUBT-Has-More-Th.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "Markets",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        }
+    ],
+    "overall_sentiment_score": -0.017104,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.235823",
+            "ticker_sentiment_score": "0.253512",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QUBT",
+            "relevance_score": "0.235823",
+            "ticker_sentiment_score": "0.396032",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "QBTS",
+            "relevance_score": "0.235823",
+            "ticker_sentiment_score": "0.396032",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "GEV",
+            "relevance_score": "0.119235",
+            "ticker_sentiment_score": "0.066447",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SMR",
+            "relevance_score": "0.235823",
+            "ticker_sentiment_score": "0.104242",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RGTI",
+            "relevance_score": "0.235823",
+            "ticker_sentiment_score": "0.396032",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.235823",
+            "ticker_sentiment_score": "0.253512",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

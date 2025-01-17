@@ -1,0 +1,87 @@
+{
+    "title": "4 Stocks to Watch From the Robust Business-Software Services Industry",
+    "url": "https://www.zacks.com/commentary/2390596/4-stocks-to-watch-from-the-robust-business-software-services-industry",
+    "time_published": "20250102T134900",
+    "authors": [
+        "Anirudha Bhagat"
+    ],
+    "summary": "The Zacks Business-Software Services industry players, such as CTSH, TYL, GWRE and QTWO, are poised to benefit from the robust demand trend for multi-cloud-enabled software solutions.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c6/61969.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.891286"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.980509"
+        },
+        {
+            "topic": "Mergers & Acquisitions",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.288177,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.026328",
+            "ticker_sentiment_score": "0.16896",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SHOP",
+            "relevance_score": "0.026328",
+            "ticker_sentiment_score": "0.16896",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TTRAF",
+            "relevance_score": "0.026328",
+            "ticker_sentiment_score": "0.16896",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.026328",
+            "ticker_sentiment_score": "0.16896",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GWRE",
+            "relevance_score": "0.052627",
+            "ticker_sentiment_score": "0.092003",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TYL",
+            "relevance_score": "0.052627",
+            "ticker_sentiment_score": "0.092003",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CTSH",
+            "relevance_score": "0.052627",
+            "ticker_sentiment_score": "0.092003",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "QTWO",
+            "relevance_score": "0.07887",
+            "ticker_sentiment_score": "0.169069",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

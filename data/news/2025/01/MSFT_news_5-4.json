@@ -1,0 +1,39 @@
+{
+    "title": "Elon Musk Pushes California, Delaware Attorneys-General To Force OpenAI Stake Auction Amid Bitter Legal Battle With Sam Altman - Meta Platforms  ( NASDAQ:META ) , MONARCH STAFFING INC by Monarch Staffing, Inc.  ( OTC:MSTF ) ",
+    "url": "https://www.benzinga.com/news/legal/25/01/42904926/elon-musk-pushes-california-delaware-attorneys-general-to-force-openai-stake-auction-amid-bitter-legal",
+    "time_published": "20250110T050459",
+    "authors": [
+        "Ananya Gairola"
+    ],
+    "summary": "Elon Musk has requested the attorneys-general of California and Delaware to mandate an auction of a substantial portion of OpenAI's stake.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Energy-Policy-Talk.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.244595,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.126784",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.250386",
+            "ticker_sentiment_score": "0.133297",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

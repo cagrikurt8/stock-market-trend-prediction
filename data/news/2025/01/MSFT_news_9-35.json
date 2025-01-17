@@ -1,0 +1,57 @@
+{
+    "title": "My Top Artificial Intelligence  ( AI )  Stock to Buy for 2025  ( Hint: It's Not Nvidia ) ",
+    "url": "https://www.fool.com/investing/2025/01/04/my-top-artificial-intelligence-ai-stock-to-buy-for/",
+    "time_published": "20250104T093500",
+    "authors": [
+        "Prosper Junior Bakiny"
+    ],
+    "summary": "Everyone wants a piece of the artificial intelligence ( AI ) market. Since ChatGPT's release, AI has grabbed countless headlines on Wall Street and helped many companies rise in prominence. There are many options for investors looking to cash in, and no doubt many already have.But which AI stock ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/802432/person-sitting-at-a-desk-looking-at-two-monitors.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.218453,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.124809",
+            "ticker_sentiment_score": "-0.004644",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.062597",
+            "ticker_sentiment_score": "0.065559",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.417501",
+            "ticker_sentiment_score": "0.249685",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

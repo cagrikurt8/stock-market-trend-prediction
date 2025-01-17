@@ -1,0 +1,111 @@
+{
+    "title": "Broadcom Thrives with 114% Stock Surge in AI Boom, While Intel Faces Steep Decline - Broadcom  ( NASDAQ:AVGO ) , Intel  ( NASDAQ:INTC ) ",
+    "url": "https://www.benzinga.com/media/25/01/42762874/broadcom-thrives-with-114-stock-surge-in-ai-boom-while-intel-faces-steep-decline",
+    "time_published": "20250102T130929",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "The year 2024 proved very eventful for the semiconductor companies in the U.S. tech sector. It rewarded those, including Nvidia Corp NVDA and Broadcom Inc AVGO, that successfully tapped the artificial intelligence wave while punishing those that failed, like Intel Corp INTC.",
+    "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/02060246/newplot.png",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.918141"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.77141"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.096523,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.238133",
+            "ticker_sentiment_score": "0.08153",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.455525",
+            "ticker_sentiment_score": "0.146656",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "-0.135115",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.551295",
+            "ticker_sentiment_score": "0.27507",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "QCOM",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "-0.135115",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "INTC",
+            "relevance_score": "0.595343",
+            "ticker_sentiment_score": "-0.039415",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMD",
+            "relevance_score": "0.179788",
+            "ticker_sentiment_score": "0.053402",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "-0.135115",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GS",
+            "relevance_score": "0.060388",
+            "ticker_sentiment_score": "0.036349",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSM",
+            "relevance_score": "0.120431",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

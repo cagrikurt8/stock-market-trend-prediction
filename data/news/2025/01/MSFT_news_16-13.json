@@ -1,0 +1,63 @@
+{
+    "title": "If I Could Buy Only 1 \"Magnificent Seven\" Stock in 2025, This Would Be It",
+    "url": "https://www.fool.com/investing/2025/01/07/if-i-could-only-buy-1-magnificent-seven-stock-2025/",
+    "time_published": "20250107T161300",
+    "authors": [
+        "Adam Spatacco"
+    ],
+    "summary": "2024 was another all-around terrific year for the Magnificent Seven.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802939%2Fgettyimages-1903282976.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.980922"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.495866"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.213782,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "0.291487",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "-0.128965",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.049939",
+            "ticker_sentiment_score": "-0.128965",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.509136",
+            "ticker_sentiment_score": "0.215035",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

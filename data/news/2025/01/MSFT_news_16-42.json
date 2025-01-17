@@ -1,0 +1,75 @@
+{
+    "title": "GOOGL Adds AI Features to Google TV: To Buy or Not to Buy the Stock?",
+    "url": "https://www.zacks.com/stock/news/2393892/googl-adds-ai-features-to-google-tv-to-buy-or-not-to-buy-the-stock",
+    "time_published": "20250108T164200",
+    "authors": [
+        "Aniruddha Ganguly"
+    ],
+    "summary": "Alphabet's expanding AI portfolio is strengthening its position in the cloud, search and smartphone domains despite increasing regulatory headwinds.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a5/689.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.214378"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.614606"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.242784,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.190868",
+            "ticker_sentiment_score": "-0.066077",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.370969",
+            "ticker_sentiment_score": "0.2545",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.076971",
+            "ticker_sentiment_score": "0.123604",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.190868",
+            "ticker_sentiment_score": "-0.066077",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:NANO",
+            "relevance_score": "0.03853",
+            "ticker_sentiment_score": "0.148623",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:SOC",
+            "relevance_score": "0.03853",
+            "ticker_sentiment_score": "0.093597",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

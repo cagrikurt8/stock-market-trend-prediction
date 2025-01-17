@@ -1,0 +1,79 @@
+{
+    "title": "Gaming Conundrum - Balancing Graphics, Budgets, and Player Demand - Microsoft  ( NASDAQ:MSFT ) , Walt Disney  ( NYSE:DIS ) ",
+    "url": "https://www.benzinga.com/24/12/42710321/gaming-at-a-crossroads-balancing-graphics-budgets-and-player-demand",
+    "time_published": "20241227T201808",
+    "authors": [
+        "Anusuya Lahiri"
+    ],
+    "summary": "Video game budgets soar as high-fidelity graphics fail to pay off. Layoffs and closures claim 20,000 gaming jobs in two years. The video game industry is grappling with high budgets for outlandish graphics that fail to generate consistent financial returns.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2024/12/27/Playstation-Sony.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": -0.091658,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "-0.234255",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "-0.024874",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SNEJF",
+            "relevance_score": "0.240489",
+            "ticker_sentiment_score": "-0.04795",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SSTK",
+            "relevance_score": "0.081276",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NYT",
+            "relevance_score": "0.240489",
+            "ticker_sentiment_score": "0.009343",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RBLX",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "0.06653",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "UBSFF",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "-0.024874",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TCTZF",
+            "relevance_score": "0.16171",
+            "ticker_sentiment_score": "-0.324998",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+    ]
+}

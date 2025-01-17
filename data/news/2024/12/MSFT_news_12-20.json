@@ -1,0 +1,81 @@
+{
+    "title": "Zacks Market Edge Highlights: Alphabet, Meta Platforms and Amazon.com",
+    "url": "https://www.zacks.com/stock/news/2387291/zacks-market-edge-highlights-alphabet-meta-platforms-and-amazoncom",
+    "time_published": "20241224T122000",
+    "authors": [
+        "Zacks Equity Research"
+    ],
+    "summary": "Alphabet, Meta Platforms and Amazon.com are part of the Zacks Market Edge article.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/aa/397.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.99393"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.714479"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.233639,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.166551",
+            "ticker_sentiment_score": "0.054002",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.111488",
+            "ticker_sentiment_score": "0.091231",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.166551",
+            "ticker_sentiment_score": "0.102855",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.471856",
+            "ticker_sentiment_score": "0.317173",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.111488",
+            "ticker_sentiment_score": "0.121307",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.166551",
+            "ticker_sentiment_score": "0.096717",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.274012",
+            "ticker_sentiment_score": "0.012494",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

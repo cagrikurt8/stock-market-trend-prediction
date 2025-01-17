@@ -1,0 +1,223 @@
+{
+    "title": "The Year of Concentration, Crypto, China",
+    "url": "https://www.fool.com/investing/2024/12/25/the-year-of-concentration-crypto-china/",
+    "time_published": "20241225T192800",
+    "authors": [
+        "Motley Fool Staff"
+    ],
+    "summary": "2024 was another stellar year for investors, but a lot of money is piling into the same places in the U.S. and globally.",
+    "banner_image": "https://g.foolcdn.com/editorial/images/801258/the-year-of-concentration-crypto-china.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.166667"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.158519"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.166667"
+        }
+    ],
+    "overall_sentiment_score": 0.109657,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "TGT",
+            "relevance_score": "0.03219",
+            "ticker_sentiment_score": "0.018984",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TRGP",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.169292",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MAT",
+            "relevance_score": "0.012879",
+            "ticker_sentiment_score": "0.06801",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.027546",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CVX",
+            "relevance_score": "0.012879",
+            "ticker_sentiment_score": "0.022297",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FNKO",
+            "relevance_score": "0.012879",
+            "ticker_sentiment_score": "0.069432",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "M",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.013724",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.012879",
+            "ticker_sentiment_score": "-0.048058",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "OXY",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.025898",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TPL",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.169292",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FIVE",
+            "relevance_score": "0.012879",
+            "ticker_sentiment_score": "0.16758",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.027546",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SPGI",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "-0.009189",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CMG",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.0",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NFLX",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.027546",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.038623",
+            "ticker_sentiment_score": "0.037864",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IBKR",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.077759",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRWD",
+            "relevance_score": "0.019317",
+            "ticker_sentiment_score": "-0.13013",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CEG",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.169292",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "KO",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.025898",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NTDOF",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.102318",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VST",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.169292",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GEV",
+            "relevance_score": "0.00644",
+            "ticker_sentiment_score": "0.169292",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "HAS",
+            "relevance_score": "0.012879",
+            "ticker_sentiment_score": "0.061102",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.012879",
+            "ticker_sentiment_score": "0.00331",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.025755",
+            "ticker_sentiment_score": "0.006399",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FOREX:JPY",
+            "relevance_score": "0.025755",
+            "ticker_sentiment_score": "-0.081846",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "CRYPTO:BTC",
+            "relevance_score": "0.038623",
+            "ticker_sentiment_score": "0.048364",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

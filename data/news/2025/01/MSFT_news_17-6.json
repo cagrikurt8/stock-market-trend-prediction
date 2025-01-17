@@ -1,0 +1,49 @@
+{
+    "title": "What's Going On With Arqit Quantum  ( ARQQ )  Stock? - Arqit Quantum  ( NASDAQ:ARQQ ) ",
+    "url": "https://www.benzinga.com/news/25/01/43010353/whats-going-on-with-arqit-quantum-arqq-stock",
+    "time_published": "20250115T170641",
+    "authors": [
+        "Henry Khederian"
+    ],
+    "summary": "Arqit Quantum shares surged 16.4% during Wednesday's session. Wednesday's rise follows Microsoft's quantum plans for 2025 and NVIDIA's first Quantum Day showcasing field advancements. Get daily trade setups, exclusive stock picks, and real-time alerts today.",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/15/eye-6318412.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.938793"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.324225,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.111488",
+            "ticker_sentiment_score": "0.161047",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.111488",
+            "ticker_sentiment_score": "0.161047",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "ARQQ",
+            "relevance_score": "0.516656",
+            "ticker_sentiment_score": "0.261833",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

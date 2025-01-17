@@ -1,0 +1,51 @@
+{
+    "title": "MAGA's war on talent frightens CEOs-and angers Elon Musk",
+    "url": "https://www.economist.com/business/2025/01/02/magas-war-on-talent-frightens-ceos-and-angers-elon-musk",
+    "time_published": "20250102T140625",
+    "authors": [
+        "The Economist"
+    ],
+    "summary": "American businesses' ability to tap the world's human capital is under threat ...",
+    "banner_image": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20250104_DE_US.jpg",
+    "source": "The Economist",
+    "category_within_source": "Business",
+    "source_domain": "www.economist.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.232887,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.436009",
+            "ticker_sentiment_score": "0.283759",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.436009",
+            "ticker_sentiment_score": "0.283759",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.436009",
+            "ticker_sentiment_score": "0.283759",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.436009",
+            "ticker_sentiment_score": "0.283759",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

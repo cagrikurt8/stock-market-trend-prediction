@@ -1,0 +1,43 @@
+{
+    "title": "1 Vanguard ETF I'm Buying in 2025 and Holding Forever",
+    "url": "https://www.fool.com/investing/2025/01/05/1-vanguard-etf-im-buying-in-2025-and-holding-forev/",
+    "time_published": "20250105T170000",
+    "authors": [
+        "Katie Brockman"
+    ],
+    "summary": "The right investment has the power to transform your portfolio, and exchange-traded funds ( ETFs ) can be a smart way to supercharge your savings with very little effort.An ETF is a group of securities bundled together into a single investment.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802578%2Fperson-looking-at-a-phone-and-smiling.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.176256,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.114682",
+            "ticker_sentiment_score": "-0.004525",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.114682",
+            "ticker_sentiment_score": "-0.004525",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

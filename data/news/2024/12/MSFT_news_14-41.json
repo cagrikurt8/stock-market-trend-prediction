@@ -1,0 +1,59 @@
+{
+    "title": "MSCI Shares Up 27% in the Past 6 Months: Is There More Room to Jump?",
+    "url": "https://www.zacks.com/stock/news/2389452/msci-shares-up-27-in-the-past-6-months-is-there-more-room-to-jump",
+    "time_published": "20241230T144100",
+    "authors": [
+        "Zacks Investment Research"
+    ],
+    "summary": "MSCI benefits from strong ESG solutions and partnerships despite tighter spending and rising competition.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6d/60367.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.365926"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.839681"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.320402,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MCO",
+            "relevance_score": "0.265378",
+            "ticker_sentiment_score": "0.219601",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MSCI",
+            "relevance_score": "0.690822",
+            "ticker_sentiment_score": "0.548396",
+            "ticker_sentiment_label": "Bullish"
+        },
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.200688",
+            "ticker_sentiment_score": "0.188927",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "MORN",
+            "relevance_score": "0.200688",
+            "ticker_sentiment_score": "0.062273",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

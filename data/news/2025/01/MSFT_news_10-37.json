@@ -1,0 +1,51 @@
+{
+    "title": "2 AI Stocks That Could Supercharge Your Portfolio",
+    "url": "https://www.fool.com/investing/2025/01/11/2-ai-stocks-that-could-supercharge-your-portfolio/",
+    "time_published": "20250111T103700",
+    "authors": [
+        "Timothy Green"
+    ],
+    "summary": "The AI revolution may still be in its early innings as tech giants and start-ups invest mountains of cash into AI infrastructure. Microsoft is reportedly set to spend an incredible $80 billion on AI data centers this year, a strong sign that heavy spending on AI is going to continue in the ...",
+    "banner_image": "https://g.foolcdn.com/editorial/images/803465/ai-robot-hand-building-coin-stacks.jpg",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.5"
+        }
+    ],
+    "overall_sentiment_score": 0.2294,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.098054",
+            "ticker_sentiment_score": "0.101476",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NET",
+            "relevance_score": "0.420705",
+            "ticker_sentiment_score": "0.328123",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.04912",
+            "ticker_sentiment_score": "0.122066",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DOCN",
+            "relevance_score": "0.377855",
+            "ticker_sentiment_score": "0.203559",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

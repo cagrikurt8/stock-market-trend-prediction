@@ -1,0 +1,59 @@
+{
+    "title": "The Best Stocks to Invest $50,000 in Right Now",
+    "url": "https://www.fool.com/investing/2024/12/27/the-best-stocks-to-invest-50000-in-right-now/",
+    "time_published": "20241227T110000",
+    "authors": [
+        "Geoffrey Seiler"
+    ],
+    "summary": "If you're going to invest big, it's often a good idea to invest in industry leaders that have solid growth still in front of them. Let's look at a few technology industry leaders that still trade at reasonable valuations, and that should continue to be long-term winners thanks to their wide moats ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802096%2Fgettyimages-1483780995.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.161647"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.417688,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.224903",
+            "ticker_sentiment_score": "0.315607",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.224903",
+            "ticker_sentiment_score": "0.201032",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.090989",
+            "ticker_sentiment_score": "0.166656",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.224903",
+            "ticker_sentiment_score": "0.262586",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

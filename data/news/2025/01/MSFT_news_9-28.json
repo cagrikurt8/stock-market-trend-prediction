@@ -1,0 +1,69 @@
+{
+    "title": "These 5 Artificial Intelligence  ( AI )  Stocks Make Up 28.8% of the Entire S&P 500 Index",
+    "url": "https://www.fool.com/investing/2025/01/03/these-5-ai-stocks-make-288-entire-sp-500-index/",
+    "time_published": "20250103T092800",
+    "authors": [
+        "Anthony Di Pizio"
+    ],
+    "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) is home to 500 companies from 11 different sectors of the economy, making it the most diversified of the major U.S. stock market indexes.But the S&P is weighted by market capitalization, so the largest companies have a greater influence over its performance than ...",
+    "banner_image": "https://media.ycharts.com/charts/224a50a248e628018863e21cf7cfda1e.png",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.684621"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.972756"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.144292,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.100168",
+            "ticker_sentiment_score": "0.027661",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "GOOG",
+            "relevance_score": "0.166169",
+            "ticker_sentiment_score": "0.116972",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.100168",
+            "ticker_sentiment_score": "-0.007489",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AAPL",
+            "relevance_score": "0.198764",
+            "ticker_sentiment_score": "0.159981",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AMZN",
+            "relevance_score": "0.133285",
+            "ticker_sentiment_score": "0.046225",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

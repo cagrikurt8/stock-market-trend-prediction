@@ -1,0 +1,75 @@
+{
+    "title": "AI Optimism Fueling Semiconductor Sales: 4 Stocks With Growth Potential",
+    "url": "https://www.zacks.com/stock/news/2393570/ai-optimism-fueling-semiconductor-sales-4-stocks-with-growth-potential",
+    "time_published": "20250108T140100",
+    "authors": [
+        "Ritujay Ghosh"
+    ],
+    "summary": "Stocks like NVDA, AVGO, MTSI and SMTC are poised to gain from the soaring semiconductor sales.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/75/1256.jpg",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.538269"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.998626"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.5"
+        },
+        {
+            "topic": "Blockchain",
+            "relevance_score": "0.158519"
+        }
+    ],
+    "overall_sentiment_score": 0.291976,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.13409",
+            "ticker_sentiment_score": "0.07734",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "MTSI",
+            "relevance_score": "0.264419",
+            "ticker_sentiment_score": "0.209523",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.306416",
+            "ticker_sentiment_score": "0.304409",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.221616",
+            "ticker_sentiment_score": "0.195283",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SMTC",
+            "relevance_score": "0.17813",
+            "ticker_sentiment_score": "0.197397",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "FOREX:AMD",
+            "relevance_score": "0.044885",
+            "ticker_sentiment_score": "0.130809",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

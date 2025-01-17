@@ -1,0 +1,113 @@
+{
+    "title": "3 Bold Stock Market Predictions for 2025",
+    "url": "https://www.fool.com/investing/2024/12/22/3-bold-stock-market-predictions-for-2025/",
+    "time_published": "20241222T130000",
+    "authors": [
+        "Justin Pope",
+        "and Will Healy",
+        "Jake Lerch"
+    ],
+    "summary": "The year is almost over, and it's time to make some bold predictions for 2025.In this article, three Motley Fool contributors draw on their experience to forecast what may be in store for the stock market next year. Here's what they have to say about Artificial Intelligence ( AI ) software ...",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801433%2Farkk-stock-market-chart.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.682689"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.333333"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.333333"
+        }
+    ],
+    "overall_sentiment_score": 0.279794,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.036146",
+            "ticker_sentiment_score": "0.291855",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "META",
+            "relevance_score": "0.072217",
+            "ticker_sentiment_score": "0.184529",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.108141",
+            "ticker_sentiment_score": "0.13365",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ROKU",
+            "relevance_score": "0.108141",
+            "ticker_sentiment_score": "0.029578",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.036146",
+            "ticker_sentiment_score": "-0.028387",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SOUN",
+            "relevance_score": "0.072217",
+            "ticker_sentiment_score": "0.053292",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "TSLA",
+            "relevance_score": "0.214304",
+            "ticker_sentiment_score": "0.217328",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RDDT",
+            "relevance_score": "0.036146",
+            "ticker_sentiment_score": "0.135732",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "RBLX",
+            "relevance_score": "0.072217",
+            "ticker_sentiment_score": "0.08589",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "ARM",
+            "relevance_score": "0.036146",
+            "ticker_sentiment_score": "-0.028387",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "HOOD",
+            "relevance_score": "0.072217",
+            "ticker_sentiment_score": "0.08589",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "DUOL",
+            "relevance_score": "0.072217",
+            "ticker_sentiment_score": "0.142045",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}

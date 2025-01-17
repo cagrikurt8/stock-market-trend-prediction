@@ -1,0 +1,107 @@
+{
+    "title": "All 10 of These Stocks More Than Doubled in 2024. Here Are the 5 I Want to Buy Now Heading Into 2025.",
+    "url": "https://www.fool.com/investing/2025/01/13/all-10-of-these-stocks-more-than-doubled-in-2024-h/",
+    "time_published": "20250113T083500",
+    "authors": [
+        "Jake Lerch"
+    ],
+    "summary": "Another great year for the stock market is in the books. The S&P 500 ( SNPINDEX: ^GSPC ) , Nasdaq Composite ( NASDAQINDEX: ^IXIC ) , and Dow Jones Industrial Average ( DJINDICES: ^DJI ) finished the year up 23%, 29%, and 13%, respectively.Yet some stocks put those figures to shame.",
+    "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802163%2Frklb-rocket-lab-nvda-nvidia-stock-market-investment.jpg&op=resize&w=700",
+    "source": "Motley Fool",
+    "category_within_source": "n/a",
+    "source_domain": "www.fool.com",
+    "topics": [
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.999499"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.2"
+        },
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.993856"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.2"
+        }
+    ],
+    "overall_sentiment_score": 0.22515,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.162368",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "APP",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.072188",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NVDA",
+            "relevance_score": "0.213423",
+            "ticker_sentiment_score": "0.073776",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "AVGO",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.072188",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "SPOT",
+            "relevance_score": "0.129052",
+            "ticker_sentiment_score": "0.219753",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "XOM",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.162368",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "RKLB",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.081119",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "IONQ",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.081119",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "PLTR",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.072188",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "WMT",
+            "relevance_score": "0.043186",
+            "ticker_sentiment_score": "0.162368",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

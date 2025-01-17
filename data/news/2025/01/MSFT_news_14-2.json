@@ -1,0 +1,37 @@
+{
+    "title": "ControlUp Names Beau Dolinsky, Vice President of Customer Experience",
+    "url": "https://www.benzinga.com/pressreleases/25/01/g42813942/controlup-names-beau-dolinsky-vice-president-of-customer-experience",
+    "time_published": "20250106T140200",
+    "authors": [
+        "Globe Newswire"
+    ],
+    "summary": "SAN FRANCISCO, Jan. 06, 2025 ( GLOBE NEWSWIRE ) -- ControlUp, at the forefront of Digital Employee Experience ( DEX ) management, today announced that Beau Dolinsky has been appointed as the company's Vice President of Customer Experience.",
+    "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+    "source": "Benzinga",
+    "category_within_source": "News",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+        {
+            "topic": "Earnings",
+            "relevance_score": "0.684621"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "1.0"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.108179"
+        }
+    ],
+    "overall_sentiment_score": 0.537304,
+    "overall_sentiment_label": "Bullish",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.081001",
+            "ticker_sentiment_score": "0.289891",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+    ]
+}

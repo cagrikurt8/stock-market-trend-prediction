@@ -1,0 +1,113 @@
+{
+    "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
+    "url": "https://www.cnbc.com/2024/12/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+    "time_published": "20241220T140752",
+    "authors": [],
+    "summary": "Wall Street was back in the soup Friday morning but trimming some losses on a cooler inflation reading.",
+    "banner_image": null,
+    "source": "CNBC",
+    "category_within_source": "Top News",
+    "source_domain": "www.cnbc.com",
+    "topics": [
+        {
+            "topic": "Life Sciences",
+            "relevance_score": "0.142857"
+        },
+        {
+            "topic": "Energy & Transportation",
+            "relevance_score": "0.142857"
+        },
+        {
+            "topic": "Technology",
+            "relevance_score": "0.142857"
+        },
+        {
+            "topic": "Finance",
+            "relevance_score": "0.142857"
+        },
+        {
+            "topic": "Economy - Monetary",
+            "relevance_score": "0.451494"
+        },
+        {
+            "topic": "Retail & Wholesale",
+            "relevance_score": "0.142857"
+        },
+        {
+            "topic": "Financial Markets",
+            "relevance_score": "0.94762"
+        },
+        {
+            "topic": "Manufacturing",
+            "relevance_score": "0.142857"
+        },
+        {
+            "topic": "Real Estate & Construction",
+            "relevance_score": "0.142857"
+        }
+    ],
+    "overall_sentiment_score": 0.065197,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+        {
+            "ticker": "MSFT",
+            "relevance_score": "0.049019",
+            "ticker_sentiment_score": "0.323421",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "CVS",
+            "relevance_score": "0.097854",
+            "ticker_sentiment_score": "0.089082",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "OXY",
+            "relevance_score": "0.049019",
+            "ticker_sentiment_score": "0.128036",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "LEN",
+            "relevance_score": "0.049019",
+            "ticker_sentiment_score": "-0.167011",
+            "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+            "ticker": "NVO",
+            "relevance_score": "0.049019",
+            "ticker_sentiment_score": "-0.039857",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "BRK-A",
+            "relevance_score": "0.049019",
+            "ticker_sentiment_score": "0.128036",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "NKE",
+            "relevance_score": "0.097854",
+            "ticker_sentiment_score": "-0.02276",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "FDX",
+            "relevance_score": "0.097854",
+            "ticker_sentiment_score": "0.186734",
+            "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "ticker": "SIRI",
+            "relevance_score": "0.049019",
+            "ticker_sentiment_score": "0.128036",
+            "ticker_sentiment_label": "Neutral"
+        },
+        {
+            "ticker": "VRSN",
+            "relevance_score": "0.049019",
+            "ticker_sentiment_score": "0.128036",
+            "ticker_sentiment_label": "Neutral"
+        }
+    ]
+}
